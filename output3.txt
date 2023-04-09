@@ -1,0 +1,4752 @@
+Problem #1
+Answer from Original: 2
+Answer from ChatGPT : 2
+
+Problem #10
+Answer from Original: 10
+Answer from ChatGPT : 18
+
+Problem #1001
+Answer from Original: 9/7
+Answer from ChatGPT : 2/7
+
+Problem #1002
+Answer from Original: i
+Answer from ChatGPT : 0
+
+Problem #1004
+Answer from Original: 4
+Answer from ChatGPT : 2.
+
+Problem #1009
+Answer from Original: 402
+Answer from ChatGPT : 241
+
+Problem #101
+Answer from Original: xin[-2,7]
+Answer from ChatGPT : {operation:([-infinity,-1]union[6,infinity])}
+
+Problem #1014
+Answer from Original: 7
+Answer from ChatGPT : 5
+
+Problem #1017
+Answer from Original: 4,6,14,15
+Answer from ChatGPT : 1,3,6,10
+
+Problem #1019
+Answer from Original: -1/8
+Answer from ChatGPT : -1/7
+
+Problem #1020
+Answer from Original: (x+2)/7
+Answer from ChatGPT : -1)(x)=\frac(1/7
+
+Problem #1022
+Answer from Original: -15
+Answer from ChatGPT : Nosolution.
+
+Problem #1023
+Answer from Original: 10
+Answer from ChatGPT : 10
+
+Problem #1025
+Answer from Original: 8
+Answer from ChatGPT : 5and7,so5+7=12.Therefore,thesumofthecoordinatesofthemidpointofthissegmentis12.
+
+Problem #1026
+Answer from Original: 75
+Answer from ChatGPT : 130
+
+Problem #1031
+Answer from Original: 11/(2))
+Answer from ChatGPT : 2.5
+
+Problem #1032
+Answer from Original: -25
+Answer from ChatGPT : {answer:-25}
+
+Problem #1034
+Answer from Original: 8
+Answer from ChatGPT : 1930.
+
+Problem #1035
+Answer from Original: 3
+Answer from ChatGPT : 130Treeksareequalinweightto1Squig.
+
+Problem #104
+Answer from Original: 187.5
+Answer from ChatGPT : 150.
+
+Problem #1042
+Answer from Original: 18
+Answer from ChatGPT : [{input:count(2<=n<=499andisprime(n)),output:5}]
+
+Problem #1043
+Answer from Original: 40
+Answer from ChatGPT : {operation:1.25*2^4}Theansweris\20.
+
+Problem #1044
+Answer from Original: 5
+Answer from ChatGPT : 11
+
+Problem #1049
+Answer from Original: 8
+Answer from ChatGPT : {expression:4*3.67/1.835,precision:2}
+
+Problem #1050
+Answer from Original: 3125
+Answer from ChatGPT : 1250.
+
+Problem #1051
+Answer from Original: [0,infty)
+Answer from ChatGPT : Therangeofthefunctionf(x)=\sqrt{x^2}is[0,\infty).
+
+Problem #1057
+Answer from Original: .5
+Answer from ChatGPT : -4.5
+
+Problem #1060
+Answer from Original: 12,10,6
+Answer from ChatGPT : c=\Box
+
+Problem #1063
+Answer from Original: 5
+Answer from ChatGPT : 8.
+
+Problem #1065
+Answer from Original: 16
+Answer from ChatGPT : {expression:48b-144=0,variables:[b],solution:b=3}
+
+Problem #1069
+Answer from Original: 2300
+Answer from ChatGPT : Thecostoffivepoundsoffeathersandfiveouncesofgoldis\493.
+
+Problem #107
+Answer from Original: 5
+Answer from ChatGPT : r=\sqrt{(-b/2)^2-c}wherebisthecoefficientofthelineartermandcistheconstanttermofthecircleequation.Therefore,r=\sqrt{(-(8)/2)^2-(-6)}=\sqrt{4^2+6}=\sqrt{22}.Hence,theradiusofthecircleis\sqrt{22}.
+
+Problem #1070
+Answer from Original: 105
+Answer from ChatGPT : 177.
+
+Problem #1071
+Answer from Original: -13.5
+Answer from ChatGPT : {p+q:-11.7}
+
+Problem #1072
+Answer from Original: 243/625
+Answer from ChatGPT : 625/4782969
+
+Problem #1075
+Answer from Original: 2
+Answer from ChatGPT : 6.
+
+Problem #1078
+Answer from Original: (-sqrt(3),sqrt(3))
+Answer from ChatGPT : (-2,1)
+
+Problem #1082
+Answer from Original: 23
+Answer from ChatGPT : 15
+
+Problem #1084
+Answer from Original: 49
+Answer from ChatGPT : (7,49)
+
+Problem #1088
+Answer from Original: 2x^9-8x^7+9x^6-16x^5-12x^4+9x^3-24x^2
+Answer from ChatGPT : errorgettingananswer
+
+Problem #1089
+Answer from Original: (-infty,-8)cup(8,infty)
+Answer from ChatGPT : (-infty,0)
+
+Problem #109
+Answer from Original: 0
+Answer from ChatGPT : {Operation:Substitute,Expression:3*4+2*y=12,Unknown:y}{Solution:3*4+2*y=12,Unknown:y}{Solution:-6}
+
+Problem #1092
+Answer from Original: 2
+Answer from ChatGPT : Nosolution.
+
+Problem #1095
+Answer from Original: 16
+Answer from ChatGPT : 28dollars.
+
+Problem #1097
+Answer from Original: 1/12
+Answer from ChatGPT : 7/8
+
+Problem #1098
+Answer from Original: 6+9i
+Answer from ChatGPT : {operation:(1+2i)*6-3i}<br>{result:9+9i}
+
+Problem #11
+Answer from Original: 2
+Answer from ChatGPT : 14
+
+Problem #110
+Answer from Original: 20
+Answer from ChatGPT : 20
+
+Problem #1102
+Answer from Original: 7(x+3)(x-3)
+Answer from ChatGPT : 7(x+3)(x-3)
+
+Problem #1103
+Answer from Original: y^4-2y^3+7y^2+y-5
+Answer from ChatGPT : {operation:add,operands:[{polynomial:[1,-3,1,-3]},{polynomial:[1,7,0,-2]}]}Theanswerisy^4-3y^3+y^3+7y^2+y-5.
+
+Problem #1107
+Answer from Original: 4
+Answer from ChatGPT : 4
+
+Problem #1108
+Answer from Original: 0
+Answer from ChatGPT : Theansweris0.
+
+Problem #1111
+Answer from Original: 12
+Answer from ChatGPT : Nosolution.
+
+Problem #1112
+Answer from Original: 7/2
+Answer from ChatGPT : 1/3
+
+Problem #1114
+Answer from Original: 69
+Answer from ChatGPT : Thelargesttwhichwillbringtheamusementparkaprofitgreaterthan\4200is100.**Solution:**Thecostofoneticketis\70.TherevenuefromtticketsisR=70t.TheprofitisgivenbyP(t)=R(t)-C(t),whereC(t)isthecostfunctionforttickets.Ift\leq60,thenC(t)=50t+800.Ift>60,thenC(t)=70\cdot60+(t-60)(50+70-(t-60)).Wefindthatthebreak-evenpointist=70.Thus,ift>70,wehaveP(t)=70t-[70\cdot60+(t-60)(50+70-(t-60))].Simplifying,wegetP(t)=-t^2+140t-4200=-(t-100)(t-40).Hence,themaximumtwhichwillbringtheamusementparkaprofitgreaterthan\4200ist=100.
+
+Problem #1115
+Answer from Original: 5
+Answer from ChatGPT : 14.
+
+Problem #1123
+Answer from Original: -1/2
+Answer from ChatGPT : 1)(2))\cup(-\frac(1/2
+
+Problem #1125
+Answer from Original: 2/5
+Answer from ChatGPT : 3/5
+
+Problem #1128
+Answer from Original: 7
+Answer from ChatGPT : 1.Weneedtofindthevalueoff^{-1}(3)first.2.f(4)=3impliesf^{-1}(3)=4.3.Thusf^{-1}(f^{-1}(3))=f^{-1}(4).4.Todeterminethevalueoff^{-1}(4),weneedtofindxsuchthatf(x)=4.5.Fromtheinformationgiven,f(7)=4.6.Therefore,f^{-1}(4)=7.Thusf^{-1}(f^{-1}(3))=f^{-1}(4)=7.Sotheansweris7.
+
+Problem #1129
+Answer from Original: 20
+Answer from ChatGPT : Output:21+3i
+
+Problem #113
+Answer from Original: 7
+Answer from ChatGPT : 7.0
+
+Problem #1133
+Answer from Original: sqrt(x)).end(align*
+Answer from ChatGPT : \sqrt{x^5}.
+
+Problem #1135
+Answer from Original: 78
+Answer from ChatGPT : abc=231,wherea=11,b=13,andc=2.
+
+Problem #1138
+Answer from Original: 9
+Answer from ChatGPT : 108.
+
+Problem #114
+Answer from Original: 4
+Answer from ChatGPT : 16.
+
+Problem #1142
+Answer from Original: 6
+Answer from ChatGPT : 1.5.
+
+Problem #1143
+Answer from Original: 17
+Answer from ChatGPT : 58.5
+
+Problem #1144
+Answer from Original: 9/2
+Answer from ChatGPT : {midpoint:{coords:[[5,3],[-3,6]]}}
+
+Problem #1145
+Answer from Original: 15/2
+Answer from ChatGPT : 32767/65536
+
+Problem #1147
+Answer from Original: -2
+Answer from ChatGPT : h=-2
+
+Problem #1149
+Answer from Original: 8
+Answer from ChatGPT : {solution:54}
+
+Problem #1151
+Answer from Original: 20
+Answer from ChatGPT : Thegreaterofthetwonumbersbefore8isaddedtoitis70.
+
+Problem #1157
+Answer from Original: 24
+Answer from ChatGPT : 224/21or1014/21
+
+Problem #116
+Answer from Original: 19/4
+Answer from ChatGPT : 33/2
+
+Problem #1160
+Answer from Original: 5
+Answer from ChatGPT : \{-5}
+
+Problem #1164
+Answer from Original: -55
+Answer from ChatGPT : 740.
+
+Problem #1165
+Answer from Original: 60
+Answer from ChatGPT : 180
+
+Problem #1166
+Answer from Original: -7
+Answer from ChatGPT : 2x-1)(2x+2)=\frac(x-3)(x-1)(2x-1)(x-1)=(x-3)(2x+2)2x^2-3x-3=0Usingthequadraticformula,weget:x_1=\frac(3-\sqrt(21))(4)\approx-0.69\quad\text(and)\quadx_2=\frac(3+\sqrt(21))(4)\approx1.69Therefore,thevaluesofxwhichsatisfiestheequationarex_1=\frac(3-\sqrt(21))(4)andx_2=\frac(3+\sqrt(21)/4
+
+Problem #1168
+Answer from Original: 0.43
+Answer from ChatGPT : 1.01seconds
+
+Problem #1169
+Answer from Original: 108
+Answer from ChatGPT : errorgettingananswer
+
+Problem #1170
+Answer from Original: 4950
+Answer from ChatGPT : 17850.
+
+Problem #1179
+Answer from Original: 50
+Answer from ChatGPT : x=8isasolution.
+
+Problem #1180
+Answer from Original: 14
+Answer from ChatGPT : Answer:9
+
+Problem #1181
+Answer from Original: 8
+Answer from ChatGPT : Answer:32
+
+Problem #1182
+Answer from Original: 26
+Answer from ChatGPT : 3\ast10=2(3)+5(10)-3\cdot10=6+50-30=26
+
+Problem #1184
+Answer from Original: 129
+Answer from ChatGPT : 1953.
+
+Problem #1185
+Answer from Original: 0
+Answer from ChatGPT : 0
+
+Problem #1187
+Answer from Original: -5
+Answer from ChatGPT : {result:-14}
+
+Problem #119
+Answer from Original: 2
+Answer from ChatGPT : e=4,d=17
+
+Problem #1190
+Answer from Original: 4
+Answer from ChatGPT : Theexpressionx^2-6x+13isequalto(x-3)^2+4.Thesquareofarealnumberisnonnegative,sothesmallestpossiblevalueofthisexpressioniswhen(x-3)^2=0(whichoccurswhenx=3),sothesmallestpossiblevalueofx^2-6x+13is4.
+
+Problem #1195
+Answer from Original: 30
+Answer from ChatGPT : 74.
+
+Problem #1197
+Answer from Original: 161
+Answer from ChatGPT : 41
+
+Problem #1199
+Answer from Original: 1
+Answer from ChatGPT : 4
+
+Problem #1203
+Answer from Original: 5
+Answer from ChatGPT : 5
+
+Problem #1206
+Answer from Original: 3s^2
+Answer from ChatGPT : 3s^2
+
+Problem #1208
+Answer from Original: 125
+Answer from ChatGPT : {solution:252}
+
+Problem #1209
+Answer from Original: 8
+Answer from ChatGPT : 6
+
+Problem #1210
+Answer from Original: 286
+Answer from ChatGPT : Answer:184.
+
+Problem #1212
+Answer from Original: (9,11)
+Answer from ChatGPT : (11,17)isnotontheline.
+
+Problem #1213
+Answer from Original: 1/5
+Answer from ChatGPT : x+5)(3)2.f^(-1)(x)=3x-53.f^(-1)(3)=44.g(x)=\dfrac(1)(f^(-1)(x)+1)5.g(3)=\dfrac(1)(f^(-1)(3)+1)6.g(3)=\dfrac(1)(4+1)7.g(3)=\dfrac(1)(5)Therefore,g(3)=\dfrac(1/5
+
+Problem #1214
+Answer from Original: 1
+Answer from ChatGPT : 2
+
+Problem #1220
+Answer from Original: 0
+Answer from ChatGPT : -192
+
+Problem #1221
+Answer from Original: 6
+Answer from ChatGPT : 6.0
+
+Problem #1226
+Answer from Original: 2x(15x^2-4x+10)
+Answer from ChatGPT : 2x(5x^2-2x+5)
+
+Problem #1227
+Answer from Original: 106
+Answer from ChatGPT : 127.
+
+Problem #123
+Answer from Original: 10
+Answer from ChatGPT : {answer:15}
+
+Problem #1231
+Answer from Original: 26
+Answer from ChatGPT : 10
+
+Problem #1233
+Answer from Original: 47
+Answer from ChatGPT : 544feet.
+
+Problem #1234
+Answer from Original: 18
+Answer from ChatGPT : x=9
+
+Problem #1238
+Answer from Original: 5
+Answer from ChatGPT : 11.
+
+Problem #1239
+Answer from Original: (sqrt7)/(14))
+Answer from ChatGPT : \\sqrt7/14
+
+Problem #1241
+Answer from Original: -6
+Answer from ChatGPT : -13
+
+Problem #1246
+Answer from Original: 15
+Answer from ChatGPT : -5
+
+Problem #1248
+Answer from Original: 19/30
+Answer from ChatGPT : 20/3
+
+Problem #1249
+Answer from Original: -1
+Answer from ChatGPT : -13
+
+Problem #125
+Answer from Original: 6
+Answer from ChatGPT : Thesonis9yearsoldtoday.
+
+Problem #1250
+Answer from Original: 1/(350))
+Answer from ChatGPT : 521729/25000
+
+Problem #1251
+Answer from Original: (2,12)
+Answer from ChatGPT : (a,b)=(5,6)
+
+Problem #1252
+Answer from Original: -8
+Answer from ChatGPT : -16.
+
+Problem #1253
+Answer from Original: b=4
+Answer from ChatGPT : Theanswerisb=-2ap
+
+Problem #1255
+Answer from Original: 6
+Answer from ChatGPT : 6
+
+Problem #1259
+Answer from Original: 7
+Answer from ChatGPT : D+E+F=19.
+
+Problem #126
+Answer from Original: (15,-11)
+Answer from ChatGPT : {solve:(x-9)/2=3AND(y-1)/2=-5,x:-3,y:-9}
+
+Problem #1260
+Answer from Original: 5/6
+Answer from ChatGPT : -0.6
+
+Problem #1261
+Answer from Original: 6
+Answer from ChatGPT : 14.
+
+Problem #1263
+Answer from Original: 15
+Answer from ChatGPT : Answer:11
+
+Problem #1264
+Answer from Original: 19
+Answer from ChatGPT : {answer:19}
+
+Problem #1265
+Answer from Original: 3/2
+Answer from ChatGPT : 3/2
+
+Problem #1266
+Answer from Original: 1
+Answer from ChatGPT : m=1
+
+Problem #1268
+Answer from Original: 2009/4
+Answer from ChatGPT : 181,063.
+
+Problem #1270
+Answer from Original: -22
+Answer from ChatGPT : -2.5
+
+Problem #1271
+Answer from Original: -2
+Answer from ChatGPT : -14.
+
+Problem #1272
+Answer from Original: 0
+Answer from ChatGPT : 16.
+
+Problem #1275
+Answer from Original: (sqrt(3))/3
+Answer from ChatGPT : 1/3
+
+Problem #1278
+Answer from Original: -0.25
+Answer from ChatGPT : 2.
+
+Problem #1281
+Answer from Original: 1
+Answer from ChatGPT : Kis37.
+
+Problem #1282
+Answer from Original: 11
+Answer from ChatGPT : 20.Ibrute-forcedthisquestionbecauseIdontknowanyneatmethodstosolveitmoreefficiently.120issmallenoughtotestintegersuntilwefoundthesolutions.
+
+Problem #1283
+Answer from Original: 1
+Answer from ChatGPT : 16
+
+Problem #1286
+Answer from Original: 45
+Answer from ChatGPT : 54.
+
+Problem #1287
+Answer from Original: 20
+Answer from ChatGPT : 4.
+
+Problem #1288
+Answer from Original: 15554
+Answer from ChatGPT : 4444.
+
+Problem #1289
+Answer from Original: 1
+Answer from ChatGPT : Thereare2positiveintegers(2and3)forwhichn^2-3n+2isaprimenumber.
+
+Problem #129
+Answer from Original: -2
+Answer from ChatGPT : 2/3
+
+Problem #1291
+Answer from Original: 18
+Answer from ChatGPT : result:nosolution)(Wecantactuallysolveforaandbbecauseweonlyhaveoneequationwithtwovariables.Wecouldtrytosolveforonevariableintermsoftheotherandsubstitute,butitseasiertosolvethequestionasfollows...)Addthegivenequations:a^2b+ab^2=a\cdotab\cdotb+ab^2=ab(a+b)=a^2b+ab^2=135+\frac(27)(5)=\frac(702)(5).Nowsolvefora+b:a+b=\frac(\frac(702)(5))(ab)=\frac(\frac(702)(5))((\frac(27)(5))(\frac(1)(a)))=\frac(702)(27a).Thensolvefora+5b:a+5b=(a+b)+4b=\frac(702)(27a)+4\sqrt[3](\frac(27/5)
+
+Problem #1293
+Answer from Original: 64
+Answer from ChatGPT : 1.0
+
+Problem #1294
+Answer from Original: 3
+Answer from ChatGPT : {answer:3}
+
+Problem #1295
+Answer from Original: 36
+Answer from ChatGPT : {Operation:((7*100*100)/924)*3/11,Units:cents}
+
+Problem #13
+Answer from Original: (-6,10)
+Answer from ChatGPT : A=-1andB=5.
+
+Problem #1302
+Answer from Original: 10
+Answer from ChatGPT : 8.
+
+Problem #1303
+Answer from Original: 4
+Answer from ChatGPT : 32.0
+
+Problem #1306
+Answer from Original: 12/(7))
+Answer from ChatGPT : 41/49
+
+Problem #131
+Answer from Original: -1
+Answer from ChatGPT : 1)(a-1)+\frac(1)(b-1)=\frac(a+b-2)(ab-a-b+1)=\frac(7/2-2)(2/2+1)=\frac(3/2
+
+Problem #1310
+Answer from Original: 5
+Answer from ChatGPT : 3617
+
+Problem #1312
+Answer from Original: -3/2
+Answer from ChatGPT : 1/3
+
+Problem #1316
+Answer from Original: 8
+Answer from ChatGPT : 8.
+
+Problem #1317
+Answer from Original: -8192
+Answer from ChatGPT : 128.
+
+Problem #1318
+Answer from Original: 36
+Answer from ChatGPT : n=12
+
+Problem #132
+Answer from Original: -1/2
+Answer from ChatGPT : -1/2
+
+Problem #1329
+Answer from Original: 9
+Answer from ChatGPT : 6squareinches
+
+Problem #1331
+Answer from Original: 20
+Answer from ChatGPT : Answer:37.
+
+Problem #1332
+Answer from Original: 9
+Answer from ChatGPT : {expression:15*1500=k,result:22500,steps:[15*1500=k,22500=k,inverseproportionequationformula:x*y=kwherexandyarevariablesininverseproportion,x*y=kbecomesx*y=22500wherexisthepopularityofthetvmeasuredinnumberofsalesandyisitscost,y=2500,x=22500/2500,x=9,therefore9customerswouldbuyatelevisionthatcosts2500]}
+
+Problem #1338
+Answer from Original: 66
+Answer from ChatGPT : x=210
+
+Problem #1339
+Answer from Original: 600
+Answer from ChatGPT : {operation:inverse,x:24,y:15}{operation:multiply,x:24,y:15,z:x*y}{operation:add,x:x*y,y:2.0,z:x+y}{operation:divide,x:z,y:3.0,z:x/y}{result:x=+str(round(z,2))}
+
+Problem #1340
+Answer from Original: 6
+Answer from ChatGPT : n=6
+
+Problem #1341
+Answer from Original: -11+27i
+Answer from ChatGPT : {answer:3-23i}
+
+Problem #1342
+Answer from Original: 50
+Answer from ChatGPT : 99.
+
+Problem #1343
+Answer from Original: 256
+Answer from ChatGPT : 256
+
+Problem #1345
+Answer from Original: 48
+Answer from ChatGPT : 50
+
+Problem #1349
+Answer from Original: text(Evelyn)
+Answer from ChatGPT : Carlahasthegreatestaveragespeed.
+
+Problem #1354
+Answer from Original: (-infty,0)
+Answer from ChatGPT : 513/52
+
+Problem #1355
+Answer from Original: 36
+Answer from ChatGPT : Thecoordinatesofthepointare(16,32)
+
+Problem #1359
+Answer from Original: 243/8
+Answer from ChatGPT : 288
+
+Problem #1360
+Answer from Original: 13
+Answer from ChatGPT : 6.
+
+Problem #1362
+Answer from Original: 13
+Answer from ChatGPT : {result:7}
+
+Problem #1366
+Answer from Original: 3
+Answer from ChatGPT : -2.
+
+Problem #137
+Answer from Original: 575text(students)
+Answer from ChatGPT : 560
+
+Problem #1372
+Answer from Original: 5/3
+Answer from ChatGPT : Theanswerisb=4.
+
+Problem #1373
+Answer from Original: 5
+Answer from ChatGPT : 630
+
+Problem #1374
+Answer from Original: 3
+Answer from ChatGPT : {problem:Thequadratic4x^2+2x-1canbewrittenintheforma(x+b)^2+c,wherea,b,andcareconstants.Whatisa+b+c?,answer:-1}
+
+Problem #1375
+Answer from Original: 1
+Answer from ChatGPT : {operation:evaluate,expression:sqrt(((-1)+3)/(2))}Answer:1.0
+
+Problem #1376
+Answer from Original: 6
+Answer from ChatGPT : 2
+
+Problem #1377
+Answer from Original: 16
+Answer from ChatGPT : 48years.
+
+Problem #138
+Answer from Original: 13
+Answer from ChatGPT : 24/5
+
+Problem #1380
+Answer from Original: 0
+Answer from ChatGPT : 13.
+
+Problem #1387
+Answer from Original: -sqrt(x-3)+3
+Answer from ChatGPT : Onesolutionisthatk(x)=6-x
+
+Problem #139
+Answer from Original: 1/33
+Answer from ChatGPT : -1/33
+
+Problem #1390
+Answer from Original: /9
+Answer from ChatGPT : \sqrt(x))(\sqrt(x-1))=\frac323\sqrt(x)=2\sqrt(x-1)9x=4x-4x=-\frac(4/5
+
+Problem #1392
+Answer from Original: 75
+Answer from ChatGPT : {solution:83}
+
+Problem #1396
+Answer from Original: 3/2
+Answer from ChatGPT : 1.5
+
+Problem #1398
+Answer from Original: b-1
+Answer from ChatGPT : solution:c=\\frac(b^2/4(b-2c)^2)
+
+Problem #140
+Answer from Original: -9
+Answer from ChatGPT : 086
+
+Problem #1401
+Answer from Original: 361
+Answer from ChatGPT : 343x^2+686x+361
+
+Problem #1408
+Answer from Original: 73
+Answer from ChatGPT : 52.
+
+Problem #141
+Answer from Original: 369
+Answer from ChatGPT : 117.
+
+Problem #1411
+Answer from Original: 445
+Answer from ChatGPT : 3000widgets.
+
+Problem #1416
+Answer from Original: [-3,2]
+Answer from ChatGPT : x\leq-2orx\geq3.
+
+Problem #1418
+Answer from Original: 81
+Answer from ChatGPT : 60
+
+Problem #1419
+Answer from Original: 7
+Answer from ChatGPT : 13
+
+Problem #142
+Answer from Original: 5
+Answer from ChatGPT : m+b=-1.
+
+Problem #1422
+Answer from Original: -5
+Answer from ChatGPT : {solution:-5}
+
+Problem #1423
+Answer from Original: -120
+Answer from ChatGPT : 72
+
+Problem #1424
+Answer from Original: 73.5
+Answer from ChatGPT : {op:*,expr:[42,56],inverse:true,var:j,second_var:k,second_var_val:32}
+
+Problem #1425
+Answer from Original: 2
+Answer from ChatGPT : Thereare2valuesofxforwhichtheexpressionisnotdefined:x=3andx=-3.
+
+Problem #1428
+Answer from Original: 135/2
+Answer from ChatGPT : 60
+
+Problem #143
+Answer from Original: 8
+Answer from ChatGPT : 7
+
+Problem #1434
+Answer from Original: 25
+Answer from ChatGPT : 10.
+
+Problem #1438
+Answer from Original: 625
+Answer from ChatGPT : -625.
+
+Problem #1439
+Answer from Original: 16
+Answer from ChatGPT : 96
+
+Problem #144
+Answer from Original: 9
+Answer from ChatGPT : 14
+
+Problem #1441
+Answer from Original: 363
+Answer from ChatGPT : 81
+
+Problem #1442
+Answer from Original: 103
+Answer from ChatGPT : Themeasureofthesecondlargestangleis107^{\circ}.
+
+Problem #1443
+Answer from Original: 0
+Answer from ChatGPT : x=7andy=-8whichmeansxy=-56
+
+Problem #1445
+Answer from Original: 400
+Answer from ChatGPT : 441
+
+Problem #1447
+Answer from Original: 29
+Answer from ChatGPT : 20
+
+Problem #1448
+Answer from Original: 0
+Answer from ChatGPT : a+b)(2)=-\dfrac(7/6
+
+Problem #1457
+Answer from Original: -120
+Answer from ChatGPT : Thevalueoftheproductabcis-40.
+
+Problem #1458
+Answer from Original: 19
+Answer from ChatGPT : 3
+
+Problem #1459
+Answer from Original: 12
+Answer from ChatGPT : {n:12}
+
+Problem #1461
+Answer from Original: -9
+Answer from ChatGPT : 7.
+
+Problem #1462
+Answer from Original: -10
+Answer from ChatGPT : A(B-C)canbewrittenin6differentwaysbydistributing4,5,and6:(4\times(5-6))=-4(4\times(6-5))=4(5\times(4-6))=-10(5\times(6-4))=10(6\times(4-5))=-6(6\times(5-4))=6Therefore,thesmallestresultis-10.Hence,theansweris:json{solution:-10}
+
+Problem #1463
+Answer from Original: 7
+Answer from ChatGPT : mnp=-\frac15.
+
+Problem #1464
+Answer from Original: x=4
+Answer from ChatGPT : errorgettingananswer
+
+Problem #1466
+Answer from Original: x^4+x^2-10x-24
+Answer from ChatGPT : x^4+x^3-18x^2-4x+24
+
+Problem #1467
+Answer from Original: 2
+Answer from ChatGPT : n=2
+
+Problem #1468
+Answer from Original: 52
+Answer from ChatGPT : 24
+
+Problem #1470
+Answer from Original: 1
+Answer from ChatGPT : 1)(2)whenx=\frac(3/2
+
+Problem #148
+Answer from Original: 3
+Answer from ChatGPT : 1/4
+
+Problem #1480
+Answer from Original: 7
+Answer from ChatGPT : 8+\sqrt{27}
+
+Problem #1485
+Answer from Original: 3/(5))
+Answer from ChatGPT : operation:solve,equation:\\frac(1)(3x-1)=\\frac(2/x+1),variable:x
+
+Problem #1486
+Answer from Original: -4
+Answer from ChatGPT : 337.5.
+
+Problem #1488
+Answer from Original: 7
+Answer from ChatGPT : (-2,9)
+
+Problem #149
+Answer from Original: 6
+Answer from ChatGPT : {answer:-10},sumofallpossiblevaluesofxinthisparticularcaseis-10.
+
+Problem #1490
+Answer from Original: 169
+Answer from ChatGPT : 729.
+
+Problem #1493
+Answer from Original: 54
+Answer from ChatGPT : {quadratic:[1,-6,66],form:(x+b)^2+c,operation:b+c}->{Result:10}.
+
+Problem #1494
+Answer from Original: 50
+Answer from ChatGPT : 48
+
+Problem #1498
+Answer from Original: 36
+Answer from ChatGPT : 36
+
+Problem #15
+Answer from Original: 100
+Answer from ChatGPT : 340
+
+Problem #1500
+Answer from Original: 5050
+Answer from ChatGPT : 5050
+
+Problem #1506
+Answer from Original: 123
+Answer from ChatGPT : 123.
+
+Problem #1507
+Answer from Original: 5/4
+Answer from ChatGPT : -26/25
+
+Problem #151
+Answer from Original: 1
+Answer from ChatGPT : 1.
+
+Problem #1511
+Answer from Original: 1
+Answer from ChatGPT : Nosolution.
+
+Problem #1514
+Answer from Original: 16
+Answer from ChatGPT : 4^5+4^5+4^5+4^5)=\sqrt[3](4\cdot4^5)=\sqrt[3](2^6\cdot2^(10))=\sqrt[3](2^(16))=2^(\frac(16/3)
+
+Problem #1519
+Answer from Original: (sqrt(3))/3
+Answer from ChatGPT : (sqrt(3))/3
+
+Problem #1524
+Answer from Original: 12
+Answer from ChatGPT : 16.
+
+Problem #1527
+Answer from Original: 3
+Answer from ChatGPT : c=6
+
+Problem #1528
+Answer from Original: 3/5
+Answer from ChatGPT : {operation:15/6*1.5,notation:fraction}
+
+Problem #1529
+Answer from Original: 1
+Answer from ChatGPT : 2
+
+Problem #153
+Answer from Original: 3702
+Answer from ChatGPT : 1+10+100+1000=1111
+
+Problem #1534
+Answer from Original: 9
+Answer from ChatGPT : {solution:12}
+
+Problem #1535
+Answer from Original: 3
+Answer from ChatGPT : b=-2
+
+Problem #1538
+Answer from Original: -8/5
+Answer from ChatGPT : a=-2
+
+Problem #1540
+Answer from Original: 43
+Answer from ChatGPT : x=23.
+
+Problem #1541
+Answer from Original: 5
+Answer from ChatGPT : 119.0.
+
+Problem #1543
+Answer from Original: 220
+Answer from ChatGPT : 184
+
+Problem #1545
+Answer from Original: 5
+Answer from ChatGPT : 12
+
+Problem #1547
+Answer from Original: 6r^2-4r-24
+Answer from ChatGPT : Answer:22r^3+29r-24
+
+Problem #1548
+Answer from Original: 22
+Answer from ChatGPT : 32
+
+Problem #1549
+Answer from Original: 364
+Answer from ChatGPT : 284.0
+
+Problem #155
+Answer from Original: 15,!000
+Answer from ChatGPT : {expression:10000*(1+5*(10/100))}<br>{result:15000.0}
+
+Problem #1553
+Answer from Original: 3
+Answer from ChatGPT : \square=7
+
+Problem #1557
+Answer from Original: 1/2
+Answer from ChatGPT : 5/3
+
+Problem #1558
+Answer from Original: 5
+Answer from ChatGPT : c=3
+
+Problem #156
+Answer from Original: 1
+Answer from ChatGPT : {expression:sqrt((5+sqrt(61))/2)-sqrt((5-sqrt(61))/2)}.Orapproximately3.
+
+Problem #1560
+Answer from Original: 81
+Answer from ChatGPT : 441
+
+Problem #1561
+Answer from Original: 5
+Answer from ChatGPT : (-15)/13
+
+Problem #1564
+Answer from Original: 26
+Answer from ChatGPT : 28feet.
+
+Problem #1568
+Answer from Original: sqrt(13)
+Answer from ChatGPT : 2.236
+
+Problem #1569
+Answer from Original: 68/(3)text(pounds)
+Answer from ChatGPT : {answer:36}
+
+Problem #1570
+Answer from Original: 13
+Answer from ChatGPT : \sqrt{(1-(-4))^2+(13-1)^2}=5\sqrt{5}
+
+Problem #1578
+Answer from Original: 10
+Answer from ChatGPT : 13
+
+Problem #158
+Answer from Original: 8
+Answer from ChatGPT : 14
+
+Problem #1580
+Answer from Original: 80
+Answer from ChatGPT : 121
+
+Problem #1581
+Answer from Original: 16
+Answer from ChatGPT : -8.0.
+
+Problem #1584
+Answer from Original: 2
+Answer from ChatGPT : {solution:3\sqrt{3}}
+
+Problem #1585
+Answer from Original: -2
+Answer from ChatGPT : Nosolution.
+
+Problem #1586
+Answer from Original: 5
+Answer from ChatGPT : {point1:[0,0],point2:[9,6],fraction:1/3}=>(3.0,2.0)=>5
+
+Problem #1588
+Answer from Original: 23
+Answer from ChatGPT : {solution:31}
+
+Problem #159
+Answer from Original: -2
+Answer from ChatGPT : {b:10}(oranyotherconstantexpressionthatevaluatesto10)
+
+Problem #1591
+Answer from Original: 5
+Answer from ChatGPT : \sqrt{50}
+
+Problem #1592
+Answer from Original: 10
+Answer from ChatGPT : {solution:9}
+
+Problem #1593
+Answer from Original: 2
+Answer from ChatGPT : 2^(152/100)
+
+Problem #1594
+Answer from Original: 2
+Answer from ChatGPT : 2
+
+Problem #1596
+Answer from Original: 40
+Answer from ChatGPT : N=85.
+
+Problem #1597
+Answer from Original: 7
+Answer from ChatGPT : 1)(-2))^2]+4(\frac(1/-2
+
+Problem #1598
+Answer from Original: 1
+Answer from ChatGPT : 1462.5
+
+Problem #160
+Answer from Original: 139
+Answer from ChatGPT : Thechargeforatwo-hourrepairjobis163\text{dollars}.
+
+Problem #1600
+Answer from Original: 7
+Answer from ChatGPT : Simonpaidfor6rides.HereisthesolutioninJSONformat:{entry_fee:2.25,total_cost:12.75}Tofindthenumberofrides,wejustneedtosubtracttheentryfeefromthetotalcostanddividetheresultbythecostperride:rides=(total_cost-entry_fee)/cost_per_rideInthiscase,thecostperrideis\1.50,sowehave:rides=(12.75-2.25)/1.5=6
+
+Problem #1602
+Answer from Original: 12
+Answer from ChatGPT : 11
+
+Problem #1604
+Answer from Original: 81text(teachers)
+Answer from ChatGPT : 88
+
+Problem #1605
+Answer from Original: 2
+Answer from ChatGPT : x=2
+
+Problem #1606
+Answer from Original: 4
+Answer from ChatGPT : 1/26
+
+Problem #1609
+Answer from Original: 5
+Answer from ChatGPT : 49.
+
+Problem #161
+Answer from Original: -/1
+Answer from ChatGPT : 1/2x
+
+Problem #1610
+Answer from Original: 30
+Answer from ChatGPT : Nosolution.
+
+Problem #1611
+Answer from Original: 74726
+Answer from ChatGPT : {expression:round(100000/1.06**5)}
+
+Problem #1616
+Answer from Original: (5,-6)
+Answer from ChatGPT : [[a,2],[b,-15]]
+
+Problem #1621
+Answer from Original: -120
+Answer from ChatGPT : A=-2,B=-6,C=11soA\timesB\timesC=-132.
+
+Problem #1623
+Answer from Original: 4
+Answer from ChatGPT : 9
+
+Problem #1624
+Answer from Original: 3
+Answer from ChatGPT : x=3
+
+Problem #1628
+Answer from Original: 28
+Answer from ChatGPT : 15-(-14)=29.
+
+Problem #1633
+Answer from Original: 800
+Answer from ChatGPT : 800
+
+Problem #1634
+Answer from Original: 9
+Answer from ChatGPT : 9
+
+Problem #1639
+Answer from Original: 10
+Answer from ChatGPT : 16.
+
+Problem #1646
+Answer from Original: -4
+Answer from ChatGPT : {solve:|-x+3|=7}outputs-4because|-(-4)+3|=7.
+
+Problem #1647
+Answer from Original: 549
+Answer from ChatGPT : {result:Nosolution}
+
+Problem #1650
+Answer from Original: (-16,-4)
+Answer from ChatGPT : {operation:solve,equation:(x+2)/2=-7,(y+4)/2=0,unknowns:x,y}
+
+Problem #1656
+Answer from Original: 27
+Answer from ChatGPT : 41.
+
+Problem #1659
+Answer from Original: (-4x^2+x+1)(4x^2+x+1)
+Answer from ChatGPT : (-4x-1)(4x+1)(-x+1)(x+1).
+
+Problem #1664
+Answer from Original: 4(3-x)(3+x)
+Answer from ChatGPT : {solution:(6-2x)(6+2x)}
+
+Problem #1668
+Answer from Original: 5
+Answer from ChatGPT : 4,1
+
+Problem #1674
+Answer from Original: 0
+Answer from ChatGPT : 23/4
+
+Problem #1678
+Answer from Original: 11
+Answer from ChatGPT : 24.
+
+Problem #1680
+Answer from Original: 7
+Answer from ChatGPT : 42/11
+
+Problem #1683
+Answer from Original: 22
+Answer from ChatGPT : {operation:rationalize_denominator,expression:(sqrt(5)+sqrt(2))/(sqrt(5)-sqrt(2))}
+
+Problem #1689
+Answer from Original: C
+Answer from ChatGPT : A.
+
+Problem #1693
+Answer from Original: 18
+Answer from ChatGPT : 12.
+
+Problem #1698
+Answer from Original: 0
+Answer from ChatGPT : -25
+
+Problem #1699
+Answer from Original: 0
+Answer from ChatGPT : [-8,8]
+
+Problem #17
+Answer from Original: 8
+Answer from ChatGPT : a=0.
+
+Problem #170
+Answer from Original: 11
+Answer from ChatGPT : 11
+
+Problem #1701
+Answer from Original: 2
+Answer from ChatGPT : x=-11
+
+Problem #1702
+Answer from Original: 125
+Answer from ChatGPT : 625.5945304047073
+
+Problem #1703
+Answer from Original: 2sqrt(22)
+Answer from ChatGPT : 8.
+
+Problem #1704
+Answer from Original: 174
+Answer from ChatGPT : A=24,B=200.ThusA+B=224.{solution:224}
+
+Problem #1706
+Answer from Original: 7
+Answer from ChatGPT : {result:-2}
+
+Problem #1707
+Answer from Original: 3
+Answer from ChatGPT : {c:125^b=5=5^3,sob=3/5.27^b=(3^3)^b=3^(3b)=(3^(3))^b=27^b=c,soc=3^(3b)=3^(3*3/5)=3^9*3^-2=729/9=81.}
+
+Problem #1709
+Answer from Original: 14
+Answer from ChatGPT : Thedegreeofp(t)\cdotq(t)willbeequaltothesumofthedegreesofp(t)andq(t).Thus,degreeofp(t)\cdotq(t)=7+7=14.
+
+Problem #171
+Answer from Original: 9
+Answer from ChatGPT : {response:9}
+
+Problem #1713
+Answer from Original: 16
+Answer from ChatGPT : 128.
+
+Problem #1714
+Answer from Original: 800000
+Answer from ChatGPT : 200000.
+
+Problem #1724
+Answer from Original: /6
+Answer from ChatGPT : \frac23)is\frac(\sqrt(6)/3
+
+Problem #1729
+Answer from Original: 2
+Answer from ChatGPT : 3and9arethetwonumbers,sotheirdifferenceis6.{solution:6}
+
+Problem #1730
+Answer from Original: 3
+Answer from ChatGPT : -30.
+
+Problem #1731
+Answer from Original: 4/5
+Answer from ChatGPT : Nosolution.
+
+Problem #1732
+Answer from Original: 1/4
+Answer from ChatGPT : (frac(1)/(4))
+
+Problem #1733
+Answer from Original: 5
+Answer from ChatGPT : 264.
+
+Problem #1736
+Answer from Original: 64
+Answer from ChatGPT : Thereare2cellsatthebeginning.Attheendofthefirst3days,thereare4cells.Attheendofthenext3days,thereare8cells.Thispatterncontinuesuntilday15,whenthereare2^5=32cells.Therefore,thereare32cellsattheendofthe15^\text{th}day.
+
+Problem #1739
+Answer from Original: 5
+Answer from ChatGPT : 5
+
+Problem #174
+Answer from Original: 9
+Answer from ChatGPT : NoSolution.
+
+Problem #1742
+Answer from Original: 3
+Answer from ChatGPT : {question:Lethbeapolynomialofdegree5,andsupposethath(x)=(x^2-7x+10)\\cdotg(x),whereg(x)isapolynomialofdegreeb.Findb.,answer:b=3}
+
+Problem #1748
+Answer from Original: 4
+Answer from ChatGPT : Lettheuniquesolutionbex_1thenwehave:ax_1^2+8x_1+4=0Sincetheresonlyonesolutionwehaveonly1rootwhichmeansthatdiscriminantiszero.\Delta=b^2-4ac=08^2-4*a*4=0a=4ora=8butacannotbezero.Thus,a=4.
+
+Problem #175
+Answer from Original: 2
+Answer from ChatGPT : nosolution.
+
+Problem #1750
+Answer from Original: (6sqrt(5))/5
+Answer from ChatGPT : {simplify:[(72^(1/2))/(10^(1/2))]}
+
+Problem #1753
+Answer from Original: 10
+Answer from ChatGPT : 20units.
+
+Problem #1755
+Answer from Original: 16,!386.16
+Answer from ChatGPT : Input:{investment:10000,rate:0.10,years:5,compounds_per_year:4}Output:11605.54
+
+Problem #1757
+Answer from Original: 5
+Answer from ChatGPT : 43
+
+Problem #176
+Answer from Original: x^3+2x^2+x
+Answer from ChatGPT : x^3+2x^2+x
+
+Problem #1760
+Answer from Original: 3
+Answer from ChatGPT : 4isthesmallestpossiblevalue.
+
+Problem #1762
+Answer from Original: 1050
+Answer from ChatGPT : Kendrawouldburn1050calories.
+
+Problem #1763
+Answer from Original: 6
+Answer from ChatGPT : 30cookies.
+
+Problem #1770
+Answer from Original: 1.8
+Answer from ChatGPT : x=0.4
+
+Problem #1772
+Answer from Original: 2
+Answer from ChatGPT : infty
+
+Problem #1774
+Answer from Original: 0.75
+Answer from ChatGPT : -(-60)\pm\sqrt((-60)^2-4(-16)(54))/2(-16)
+
+Problem #1776
+Answer from Original: -15
+Answer from ChatGPT : -20
+
+Problem #1778
+Answer from Original: -4
+Answer from ChatGPT : -20
+
+Problem #1779
+Answer from Original: 10
+Answer from ChatGPT : 12
+
+Problem #178
+Answer from Original: 2010
+Answer from ChatGPT : 2010
+
+Problem #1781
+Answer from Original: -3
+Answer from ChatGPT : 29/11
+
+Problem #1784
+Answer from Original: -114
+Answer from ChatGPT : -2
+
+Problem #1786
+Answer from Original: 24
+Answer from ChatGPT : {solution:-7/3}
+
+Problem #1787
+Answer from Original: 8
+Answer from ChatGPT : Twofriendscanshareonemeal,so12friendscouldhaveordered6meals.
+
+Problem #1788
+Answer from Original: 5/4
+Answer from ChatGPT : 1)(4)+1=\frac(5/4
+
+Problem #1789
+Answer from Original: 3
+Answer from ChatGPT : 24.0
+
+Problem #1791
+Answer from Original: 89
+Answer from ChatGPT : {solution:43}
+
+Problem #1792
+Answer from Original: 99940009
+Answer from ChatGPT : 99970009.
+
+Problem #1794
+Answer from Original: 1/3
+Answer from ChatGPT : 1)(3)\quad\mathrm(or)\quadx=-\frac(2)(3)But,sincex>0,theonlysolutionis:x=\frac(1/3
+
+Problem #1796
+Answer from Original: 2sqrt(5)
+Answer from ChatGPT : 2√2.
+
+Problem #1798
+Answer from Original: 27
+Answer from ChatGPT : {operands:[153,0.7],operator:solve_for_y}Output:90
+
+Problem #180
+Answer from Original: 360
+Answer from ChatGPT : 3240cubiccentimeters.
+
+Problem #1800
+Answer from Original: 4000
+Answer from ChatGPT : 4000drips.
+
+Problem #1803
+Answer from Original: 17
+Answer from ChatGPT : 5
+
+Problem #1804
+Answer from Original: 200
+Answer from ChatGPT : 200.
+
+Problem #1805
+Answer from Original: 11
+Answer from ChatGPT : -11.
+
+Problem #1806
+Answer from Original: 4
+Answer from ChatGPT : {res:t-7}
+
+Problem #1807
+Answer from Original: -3
+Answer from ChatGPT : 4
+
+Problem #1809
+Answer from Original: (-infty,-7)cup(-7,3)cup(3,infty)
+Answer from ChatGPT : (-infty,-7)cup(-7,3)cup(3,infty)
+
+Problem #181
+Answer from Original: 11
+Answer from ChatGPT : {operation:solve,equation:(n+5)/(n-3)=2}
+
+Problem #1810
+Answer from Original: 1/2
+Answer from ChatGPT : 1/6
+
+Problem #1811
+Answer from Original: 24
+Answer from ChatGPT : {solution:18}
+
+Problem #1812
+Answer from Original: 4
+Answer from ChatGPT : a+b=11/2
+
+Problem #1814
+Answer from Original: 143
+Answer from ChatGPT : {inputs:{question:Thesumofthedigitsofatwo-digitnumberis13.Thedifferencebetweenthenumberandthenumberwithitsdigitsreversedis27.Whatisthesumoftheoriginalnumberandthenumberwithitsdigitsreversed?},outputs:{answer:132}}
+
+Problem #1815
+Answer from Original: 17
+Answer from ChatGPT : 17.
+
+Problem #1818
+Answer from Original: 9pi
+Answer from ChatGPT : 73.647.
+
+Problem #182
+Answer from Original: 21y+14
+Answer from ChatGPT : 21y+14
+
+Problem #1820
+Answer from Original: 44
+Answer from ChatGPT : 44increase.
+
+Problem #1824
+Answer from Original: -4
+Answer from ChatGPT : ab=-16.
+
+Problem #1826
+Answer from Original: 20
+Answer from ChatGPT : 14
+
+Problem #1828
+Answer from Original: 2
+Answer from ChatGPT : {solution:4}
+
+Problem #183
+Answer from Original: 1
+Answer from ChatGPT : x=1isaverticalasymptote.
+
+Problem #1834
+Answer from Original: 22
+Answer from ChatGPT : Thecorrectansweris13.
+
+Problem #1836
+Answer from Original: 8
+Answer from ChatGPT : 4days
+
+Problem #1837
+Answer from Original: 5
+Answer from ChatGPT : {x:4}
+
+Problem #1838
+Answer from Original: (r+5)^2
+Answer from ChatGPT : (r+5)^2
+
+Problem #184
+Answer from Original: 3sqrt(2)
+Answer from ChatGPT : a=2ora=-3.
+
+Problem #1841
+Answer from Original: -6
+Answer from ChatGPT : x=14.
+
+Problem #1842
+Answer from Original: 49
+Answer from ChatGPT : 49/30
+
+Problem #1845
+Answer from Original: 5/3
+Answer from ChatGPT : 7/3
+
+Problem #1846
+Answer from Original: 4
+Answer from ChatGPT : Nosolution.
+
+Problem #1848
+Answer from Original: 4
+Answer from ChatGPT : 4
+
+Problem #1849
+Answer from Original: 7z^(96)(4z+1)
+Answer from ChatGPT : errorgettingananswer
+
+Problem #185
+Answer from Original: 17
+Answer from ChatGPT : 15
+
+Problem #1850
+Answer from Original: 4
+Answer from ChatGPT : 2
+
+Problem #1855
+Answer from Original: 11/2
+Answer from ChatGPT : 385/462
+
+Problem #1856
+Answer from Original: 1/6
+Answer from ChatGPT : -5
+
+Problem #1861
+Answer from Original: 10sqrt(2)).-OR-Wenotethatthepoints(-5,5),(5,-5),and(-5,-5)formanisoscelesrighttriangle(a45-45-90triangle)withlegsoflength10.Therefore,thehypotenusehaslengthboxed(10sqrt2
+Answer from ChatGPT : {distance_formula:[[-5,5],[5,-5]]}
+
+Problem #1862
+Answer from Original: 118text(dollars)
+Answer from ChatGPT : ques:Suecaneitherborrow10,000dollarsfor5yearswithasimpleinterestof7\annuallyoraninterestwhichcompoundsannuallyfor6\.Howmuchmoremoney,roundedtothenearestdollar,wouldshehavetopaybackforthemoreexpensiveinterestthanthelessexpensiveinterest?)Torepaymoremoneyfor6\compoundedannually,thanfor7\simpleinterestannually\begin(align*)A&=P\bigg(1+\frac(r)(n)\bigg)^(nt)\\A&=10000\bigg(1+\frac(6/1\!\!+\!\!0))^(1\!\!*\!\!5)\bigg)=13,\!382.68\\A&=P(1+rt)\\A&=10000(1+(0.07)(5))=13500\\\text(Thedifferenceis)A-A=13500-13382.68\approx118\end(align*
+
+Problem #1863
+Answer from Original: -1
+Answer from ChatGPT : {n:4}
+
+Problem #1864
+Answer from Original: x^3+27
+Answer from ChatGPT : x^3+9x^2+12x-9
+
+Problem #1865
+Answer from Original: 6
+Answer from ChatGPT : {operation:division,numbers:[{operation:multiplication,numbers:[{number:40},{number:3}]},{number:20}]}
+
+Problem #1869
+Answer from Original: 2b
+Answer from ChatGPT : 2b
+
+Problem #187
+Answer from Original: 3
+Answer from ChatGPT : 3
+
+Problem #1870
+Answer from Original: 6x-5
+Answer from ChatGPT : 5x-|x-5|=5x-(x-5)=4x+5
+
+Problem #1875
+Answer from Original: 3
+Answer from ChatGPT : 2
+
+Problem #1878
+Answer from Original: -2
+Answer from ChatGPT : x=1,-5
+
+Problem #188
+Answer from Original: 2
+Answer from ChatGPT : Thevalueoff(f(2))is2,sincef(f(2))=f(4)=f^{-1}(2)=4^{-1}=2.
+
+Problem #1880
+Answer from Original: 0
+Answer from ChatGPT : json{question:Ifsisanintegerandtheroot(s)ofthequadraticexpression1/2x^2+sx-1/2areintegers,findthesumofallpossiblevaluesofs.,equation:[1/2x^2,sx,-1/2],type:quadratic,answer:0}
+
+Problem #1884
+Answer from Original: 12
+Answer from ChatGPT : -18
+
+Problem #1886
+Answer from Original: 108
+Answer from ChatGPT : {response:108}
+
+Problem #1888
+Answer from Original: -3
+Answer from ChatGPT : -5
+
+Problem #1890
+Answer from Original: 1
+Answer from ChatGPT : {steps:[{say:FirstletsfindQ(x):Q(x)=[4x^3-2x^2+7x-1]^2},{say:WecanevaluateQ(x)at0toobtainthey-interceptsinceanynumberraisedtothepowerof2isstillpositive,Q(0)=[4(0)^3-2(0)^2+7(0)-1]^2=(-1)^2=1},{answer:1}]}
+
+Problem #1891
+Answer from Original: 1/5
+Answer from ChatGPT : yisnotattainablewhenthedenominator,5x-10,isequaltozero.Thishappenswhenx=2.Therefore,thevalueofythatisnotattainableisundefined.
+
+Problem #1893
+Answer from Original: 2500
+Answer from ChatGPT : {maxArea:{fencing:200}}Output:2500.0
+
+Problem #1894
+Answer from Original: 8
+Answer from ChatGPT : 139.
+
+Problem #1895
+Answer from Original: 3/2
+Answer from ChatGPT : 4
+
+Problem #1897
+Answer from Original: 12
+Answer from ChatGPT : {operation:proportion,operands:[9,8,6]}
+
+Problem #1898
+Answer from Original: 700
+Answer from ChatGPT : 764.
+
+Problem #1899
+Answer from Original: 21
+Answer from ChatGPT : 34+sqrt(27)
+
+Problem #190
+Answer from Original: 25/16
+Answer from ChatGPT : \cfrac(3)(8)+\cfrac(7)(8))(\cfrac(4)(5))=\cfrac(\cfrac(10)(8))(\cfrac(4)(5))=\cfrac(5/4
+
+Problem #1900
+Answer from Original: 9text(a.m.)
+Answer from ChatGPT : {result:1p.m.}
+
+Problem #1902
+Answer from Original: 14
+Answer from ChatGPT : {operation:(-2-(-4))!=0?((-2*6-4*(-2))/(-2-(-4))):nosolution}.Thus,theequationforthelineisy=2x+10.They-coordinateofthepointwherethislineintersectsthey-axisis10.
+
+Problem #1904
+Answer from Original: 8
+Answer from ChatGPT : 6.4.
+
+Problem #1905
+Answer from Original: 3
+Answer from ChatGPT : 11/3
+
+Problem #1907
+Answer from Original: 4
+Answer from ChatGPT : 9.
+
+Problem #1908
+Answer from Original: -48
+Answer from ChatGPT : 1
+
+Problem #1909
+Answer from Original: 2
+Answer from ChatGPT : 4
+
+Problem #1910
+Answer from Original: 0
+Answer from ChatGPT : 0
+
+Problem #1911
+Answer from Original: 575
+Answer from ChatGPT : -1
+
+Problem #1912
+Answer from Original: 55
+Answer from ChatGPT : 33
+
+Problem #1914
+Answer from Original: 4/3
+Answer from ChatGPT : {c:-3/2}
+
+Problem #1915
+Answer from Original: 75
+Answer from ChatGPT : {cubic_meters:(600/8)}
+
+Problem #1916
+Answer from Original: 12
+Answer from ChatGPT : n-misequalto3.
+
+Problem #1918
+Answer from Original: 28
+Answer from ChatGPT : Themaximumvalueof-x^2-8x+12is16.
+
+Problem #1919
+Answer from Original: 121
+Answer from ChatGPT : n=169.
+
+Problem #192
+Answer from Original: 292i
+Answer from ChatGPT : {operation:*,operands:[{operation:*,operands:[11-5i,11+5i]},2i]}.Theansweris-440+0i.
+
+Problem #1923
+Answer from Original: 4
+Answer from ChatGPT : 60solutionsareinthesetoflatticepoints.
+
+Problem #1924
+Answer from Original: 1
+Answer from ChatGPT : 1/4
+
+Problem #1928
+Answer from Original: 125
+Answer from ChatGPT : {operations:[{operation:division,operands:[{operation:number,number:4},{operation:multiplication,operands:[{operation:brackets,innerOperation:{operation:addition,operands:[{operation:square_root,operand:{operation:number,number:5}},{operation:number,number:1}]}},{operation:brackets,innerOperation:{operation:addition,operands:[{operation:nth_root,n:4,operand:{operation:number,number:5}},{operation:number,number:1}]}},{operation:brackets,innerOperation:{operation:addition,operands:[{operation:nth_root,n:8,operand:{operation:number,number:5}},{operation:number,number:1}]}},{operation:brackets,innerOperation:{operation:addition,operands:[{operation:nth_root,n:16,operand:{operation:number,number:5}},{operation:number,number:1}]}}]}]}]}
+
+Problem #1929
+Answer from Original: 7.5
+Answer from ChatGPT : 11.2
+
+Problem #1933
+Answer from Original: 3.2
+Answer from ChatGPT : 0.1.
+
+Problem #1934
+Answer from Original: 13
+Answer from ChatGPT : 51/4
+
+Problem #1936
+Answer from Original: -1
+Answer from ChatGPT : b=-2
+
+Problem #1937
+Answer from Original: 1600
+Answer from ChatGPT : 1357
+
+Problem #1942
+Answer from Original: [1,9]
+Answer from ChatGPT : Thefunctionj(x)isaquadraticfunctionwithapositiveleadingcoefficient.Therefore,itsgraphisanupward-facingparabola,andtherangeofj(x)isallrealnumbersgreaterthanorequaltothey-coordinateofthevertex.Thex-coordinateofthevertexis-b/2a=-0/(-8/4)=0,whichliesinthedomainofj(x).Therefore,wemayfindthey-coordinateofthevertexbyevaluatingj(0):j(0)=2(0)^2+1=1Thus,therangeofj(x)is[1,\infty).
+
+Problem #1946
+Answer from Original: 2
+Answer from ChatGPT : [[minimize,a/b+b/a-ab],[subjectto,ab-a+b=0,and,a!=0,and,b!=0]]
+
+Problem #1950
+Answer from Original: (1,3)
+Answer from ChatGPT : (3,1)
+
+Problem #1953
+Answer from Original: 12
+Answer from ChatGPT : Theanswerisb=14.
+
+Problem #1954
+Answer from Original: -150
+Answer from ChatGPT : b)(2a)=\frac(36/2\cdot6
+
+Problem #1957
+Answer from Original: 1/3
+Answer from ChatGPT : 3/4.
+
+Problem #196
+Answer from Original: 4
+Answer from ChatGPT : 0
+
+Problem #1960
+Answer from Original: 9
+Answer from ChatGPT : 2.8
+
+Problem #1963
+Answer from Original: 17
+Answer from ChatGPT : {expression:expand((ax+b)*(2x+3))=20x^2+44x+21,variables:[a,b],solution:{a:4,b:3}}
+
+Problem #1967
+Answer from Original: 2
+Answer from ChatGPT : 2/7
+
+Problem #1968
+Answer from Original: -14/5
+Answer from ChatGPT : -1.2
+
+Problem #1969
+Answer from Original: 5
+Answer from ChatGPT : 1
+
+Problem #1971
+Answer from Original: 2
+Answer from ChatGPT : Thefirsttermofthearithmeticsequenceis-4.
+
+Problem #1973
+Answer from Original: 7.5
+Answer from ChatGPT : 15cups.
+
+Problem #1974
+Answer from Original: 8pi
+Answer from ChatGPT : 40\pi
+
+Problem #1975
+Answer from Original: -9
+Answer from ChatGPT : 48,-48
+
+Problem #1976
+Answer from Original: -3
+Answer from ChatGPT : Thevalueofa+b+cis4.
+
+Problem #1977
+Answer from Original: -5
+Answer from ChatGPT : a=-17
+
+Problem #1981
+Answer from Original: 15
+Answer from ChatGPT : 12
+
+Problem #1982
+Answer from Original: 1120
+Answer from ChatGPT : 1068
+
+Problem #1985
+Answer from Original: 16
+Answer from ChatGPT : 16laps.
+
+Problem #1988
+Answer from Original: 108
+Answer from ChatGPT : 18.
+
+Problem #1991
+Answer from Original: 23
+Answer from ChatGPT : 29
+
+Problem #1993
+Answer from Original: 2500
+Answer from ChatGPT : 8.
+
+Problem #1994
+Answer from Original: 1/12
+Answer from ChatGPT : 4/3
+
+Problem #1996
+Answer from Original: -15
+Answer from ChatGPT : 72
+
+Problem #1997
+Answer from Original: 93
+Answer from ChatGPT : 4900
+
+Problem #1999
+Answer from Original: 1
+Answer from ChatGPT : Theanswerispq-p-q+1.
+
+Problem #2
+Answer from Original: 1/2
+Answer from ChatGPT : 1.83
+
+Problem #2000
+Answer from Original: 90
+Answer from ChatGPT : 495
+
+Problem #2002
+Answer from Original: 128
+Answer from ChatGPT : k=144
+
+Problem #2004
+Answer from Original: 0
+Answer from ChatGPT : 6b=-9
+
+Problem #2008
+Answer from Original: 30
+Answer from ChatGPT : {solution:30}
+
+Problem #2009
+Answer from Original: -36
+Answer from ChatGPT : [{operation:solve,equation:|-2*y|*|(-1/2)*y|=36}]
+
+Problem #2010
+Answer from Original: 23/2
+Answer from ChatGPT : a=9
+
+Problem #2012
+Answer from Original: 3
+Answer from ChatGPT : x=81.
+
+Problem #2014
+Answer from Original: 1023
+Answer from ChatGPT : [845,847]
+
+Problem #2015
+Answer from Original: 12
+Answer from ChatGPT : {answer:36}
+
+Problem #2016
+Answer from Original: x=9
+Answer from ChatGPT : 3log_5125
+
+Problem #2017
+Answer from Original: 2
+Answer from ChatGPT : 6.
+
+Problem #2019
+Answer from Original: 1/(y)
+Answer from ChatGPT : 1+y^2
+
+Problem #2021
+Answer from Original: 2
+Answer from ChatGPT : {x:2}x=2isthesolution.
+
+Problem #2022
+Answer from Original: 7/4
+Answer from ChatGPT : 2
+
+Problem #2023
+Answer from Original: 1
+Answer from ChatGPT : Thesmallestpossibleintegervalueforxsuchthatf(x)hasareal-valuednumberis3.
+
+Problem #2024
+Answer from Original: 27
+Answer from ChatGPT : {operation:multiplication,operands:[6,4.5]}
+
+Problem #2025
+Answer from Original: 20
+Answer from ChatGPT : {response:20}
+
+Problem #2026
+Answer from Original: 7
+Answer from ChatGPT : {operation:add,operands:[{operation:floor,operand:{operation:log,base:8,operand:2938}},{operation:ceiling,operand:{operation:log,base:8,operand:2938}}]}
+
+Problem #2028
+Answer from Original: 4
+Answer from ChatGPT : 1/4
+
+Problem #2036
+Answer from Original: 3sqrt(13)).end(align*
+Answer from ChatGPT : {computation:(2-(-4))^2+(-6-3)^2,result:10*sqrt(2)}
+
+Problem #2040
+Answer from Original: 1710
+Answer from ChatGPT : 657.
+
+Problem #2043
+Answer from Original: (-infty,2)cup(3,infty)
+Answer from ChatGPT : [1,2)U(3,inf)
+
+Problem #2045
+Answer from Original: (-infty,0]cup[4,infty)
+Answer from ChatGPT : [0,4/3]
+
+Problem #2046
+Answer from Original: x^3+3x-6
+Answer from ChatGPT : x^3-x^2-5x+6
+
+Problem #2048
+Answer from Original: 81
+Answer from ChatGPT : 80.
+
+Problem #2049
+Answer from Original: 64
+Answer from ChatGPT : 16+30+25=71
+
+Problem #2050
+Answer from Original: 6,-2
+Answer from ChatGPT : bcanbeeither4\sqrt{2}+2or-4\sqrt{2}+2.
+
+Problem #2051
+Answer from Original: 17
+Answer from ChatGPT : 8-18+27-(-9+0-72+117x)isequalto117x-51sothecoefficientofxis117.
+
+Problem #2055
+Answer from Original: 2
+Answer from ChatGPT : 11363107
+
+Problem #2058
+Answer from Original: 13
+Answer from ChatGPT : A+B+C+D=17.
+
+Problem #206
+Answer from Original: -1
+Answer from ChatGPT : {solution:3}.Hereishowtogetit:Fromthefactthattherootsofthispolynomialare2aandb,weknowthat(x-2a)(x-b)=x^2+ax+bbythefactortheorem.Hence,wecanexpandtherightsidetogetx^2+ax+b=x^2-(2a+b)x+2ab.Therefore,a=-(2a+b)andb=2ab.Itfollowsthatb=0ora=-1/2.Butifb=0thentherootsareboth0,sotheyarenotdistinct.Hence,wemusthavea=-1/2,whichgivesb=1.Therefore,a+b=-1/2+1=3/2.
+
+Problem #2064
+Answer from Original: 81
+Answer from ChatGPT : 72.
+
+Problem #2066
+Answer from Original: 2x-1
+Answer from ChatGPT : 8x+9
+
+Problem #2072
+Answer from Original: 4x-5y=-50
+Answer from ChatGPT : 27x+54y=1080
+
+Problem #2074
+Answer from Original: 1
+Answer from ChatGPT : -1/5
+
+Problem #2076
+Answer from Original: 24
+Answer from ChatGPT : 16.
+
+Problem #2078
+Answer from Original: 13/30
+Answer from ChatGPT : aligned)(2x+1)(3x+2)&=(x-3)(6x-5)\\2x(3x+2)+1(3x+2)&=x(6x-5)-3(6x-5)\\6x^2+4x+3x+2&=6x^2-5x-18x+15\\6x^2+7x+2&=6x^2-23x+15\\30x&=13\\x&=\frac(13)(30)\end(aligned)Therefore,thesolutionisx=\frac(13/30
+
+Problem #208
+Answer from Original: 900
+Answer from ChatGPT : 900
+
+Problem #2080
+Answer from Original: 14
+Answer from ChatGPT : -20
+
+Problem #2082
+Answer from Original: 181
+Answer from ChatGPT : 69
+
+Problem #2084
+Answer from Original: 28
+Answer from ChatGPT : a=45,b=13,thusa+b=58.
+
+Problem #2085
+Answer from Original: 7
+Answer from ChatGPT : 7/2
+
+Problem #2088
+Answer from Original: -1
+Answer from ChatGPT : a
+
+Problem #209
+Answer from Original: 1
+Answer from ChatGPT : f(f(10))=10.
+
+Problem #2091
+Answer from Original: 440text(cm)^2
+Answer from ChatGPT : 1023
+
+Problem #2092
+Answer from Original: 40
+Answer from ChatGPT : 48
+
+Problem #2094
+Answer from Original: 11
+Answer from ChatGPT : Letnbethenumberofteams.Weknowthatthereare(n^2-n)/2gamesplayed.Wecanwritethisdownasanequation:(n^2-n)/2=55Simplifyingtheleftsideoftheequationgives:n^2-n=110Nowwehavetofindvaluesofnthatmakethisequationtrue.Letsrearrangetheequation:n^2-n-110=0Wecanfactortheleft-handsideoftheequation:(n-11)(n+10)=0Therefore,eithern-11=0orn+10=0,whichleadsto:n=11orn=-10Thenegativeanswerdoesntmakesensebecausewearelookingforthenumberofteams.Therefore,thereare11teamsinthetournament.
+
+Problem #2098
+Answer from Original: 10
+Answer from ChatGPT : 5.Theexpressionisundefinedwhenthedenominatorisequalto0.Factoringx^2-10x+16weget(x-2)(x-8).Thus,theexpressionisundefinedwhenx=2orx=8.Thesumofthesevaluesofxis10.
+
+Problem #2099
+Answer from Original: 1/4
+Answer from ChatGPT : -1
+
+Problem #21
+Answer from Original: -8
+Answer from ChatGPT : k=15.
+
+Problem #2100
+Answer from Original: 78
+Answer from ChatGPT : 78chimes.
+
+Problem #2101
+Answer from Original: 7
+Answer from ChatGPT : 5.
+
+Problem #2102
+Answer from Original: 56
+Answer from ChatGPT : 48
+
+Problem #2104
+Answer from Original: 26
+Answer from ChatGPT : errorgettingananswer
+
+Problem #2106
+Answer from Original: -4/3
+Answer from ChatGPT : -5/8
+
+Problem #2109
+Answer from Original: 4
+Answer from ChatGPT : -20.
+
+Problem #211
+Answer from Original: 1
+Answer from ChatGPT : 1.
+
+Problem #2111
+Answer from Original: -27
+Answer from ChatGPT : q=9,whichcanbeobtainedfromtheexpressionbygroupingg^4and12g^2as(g^2+6)^2-3andsubstitutingc=1.Sog^4+12g^2+9=(g^2+6)^2-3=(g^2+6)^2-0(g^2+0)^2+9.Therefore,q=9.
+
+Problem #2112
+Answer from Original: 10
+Answer from ChatGPT : 18.
+
+Problem #2117
+Answer from Original: 54
+Answer from ChatGPT : 38.
+
+Problem #2119
+Answer from Original: 6
+Answer from ChatGPT : 10
+
+Problem #2120
+Answer from Original: 125.5
+Answer from ChatGPT : 125.5
+
+Problem #2122
+Answer from Original: 13
+Answer from ChatGPT : {answer:8}
+
+Problem #2126
+Answer from Original: 7
+Answer from ChatGPT : 7
+
+Problem #2127
+Answer from Original: 7
+Answer from ChatGPT : 7.0
+
+Problem #2130
+Answer from Original: 1023/1024
+Answer from ChatGPT : 1023/512
+
+Problem #2133
+Answer from Original: 5
+Answer from ChatGPT : 56.
+
+Problem #2135
+Answer from Original: 18
+Answer from ChatGPT : Thesmallestpossiblenumberofintegersinthedomainoffis5.Thesequencestartingfromx=14willbe14,7,22,11,34,andthissequencewillkeeploopingbetween34,17,52,26,13,40,20,10,5,16,8,4,2,1.Thereforeallpositiveintegersstartingfromx=14willbepartofthedomainexcept2.
+
+Problem #2137
+Answer from Original: -5
+Answer from ChatGPT : k=-12
+
+Problem #214
+Answer from Original: 7
+Answer from ChatGPT : {result:33}
+
+Problem #2141
+Answer from Original: 8/3
+Answer from ChatGPT : 4/5
+
+Problem #2144
+Answer from Original: (-infty,-14)cup(-3,infty)
+Answer from ChatGPT : (-14,-3)
+
+Problem #2145
+Answer from Original: 2
+Answer from ChatGPT : 2
+
+Problem #2146
+Answer from Original: 9
+Answer from ChatGPT : 9
+
+Problem #2147
+Answer from Original: 2.2
+Answer from ChatGPT : n=83.
+
+Problem #215
+Answer from Original: -6
+Answer from ChatGPT : [-8,2]
+
+Problem #2150
+Answer from Original: 3
+Answer from ChatGPT : 7.0
+
+Problem #2152
+Answer from Original: 30/11
+Answer from ChatGPT : a=-3
+
+Problem #2153
+Answer from Original: 0
+Answer from ChatGPT : -3.5.
+
+Problem #2154
+Answer from Original: 51
+Answer from ChatGPT : [[-1,-1,2],[1,2,-3],[-2,2,0],[∛17,∛17,-2∛17],[∛17,-2∛17,∛17],[-2∛17,∛17,∛17]]Thesumofthesecubednumbersis-15\sqrt{17}.
+
+Problem #2155
+Answer from Original: 19
+Answer from ChatGPT : Thefourchildrenhave18coinsalltogether.{Amy:2,Ben:6,Carl:3,Debbie:7}
+
+Problem #2157
+Answer from Original: 2
+Answer from ChatGPT : 4
+
+Problem #2159
+Answer from Original: 11
+Answer from ChatGPT : 181
+
+Problem #2160
+Answer from Original: 85text(feet)
+Answer from ChatGPT : 100feet.
+
+Problem #2163
+Answer from Original: x=-10
+Answer from ChatGPT : x=-20,x=-1.
+
+Problem #2165
+Answer from Original: 96.8
+Answer from ChatGPT : {expression:66*88/60,precision:1}
+
+Problem #2167
+Answer from Original: 21/43
+Answer from ChatGPT : 21/11
+
+Problem #2168
+Answer from Original: -4,4
+Answer from ChatGPT : {solution:[-1.682,1.682]}
+
+Problem #2173
+Answer from Original: 978121
+Answer from ChatGPT : 974121
+
+Problem #2176
+Answer from Original: 3
+Answer from ChatGPT : 2distinctvaluesexistintherangeoff(x).
+
+Problem #2185
+Answer from Original: 4.5
+Answer from ChatGPT : 3.375.
+
+Problem #2186
+Answer from Original: 3
+Answer from ChatGPT : -55/12
+
+Problem #2191
+Answer from Original: 21a^5-7a^4-16a^2+32a
+Answer from ChatGPT : Thesimplifiedexpressionis21a^5-7a^4-16a^2+32a.
+
+Problem #2192
+Answer from Original: 7
+Answer from ChatGPT : 4
+
+Problem #2193
+Answer from Original: x=5
+Answer from ChatGPT : x=6istheonlysolution.
+
+Problem #2195
+Answer from Original: -13
+Answer from ChatGPT : {operation:add,args:[-1,(2*5)-5]}
+
+Problem #2196
+Answer from Original: 8/7
+Answer from ChatGPT : 1/3
+
+Problem #2199
+Answer from Original: 7
+Answer from ChatGPT : 6nickels.
+
+Problem #22
+Answer from Original: 2
+Answer from ChatGPT : 2.
+
+Problem #220
+Answer from Original: -2/3
+Answer from ChatGPT : 22.
+
+Problem #2201
+Answer from Original: 0
+Answer from ChatGPT : 648
+
+Problem #2203
+Answer from Original: 24
+Answer from ChatGPT : N=512
+
+Problem #2207
+Answer from Original: 4
+Answer from ChatGPT : 0
+
+Problem #2209
+Answer from Original: -40
+Answer from ChatGPT : Thesystemhasinfinitelymanysolutionsifandonlyifoneoftheequationsisascalarmultipleoftheother.Thuswesolveforabycheckingwhenthesecondequationisamultipleofthefirst.Solvingthefirstequationforxandsubstitutingintothesecondequationyields6(-5y-8)=16+a-15y,whichsimplifiestoy=3/5foralla.Sincethevalueofadoesnotaffectthevalueofy,itfollowsthatthesystemhasinfinitelymanysolutionswhenaisanyrealnumber.
+
+Problem #2213
+Answer from Original: 7
+Answer from ChatGPT : 16
+
+Problem #2214
+Answer from Original: 4
+Answer from ChatGPT : 4
+
+Problem #2215
+Answer from Original: 1/83
+Answer from ChatGPT : -0.008
+
+Problem #2216
+Answer from Original: (sqrt(3))/9
+Answer from ChatGPT : 8/(3sqrt(3)
+
+Problem #2217
+Answer from Original: -1
+Answer from ChatGPT : 48/2003.
+
+Problem #2218
+Answer from Original: 144
+Answer from ChatGPT : 216
+
+Problem #2220
+Answer from Original: 255
+Answer from ChatGPT : 275
+
+Problem #2221
+Answer from Original: 10
+Answer from ChatGPT : \sqrt{10}.
+
+Problem #2226
+Answer from Original: 7
+Answer from ChatGPT : Thevalueofa+b+cis6.
+
+Problem #2227
+Answer from Original: 41
+Answer from ChatGPT : {inputs:[{function:{id:F(x),points:[[-5,-4],[-2,5],[-1,3],[1,-5],[3,2],[5,2]]},output:[5,-5]},{function:{id:g(x),expression:f(x)+ax},output:1},{function:{id:h(x),expression:f(x)+bx},output:1}],outputs:[26]}
+
+Problem #2232
+Answer from Original: -3
+Answer from ChatGPT : -8.
+
+Problem #2235
+Answer from Original: 17
+Answer from ChatGPT : 18.
+
+Problem #2236
+Answer from Original: 23
+Answer from ChatGPT : 68
+
+Problem #2237
+Answer from Original: 2
+Answer from ChatGPT : 5
+
+Problem #2238
+Answer from Original: (7,6)
+Answer from ChatGPT : [1.08,1.24]
+
+Problem #224
+Answer from Original: 8
+Answer from ChatGPT : 2
+
+Problem #2240
+Answer from Original: 65text(childrentickets)
+Answer from ChatGPT : 75childrensticketsweresold.
+
+Problem #2241
+Answer from Original: 3
+Answer from ChatGPT : 3
+
+Problem #2243
+Answer from Original: (4,5)
+Answer from ChatGPT : {inputs:[[3+sqrt(2),5],[4,7],[6-sqrt(2),3],[3,5]],outputs:{midpoint:[(3+sqrt(2)+6-sqrt(2))/2,(5+3)/2]}}
+
+Problem #2246
+Answer from Original: -6
+Answer from ChatGPT : {response:-6}
+
+Problem #2248
+Answer from Original: 93
+Answer from ChatGPT : 34
+
+Problem #2251
+Answer from Original: 3
+Answer from ChatGPT : {solution:[9]}
+
+Problem #2252
+Answer from Original: 20
+Answer from ChatGPT : 20.0(or,equivalently,20).
+
+Problem #2253
+Answer from Original: (3sqrt(3))/4
+Answer from ChatGPT : (3sqrt(3))/2
+
+Problem #2254
+Answer from Original: 1
+Answer from ChatGPT : x^2-6x+13
+
+Problem #2255
+Answer from Original: 6
+Answer from ChatGPT : 72
+
+Problem #2257
+Answer from Original: /9
+Answer from ChatGPT : 29/18
+
+Problem #2259
+Answer from Original: 4
+Answer from ChatGPT : [{operation:1^x+2^x+5^x=642,unknown:x}]
+
+Problem #2261
+Answer from Original: -4
+Answer from ChatGPT : x=-36.
+
+Problem #2264
+Answer from Original: 1+2i
+Answer from ChatGPT : -11)(5)+\frac(2/5
+
+Problem #2265
+Answer from Original: 7
+Answer from ChatGPT : x=\log_2(5)
+
+Problem #2267
+Answer from Original: 12
+Answer from ChatGPT : 8.
+
+Problem #2268
+Answer from Original: 5
+Answer from ChatGPT : Therewere2horsesintheparade.
+
+Problem #2271
+Answer from Original: 13
+Answer from ChatGPT : {answer:13}
+
+Problem #2274
+Answer from Original: 10
+Answer from ChatGPT : {op:+,expr1:{op:+,expr1:{op:+,expr1:{op:+,expr1:{op:*,expr1:6,expr2:{op:*,expr1:x,expr2:{op:*,expr1:y,expr2:z}}},expr2:{op:*,expr1:30,expr2:{op:+,expr1:x,expr2:y}}},expr2:{op:*,expr1:21,expr2:{op:+,expr1:x,expr2:z}}},expr2:{op:+,expr1:{op:*,expr1:2,expr2:{op:*,expr1:y,expr2:z}},expr2:{op:+,expr1:{op:*,expr1:105,expr2:x},expr2:{op:+,expr1:{op:*,expr1:10,expr2:y},expr2:z}}},result:812}
+
+Problem #2276
+Answer from Original: 324
+Answer from ChatGPT : 81
+
+Problem #2277
+Answer from Original: 0
+Answer from ChatGPT : 1+2sqrt(10)
+
+Problem #2278
+Answer from Original: 42
+Answer from ChatGPT : {answer:42}
+
+Problem #2283
+Answer from Original: 1/9
+Answer from ChatGPT : -1
+
+Problem #2284
+Answer from Original: 216
+Answer from ChatGPT : Theotherconeis6inchestall.
+
+Problem #2285
+Answer from Original: 128/(75))
+Answer from ChatGPT : 47/30
+
+Problem #2287
+Answer from Original: 0
+Answer from ChatGPT : 20
+
+Problem #2288
+Answer from Original: 4/3
+Answer from ChatGPT : 10/9
+
+Problem #2292
+Answer from Original: 13
+Answer from ChatGPT : 7
+
+Problem #2293
+Answer from Original: 8
+Answer from ChatGPT : 48
+
+Problem #2294
+Answer from Original: 1
+Answer from ChatGPT : {expressions:[{expression:solve(sum_(n=0)^\\inftya*b^n=S,S)/(1-S)=a/(1-b),variables:[a,b],solver:sympy}]}
+
+Problem #2295
+Answer from Original: 2450
+Answer from ChatGPT : {solution:2625}
+
+Problem #2298
+Answer from Original: -10
+Answer from ChatGPT : 11
+
+Problem #230
+Answer from Original: 5
+Answer from ChatGPT : 5
+
+Problem #2300
+Answer from Original: 5
+Answer from ChatGPT : 6
+
+Problem #2303
+Answer from Original: 136
+Answer from ChatGPT : 108.
+
+Problem #2305
+Answer from Original: 312text(dollars)).end(align*
+Answer from ChatGPT : 451.80
+
+Problem #2307
+Answer from Original: 156
+Answer from ChatGPT : 144
+
+Problem #2316
+Answer from Original: -9
+Answer from ChatGPT : g(f(4))=g(2(4)-3)=g(5)=5-4(5)=-15.So,g(4)=-15.
+
+Problem #2318
+Answer from Original: 3/(2))
+Answer from ChatGPT : 1+y/2-y)isnotinvertibleon(-\infty,2)\cup(2,\infty).Thereforethereisnoh^(-1
+
+Problem #2320
+Answer from Original: 34
+Answer from ChatGPT : {expression:8-5*(-2)+4*(-2)^2}<br>Output:30
+
+Problem #2321
+Answer from Original: 81
+Answer from ChatGPT : 2.
+
+Problem #2328
+Answer from Original: 28
+Answer from ChatGPT : {solution:38}
+
+Problem #2329
+Answer from Original: 19text(and)43
+Answer from ChatGPT : [37,23]
+
+Problem #2330
+Answer from Original: 1
+Answer from ChatGPT : -1/3.
+
+Problem #2331
+Answer from Original: 12
+Answer from ChatGPT : 12
+
+Problem #2332
+Answer from Original: 2/5
+Answer from ChatGPT : 4/5
+
+Problem #2335
+Answer from Original: 10
+Answer from ChatGPT : Thesombrerocosts12.
+
+Problem #234
+Answer from Original: 25/9
+Answer from ChatGPT : 5/27
+
+Problem #2341
+Answer from Original: 4x^2-6x+4
+Answer from ChatGPT : 4x^2-12x+12
+
+Problem #2342
+Answer from Original: 2/3
+Answer from ChatGPT : c=-2
+
+Problem #2351
+Answer from Original: 2k
+Answer from ChatGPT : 2k
+
+Problem #2357
+Answer from Original: 150
+Answer from ChatGPT : Davidlaid100bricks.
+
+Problem #2358
+Answer from Original: 22
+Answer from ChatGPT : 11.
+
+Problem #2359
+Answer from Original: text(June20)
+Answer from ChatGPT : June15
+
+Problem #236
+Answer from Original: 4
+Answer from ChatGPT : 5.
+
+Problem #2361
+Answer from Original: 47
+Answer from ChatGPT : 48.
+
+Problem #2362
+Answer from Original: 5
+Answer from ChatGPT : 4.
+
+Problem #2363
+Answer from Original: x=-1
+Answer from ChatGPT : 3)(4)\ln(3)-\frac(9/4
+
+Problem #2370
+Answer from Original: 26
+Answer from ChatGPT : 61
+
+Problem #2373
+Answer from Original: 5.4
+Answer from ChatGPT : Answer:x=5.19615
+
+Problem #2374
+Answer from Original: 5
+Answer from ChatGPT : 20
+
+Problem #2376
+Answer from Original: 1
+Answer from ChatGPT : Thereare2solutions.
+
+Problem #2378
+Answer from Original: -8
+Answer from ChatGPT : {solution:x=-4,-32}
+
+Problem #2381
+Answer from Original: 21
+Answer from ChatGPT : \sqrt{5}/2wouldbetheminimumvalue.\sqrt{5}+2istherequiredanswer.
+
+Problem #2391
+Answer from Original: 10
+Answer from ChatGPT : Thesumofthevaluesofais70.
+
+Problem #2392
+Answer from Original: 4/(13))
+Answer from ChatGPT : 36/(19))
+
+Problem #2393
+Answer from Original: -4
+Answer from ChatGPT : (2s+5)(2s+9)=4s^2+28s+45.So(cs+p)^2+qisequalto(2s+5)^2orto(2s+9)^2dependingonthevaluesofcandp.Sincec=2andp=5orc=2andp=9,wehave(cs+p)^2+q=(2s+5)^2+0or(cs+p)^2+q=(2s+9)^2+0.Thereforeq=0.
+
+Problem #2395
+Answer from Original: Extraction Failed
+Answer from ChatGPT : -250.
+
+Problem #2397
+Answer from Original: 100
+Answer from ChatGPT : 33.33increase.
+
+Problem #2398
+Answer from Original: 7/9
+Answer from ChatGPT : -7/18
+
+Problem #2399
+Answer from Original: 17
+Answer from ChatGPT : {expression:jk=24,jl=48,kl=18\nj=k*l/j\nk=l*j/k\nl=j*k/l\nj+k+l,result:19}
+
+Problem #24
+Answer from Original: 2000
+Answer from ChatGPT : 2000calories.
+
+Problem #240
+Answer from Original: 16
+Answer from ChatGPT : {op:rationalize,args:{numerator:1,denominator:{add:[{sqrt:2},{sqrt:8},{sqrt:32}]}}}=1/(sqrt(2)+sqrt(8)+sqrt(32))
+
+Problem #2403
+Answer from Original: 4800
+Answer from ChatGPT : {operation:600*2**(12/4)}Output:38,400
+
+Problem #2404
+Answer from Original: 1/(6))
+Answer from ChatGPT : {Operation:Multiplication,RHS:{Number:8},LHS:{Division:[{Number:75},{Number:3600}]}}
+
+Problem #2407
+Answer from Original: 20
+Answer from ChatGPT : -2.5.
+
+Problem #2409
+Answer from Original: 600
+Answer from ChatGPT : 504
+
+Problem #2412
+Answer from Original: 194
+Answer from ChatGPT : Nosolution.
+
+Problem #2416
+Answer from Original: 16
+Answer from ChatGPT : 7+19=26
+
+Problem #2417
+Answer from Original: (5sqrt(42))/27
+Answer from ChatGPT : \sqrt(2*2^2*2*5))(\sqrt(2^2*3^2*7))\times\frac(\sqrt(5*7^2))(\sqrt(2^2*3^3))\frac(2*2\sqrt(5))(2*3\sqrt(7))\times\frac(\sqrt(5)*7)(2*3\sqrt(3))\frac(14\sqrt(5))(18\sqrt(7))\times\frac(\sqrt(5))(3\sqrt(3))\frac(7)(9)\times\frac(\sqrt(5)\sqrt(5))(\sqrt(7)\sqrt(3)\sqrt(3))\frac(7\sqrt(5))(9\sqrt(21))Simplifiedresultis((\frac(7\sqrt(5)/9\sqrt(21)))
+
+Problem #2421
+Answer from Original: 0
+Answer from ChatGPT : 1.5,nosolution.Thesumofanumberanditselfroundedtothenearestintegeristwicethenumber.
+
+Problem #2427
+Answer from Original: 10
+Answer from ChatGPT : 3.28
+
+Problem #2430
+Answer from Original: 8
+Answer from ChatGPT : json{operation:find_n_of_inf_seq,sequence:[1/4,1/8,1/16],result:255/512}pythonfromsympyimportsymbols,Eq,solvedeffind_n_of_inf_seq(sequence,result):n=symbols(n)first_term=sequence[0]ratio=sequence[1]/sequence[0]ifsequence[1]!=...else1/2formula_sum_n_terms=(first_term*(1-ratio**n))/(1-ratio)eq=Eq(formula_sum_n_terms,result)sol=solve(eq)returnround(sol[0])json{response:8}
+
+Problem #2433
+Answer from Original: -49/12
+Answer from ChatGPT : 4a-1)(12),wherea=3,h=-\frac(1/6
+
+Problem #2435
+Answer from Original: 3
+Answer from ChatGPT : 2
+
+Problem #2437
+Answer from Original: 3
+Answer from ChatGPT : x=3
+
+Problem #2438
+Answer from Original: (-infty,-5]cup[5,infty)
+Answer from ChatGPT : [\pm4\sqrt{2},\infty).
+
+Problem #245
+Answer from Original: 18x^8
+Answer from ChatGPT : 8/3)x^(10
+
+Problem #2453
+Answer from Original: (1,2)
+Answer from ChatGPT : (x,y)=(2,1)
+
+Problem #2456
+Answer from Original: 16
+Answer from ChatGPT : 49
+
+Problem #2457
+Answer from Original: 19
+Answer from ChatGPT : 8
+
+Problem #2458
+Answer from Original: 288
+Answer from ChatGPT : -2592
+
+Problem #2459
+Answer from Original: 512
+Answer from ChatGPT : Answer:\Large{(2+1)^{2}=9}\Large{2^{9}=512}Therefore,\Large{x^{{(x+1)}^x}}=512when\Large{x=2}.
+
+Problem #246
+Answer from Original: 8
+Answer from ChatGPT : f(3)=2
+
+Problem #2465
+Answer from Original: text(VW)
+Answer from ChatGPT : ACEFGHIKLMNPRSUWYZ
+
+Problem #2467
+Answer from Original: 6
+Answer from ChatGPT : [{Solution:nosolution}]
+
+Problem #2469
+Answer from Original: 10
+Answer from ChatGPT : {operation:maximize,equation:{left:{x:1,y:-265},right:2800}}Themaximumnumberofworkersthecompanycanhireis10.
+
+Problem #247
+Answer from Original: 0
+Answer from ChatGPT : t=2s-s^2.Whenn=3,s=3^2-2^3+1=9-8+1=2,therefore,t=2(2)-(2)^2=4-4=0.Thevalueoftis0.
+
+Problem #2470
+Answer from Original: 1/2
+Answer from ChatGPT : operation:multiplication,operands:[50,11/4])=137.5miles.Thereforethecartravels137\frac(1/2
+
+Problem #2471
+Answer from Original: 4
+Answer from ChatGPT : 6solutions.
+
+Problem #2475
+Answer from Original: 630
+Answer from ChatGPT : 4950.
+
+Problem #2476
+Answer from Original: 10
+Answer from ChatGPT : 5representatives.
+
+Problem #2477
+Answer from Original: 128/3
+Answer from ChatGPT : 2048/3.
+
+Problem #248
+Answer from Original: 225
+Answer from ChatGPT : {expression:45+(45-5)+(40-5)+(35-5)+(30-5)+(25-5)+(20-5)+(15-5)+(10-5)+5}Theansweris315feet.
+
+Problem #2480
+Answer from Original: 12
+Answer from ChatGPT : 384.
+
+Problem #2481
+Answer from Original: -3/4
+Answer from ChatGPT : -5\pm\sqrt(5^2-4(8)))(2)=\frac(-5\pmi\sqrt(7))(2)=a\pmib.Thusa+b^2=\frac(-5)(2).Thereforea+b^2=-\frac(5/2
+
+Problem #2482
+Answer from Original: [0,1)
+Answer from ChatGPT : Thedomainofq(x)isthecollectionofallxsuchthatboth\sqrt{x}and\sqrt{1-x^2}aredefinedand\sqrt{1-x^2}\neq0.Thisfurtherimpliesthat-1\leqx\leq1.Therefore,theansweristheclosedinterval[-1,1].
+
+Problem #2486
+Answer from Original: 3/5
+Answer from ChatGPT : 9/10
+
+Problem #2489
+Answer from Original: 115,000
+Answer from ChatGPT : [{operation:calculate_income,taxes_paid:10000}]
+
+Problem #2493
+Answer from Original: 8
+Answer from ChatGPT : 48yearsold.
+
+Problem #2495
+Answer from Original: 0
+Answer from ChatGPT : {operation:find_slope,start:{x:0,y:0},end:{x:2,y:2},start2:{x:5,y:0},end2:{x:6,y:2}}
+
+Problem #2496
+Answer from Original: 720
+Answer from ChatGPT : 144istheproductoftheintegers.
+
+Problem #2498
+Answer from Original: 6
+Answer from ChatGPT : (-b)/(a)
+
+Problem #2499
+Answer from Original: 10/(9))
+Answer from ChatGPT : 601.5
+
+Problem #250
+Answer from Original: 1/256
+Answer from ChatGPT : [1/256,0]
+
+Problem #2502
+Answer from Original: 500a^7
+Answer from ChatGPT : 2500a^7.
+
+Problem #251
+Answer from Original: 2
+Answer from ChatGPT : Thenumberis2.5.
+
+Problem #2511
+Answer from Original: 16384
+Answer from ChatGPT : 15
+
+Problem #2512
+Answer from Original: 1/6
+Answer from ChatGPT : 0.3
+
+Problem #2515
+Answer from Original: 54
+Answer from ChatGPT : 32miles.
+
+Problem #2517
+Answer from Original: -35/9
+Answer from ChatGPT : -39/50
+
+Problem #2518
+Answer from Original: -3
+Answer from ChatGPT : Nosolution.Weonlyhaveagraph,butnotenoughinformationtofindA+B+C.
+
+Problem #2520
+Answer from Original: 107
+Answer from ChatGPT : \text{largestprimefactorof}9951=997
+
+Problem #2525
+Answer from Original: 164
+Answer from ChatGPT : 21
+
+Problem #2527
+Answer from Original: 125
+Answer from ChatGPT : 625
+
+Problem #2530
+Answer from Original: 2003
+Answer from ChatGPT : -2003*2003.
+
+Problem #2531
+Answer from Original: 36
+Answer from ChatGPT : c=9
+
+Problem #2536
+Answer from Original: 10
+Answer from ChatGPT : -2.
+
+Problem #2539
+Answer from Original: 4
+Answer from ChatGPT : 2
+
+Problem #2541
+Answer from Original: 140
+Answer from ChatGPT : 96.
+
+Problem #2542
+Answer from Original: -7
+Answer from ChatGPT : Nosolution.
+
+Problem #2543
+Answer from Original: 20
+Answer from ChatGPT : Thebookstoreshouldcharge20forthebooktomaximizeitsrevenue.
+
+Problem #2544
+Answer from Original: 697
+Answer from ChatGPT : 964.
+
+Problem #2546
+Answer from Original: 1
+Answer from ChatGPT : Answer:1.Thenumberoflemoncandiesis2.{peppermint_lemon:(p+l)=2(c+v),peppermint:p=l+8,sum:(c+v)+(p+l)=15,answer:l=?}l=1
+
+Problem #2548
+Answer from Original: 18
+Answer from ChatGPT : 25miles.
+
+Problem #2549
+Answer from Original: 3
+Answer from ChatGPT : 6
+
+Problem #2551
+Answer from Original: 10
+Answer from ChatGPT : {operation:subtraction,args:[4*20*0.75,5*20*0.7]}
+
+Problem #2553
+Answer from Original: 2
+Answer from ChatGPT : 3\sqrt2.
+
+Problem #2554
+Answer from Original: 7
+Answer from ChatGPT : 66
+
+Problem #2555
+Answer from Original: -4
+Answer from ChatGPT : {response:-4}
+
+Problem #2556
+Answer from Original: 6
+Answer from ChatGPT : {answer:4}
+
+Problem #2557
+Answer from Original: 2
+Answer from ChatGPT : nosolution)forx=1).Note:Wecansimplify\frac(3x^2-4x+1)(x-1)to3x-1+\frac(2/x-1
+
+Problem #2558
+Answer from Original: 14/3
+Answer from ChatGPT : -7/9
+
+Problem #2559
+Answer from Original: -4
+Answer from ChatGPT : -4.
+
+Problem #2565
+Answer from Original: 15
+Answer from ChatGPT : 20peopleareneeded.
+
+Problem #2566
+Answer from Original: 9
+Answer from ChatGPT : {result:-96.0378798994836}
+
+Problem #2570
+Answer from Original: 2107
+Answer from ChatGPT : 17850.
+
+Problem #2572
+Answer from Original: 2
+Answer from ChatGPT : b=2
+
+Problem #2574
+Answer from Original: 2
+Answer from ChatGPT : Thesolutiontotheequationcanbefoundbysolvingforxandisx=2/3^{1/2}+1orx=-2/3^{1/2}+1.Thus,thesumofthetwosolutionsis2.
+
+Problem #2576
+Answer from Original: 11
+Answer from ChatGPT : 20
+
+Problem #2577
+Answer from Original: 900
+Answer from ChatGPT : [c,-\tfrac12(ac^2+bd^2)]
+
+Problem #2578
+Answer from Original: 13
+Answer from ChatGPT : json{operation:find_geometric_sequence_term,data:{term_3:1053,term_9:13/9,n:7}}json{result:441,unit:}
+
+Problem #2579
+Answer from Original: 11
+Answer from ChatGPT : Thesmallestquantityatwhichthecompanycanproducetobreakevenormakeaprofitis11units.
+
+Problem #2582
+Answer from Original: 3qr+6q-15r-30
+Answer from ChatGPT : {(q-5)(3r+6)=3qr-15q+18r-90}
+
+Problem #2583
+Answer from Original: 40
+Answer from ChatGPT : 200centsperhour.
+
+Problem #2584
+Answer from Original: 14/3
+Answer from ChatGPT : -7/3
+
+Problem #2587
+Answer from Original: 7945
+Answer from ChatGPT : 24661.02739726
+
+Problem #2588
+Answer from Original: 4
+Answer from ChatGPT : 4
+
+Problem #2590
+Answer from Original: 210
+Answer from ChatGPT : 120.
+
+Problem #2592
+Answer from Original: 26000
+Answer from ChatGPT : 52200
+
+Problem #2593
+Answer from Original: 8000
+Answer from ChatGPT : 8940.
+
+Problem #2596
+Answer from Original: 2
+Answer from ChatGPT : \{x\in\mathbb{R}\midx\neq-1,x\neq1\}
+
+Problem #25963
+Answer from Original: 78
+Answer from ChatGPT : 66
+
+Problem #25975
+Answer from Original: 0
+Answer from ChatGPT : 14.
+
+Problem #25995
+Answer from Original: 27
+Answer from ChatGPT : 162games
+
+Problem #25999
+Answer from Original: 6
+Answer from ChatGPT : 8[6^2-3(11)]\div8+3=67
+
+Problem #26
+Answer from Original: 32
+Answer from ChatGPT : 8
+
+Problem #260
+Answer from Original: 10/3
+Answer from ChatGPT : Thelargestxthatisnotinthedomainofg(f(x))isx=3.
+
+Problem #26016
+Answer from Original: 12
+Answer from ChatGPT : 15
+
+Problem #2602
+Answer from Original: 160/33
+Answer from ChatGPT : 145/3
+
+Problem #2603
+Answer from Original: -2/3
+Answer from ChatGPT : x=-4/3
+
+Problem #2604
+Answer from Original: 3
+Answer from ChatGPT : -1.5.
+
+Problem #2605
+Answer from Original: (4x-7)
+Answer from ChatGPT : -4x+7
+
+Problem #2606
+Answer from Original: 38
+Answer from ChatGPT : 17
+
+Problem #2612
+Answer from Original: 64
+Answer from ChatGPT : 46656
+
+Problem #2618
+Answer from Original: (8t)/3
+Answer from ChatGPT : 8/T
+
+Problem #2619
+Answer from Original: 3
+Answer from ChatGPT : a=3
+
+Problem #2620
+Answer from Original: 1024
+Answer from ChatGPT : 1/64.
+
+Problem #2621
+Answer from Original: -6
+Answer from ChatGPT : 3
+
+Problem #2623
+Answer from Original: 6
+Answer from ChatGPT : 96tablespoonsofbutter.
+
+Problem #2626
+Answer from Original: 32,!348
+Answer from ChatGPT : {expression:round(24000*(1.005)**30,0)}
+
+Problem #2628
+Answer from Original: (0,1]
+Answer from ChatGPT : Therangeofthefunctionf(x)=\left(\frac37\right)^xis(0,\infty).
+
+Problem #2629
+Answer from Original: 5/2
+Answer from ChatGPT : r=2
+
+Problem #263
+Answer from Original: 10
+Answer from ChatGPT : {operation:solve,equation:sqrt(19+3y)=7}
+
+Problem #2631
+Answer from Original: 15
+Answer from ChatGPT : {response:15degreesperhour}
+
+Problem #2637
+Answer from Original: 2
+Answer from ChatGPT : Thevalueofmis4.
+
+Problem #2641
+Answer from Original: [1,4]
+Answer from ChatGPT : \[x\in[0,16].\]
+
+Problem #2642
+Answer from Original: 48
+Answer from ChatGPT : Figure5willhave54endpoints.
+
+Problem #2649
+Answer from Original: 15
+Answer from ChatGPT : x+y=2\cdot2\cdot2+2\cdot3\cdot3=22
+
+Problem #265
+Answer from Original: -102
+Answer from ChatGPT : 17
+
+Problem #2651
+Answer from Original: -2
+Answer from ChatGPT : -3
+
+Problem #2653
+Answer from Original: x=3
+Answer from ChatGPT : {answer:3}
+
+Problem #2657
+Answer from Original: 10
+Answer from ChatGPT : 2
+
+Problem #2659
+Answer from Original: 9/2
+Answer from ChatGPT : 3
+
+Problem #266
+Answer from Original: 11
+Answer from ChatGPT : 17.
+
+Problem #2662
+Answer from Original: 3n^2-18
+Answer from ChatGPT : 3n^2-2n-30
+
+Problem #2664
+Answer from Original: text(Monday)
+Answer from ChatGPT : Thursday.
+
+Problem #267
+Answer from Original: 0
+Answer from ChatGPT : x=3
+
+Problem #2670
+Answer from Original: 13.5
+Answer from ChatGPT : 1.5
+
+Problem #2671
+Answer from Original: 13
+Answer from ChatGPT : 8x-7y=13
+
+Problem #2672
+Answer from Original: 49
+Answer from ChatGPT : {operation:solve,equation:x*sqrt(x)-5*x-9*sqrt(x)-35=0}Thesolutionoftheequationisx=49.
+
+Problem #2675
+Answer from Original: 17
+Answer from ChatGPT : 17
+
+Problem #2677
+Answer from Original: 18
+Answer from ChatGPT : Ninequartersareinthefourthpile.
+
+Problem #2680
+Answer from Original: 5r^5
+Answer from ChatGPT : 5r^5.
+
+Problem #2683
+Answer from Original: 1/5
+Answer from ChatGPT : 23)(20)+\frac(\sqrt(769))(20)\approx0.39seconds,andt=-\frac(23)(20)-\frac(\sqrt(769)/20
+
+Problem #2685
+Answer from Original: (-6,0)
+Answer from ChatGPT : (-6,0)isfarthestfromtheorigin.
+
+Problem #2687
+Answer from Original: text((C))
+Answer from ChatGPT : \text{(C)}\c
+
+Problem #2688
+Answer from Original: x^2+10x+25
+Answer from ChatGPT : {result:x^2+10x+25}
+
+Problem #269
+Answer from Original: 7
+Answer from ChatGPT : 2.5
+
+Problem #2691
+Answer from Original: -9
+Answer from ChatGPT : json{operation:solve_equation,equation:y**2-81,variable:y}json{solution:[-9,9]}
+
+Problem #2693
+Answer from Original: 104
+Answer from ChatGPT : y_2-y_1)(x_2-x_1)(x-x_1).IfweletA=(a,3a^2-5a-3)andB=(b,3b^2-5b-3),wehave\begin(align*)\frac(3b^2-5b-3)(b)-\frac(3a^2-5a-3)(a)&=0\\\frac(3b^2-5b-3)(b)&=\frac(3a^2-5a-3/a)\\3a^2b-5ab^2-3ab&=3ab^2-5a^2b-3a^2b\\6a^2b&=8ab^2\\3a^2&=4b^2\end(align*
+
+Problem #2694
+Answer from Original: 4
+Answer from ChatGPT : x=2
+
+Problem #2695
+Answer from Original: -3
+Answer from ChatGPT : 5+x/8+x
+
+Problem #2696
+Answer from Original: 25
+Answer from ChatGPT : 18.
+
+Problem #270
+Answer from Original: 3/7
+Answer from ChatGPT : -3/5.
+
+Problem #2700
+Answer from Original: 3/2
+Answer from ChatGPT : 1/2
+
+Problem #2701
+Answer from Original: 32
+Answer from ChatGPT : {operation:sum,operands:[{operation:slope,points:[[7,8],[9,0]]},{operation:y_intercept,points:[[7,8],[9,0]]}]}Output:-15.0
+
+Problem #2702
+Answer from Original: (5,-10)
+Answer from ChatGPT : {x:[(1+2\\times3),(6-2\\times2)],y:[(6-2\\times3),(1+2\\times2)]}
+
+Problem #2706
+Answer from Original: 4624
+Answer from ChatGPT : 594
+
+Problem #2708
+Answer from Original: 2sqrt(10)
+Answer from ChatGPT : 10
+
+Problem #271
+Answer from Original: 208
+Answer from ChatGPT : nosolution
+
+Problem #2710
+Answer from Original: 17
+Answer from ChatGPT : Thesolutiontotheequationisp+q=9.
+
+Problem #2711
+Answer from Original: 13225
+Answer from ChatGPT : 13,225
+
+Problem #2712
+Answer from Original: 25
+Answer from ChatGPT : Theansweris3x^2-2x+25.
+
+Problem #2714
+Answer from Original: 10
+Answer from ChatGPT : {distancebetweenMidpoints:10}
+
+Problem #2715
+Answer from Original: 1
+Answer from ChatGPT : 1
+
+Problem #2719
+Answer from Original: 53
+Answer from ChatGPT : 53
+
+Problem #2720
+Answer from Original: 255/64
+Answer from ChatGPT : 255/64
+
+Problem #2723
+Answer from Original: 9/25
+Answer from ChatGPT : 7/12
+
+Problem #2728
+Answer from Original: 16
+Answer from ChatGPT : 10.
+
+Problem #2731
+Answer from Original: 3.5
+Answer from ChatGPT : Theballwillhitthegroundwheny=0.Wecanusethistofindthetimet.Solvingthequadraticequation-16t^2+26t+105=0,wegett=3.3,sotheballwillhitthegroundinapproximately3.3seconds.Answer:json{answer:3.3}
+
+Problem #2732
+Answer from Original: 567
+Answer from ChatGPT : 201
+
+Problem #2735
+Answer from Original: (11+9a)/20
+Answer from ChatGPT : 79a/20+3/20
+
+Problem #2736
+Answer from Original: 23
+Answer from ChatGPT : 15
+
+Problem #2738
+Answer from Original: -56
+Answer from ChatGPT : 2x^2-8x+15hasdiscriminant(-8)^2-4(2)(15)=4.Answer:4.
+
+Problem #2740
+Answer from Original: -42
+Answer from ChatGPT : -4
+
+Problem #2741
+Answer from Original: 10
+Answer from ChatGPT : 10.0
+
+Problem #2742
+Answer from Original: 8
+Answer from ChatGPT : 8redmarbles.
+
+Problem #2743
+Answer from Original: 29
+Answer from ChatGPT : 28cents.
+
+Problem #2744
+Answer from Original: -18
+Answer from ChatGPT : -7.Wecompletethesquareforxusingx^2-14x=(x-7)^2-49andsubstitutingintotheequationweget(x-7)^2+y^2=169.Theminimumvalueof(x-7)^2is0whichgivestheminimumofxtobe-7.
+
+Problem #2745
+Answer from Original: 31/6
+Answer from ChatGPT : 15.
+
+Problem #2748
+Answer from Original: -1
+Answer from ChatGPT : -260
+
+Problem #275
+Answer from Original: 121/(25))
+Answer from ChatGPT : (sqrt(11))/121
+
+Problem #2753
+Answer from Original: 1
+Answer from ChatGPT : x=1
+
+Problem #2755
+Answer from Original: (2,3)
+Answer from ChatGPT : [(1,1)]
+
+Problem #2756
+Answer from Original: 5400
+Answer from ChatGPT : Carolinewillwalk90metersinonehour.
+
+Problem #2759
+Answer from Original: 22.8
+Answer from ChatGPT : Oneblueboxweighs22.8ounces.
+
+Problem #276
+Answer from Original: 12
+Answer from ChatGPT : -4
+
+Problem #2762
+Answer from Original: 1
+Answer from ChatGPT : 1.
+
+Problem #2768
+Answer from Original: 31
+Answer from ChatGPT : {answer:31}
+
+Problem #2772
+Answer from Original: (-11,9)
+Answer from ChatGPT : {x:13,y:0}
+
+Problem #2779
+Answer from Original: 20
+Answer from ChatGPT : 24.
+
+Problem #2780
+Answer from Original: 18.90
+Answer from ChatGPT : Thecostofa3inchcubewouldbe\28.90.
+
+Problem #2783
+Answer from Original: z^5-3z^4+6z^3-14z^2+14z-4
+Answer from ChatGPT : z^5+z^4-7z^3+10z^2-5z+4.
+
+Problem #2784
+Answer from Original: 8/45
+Answer from ChatGPT : 17/99
+
+Problem #2787
+Answer from Original: 180
+Answer from ChatGPT : {solution:180}
+
+Problem #2788
+Answer from Original: 2/3
+Answer from ChatGPT : 2/3
+
+Problem #2789
+Answer from Original: 47
+Answer from ChatGPT : 59
+
+Problem #279
+Answer from Original: 14/3
+Answer from ChatGPT : c=7
+
+Problem #2792
+Answer from Original: 112
+Answer from ChatGPT : \frac(2)(1+2\sqrt(3))+\frac(3)(2-\sqrt(3)))=\frac(2(2-\sqrt(3))+3(1+2\sqrt(3)))((1+2\sqrt(3))(2-\sqrt(3)))=\frac(10\sqrt(3)+13/7
+
+Problem #2796
+Answer from Original: 14pi
+Answer from ChatGPT : 2π\times\sqrt{13}
+
+Problem #2798
+Answer from Original: 33840
+Answer from ChatGPT : 16384
+
+Problem #28
+Answer from Original: 25/8
+Answer from ChatGPT : 25/8
+
+Problem #280
+Answer from Original: -2-14i
+Answer from ChatGPT : -5-14i.
+
+Problem #2804
+Answer from Original: 1/8
+Answer from ChatGPT : 1/2
+
+Problem #2805
+Answer from Original: 4
+Answer from ChatGPT : 4
+
+Problem #2807
+Answer from Original: 1320
+Answer from ChatGPT : -360
+
+Problem #2810
+Answer from Original: 6
+Answer from ChatGPT : 2x^2+3x+4=2(-2)^2+3(-2)+4=-2
+
+Problem #2814
+Answer from Original: 6
+Answer from ChatGPT : 56
+
+Problem #2815
+Answer from Original: 0.015
+Answer from ChatGPT : 0.015
+
+Problem #2817
+Answer from Original: 30
+Answer from ChatGPT : (1*2)*3=(1^2+2)*3=3^3+3=30
+
+Problem #2818
+Answer from Original: 79
+Answer from ChatGPT : 2.0.
+
+Problem #282
+Answer from Original: 79
+Answer from ChatGPT : Nosolution.
+
+Problem #2822
+Answer from Original: 15
+Answer from ChatGPT : {answer:37}
+
+Problem #2823
+Answer from Original: -4/5
+Answer from ChatGPT : -\frac54
+
+Problem #2827
+Answer from Original: 11
+Answer from ChatGPT : 7
+
+Problem #2831
+Answer from Original: 96
+Answer from ChatGPT : 69isthesolution.
+
+Problem #2838
+Answer from Original: -2
+Answer from ChatGPT : A-B=13
+
+Problem #288
+Answer from Original: 52
+Answer from ChatGPT : 543.
+
+Problem #289
+Answer from Original: 20
+Answer from ChatGPT : 479
+
+Problem #291
+Answer from Original: 2/3
+Answer from ChatGPT : TheprobabilitythatAlicewinsis2/3(orapproximately0.66667).
+
+Problem #293
+Answer from Original: 36xsqrt(35x)).end(align*
+Answer from ChatGPT : 60xsqrt(7x)
+
+Problem #296
+Answer from Original: 3600
+Answer from ChatGPT : 129600
+
+Problem #297
+Answer from Original: 1736
+Answer from ChatGPT : {solution:[14,6,-2,-2]}
+
+Problem #302
+Answer from Original: -1/4
+Answer from ChatGPT : -1/4
+
+Problem #304
+Answer from Original: 8281
+Answer from ChatGPT : 8281
+
+Problem #305
+Answer from Original: 5
+Answer from ChatGPT : 5
+
+Problem #307
+Answer from Original: 4
+Answer from ChatGPT : {operation:solve,equation:x^2+y^2-6=6x+2y,variable:x^2+y^2}Theequationofthecircleisx^2+y^2=6(x-1)+2(y-1)+13,sotheradiusis\sqrt{6(x-1)+2(y-1)+13}.
+
+Problem #31
+Answer from Original: 72
+Answer from ChatGPT : 12
+
+Problem #311
+Answer from Original: 10455
+Answer from ChatGPT : expression:10000\\left(1+\\frac(0.04)(2)\\right)^2\\left(1+\\frac(0.05/2)\\right)^2,precision:2
+
+Problem #313
+Answer from Original: 1/5
+Answer from ChatGPT : {expression:(1+i)/(2-i)}ThecurrentIisequaltotheresultofthisdivision.I=0.2+0.6i
+
+Problem #314
+Answer from Original: 1/4
+Answer from ChatGPT : 0.25
+
+Problem #318
+Answer from Original: (-infty,0)cup(0,infty)
+Answer from ChatGPT : (-∞,1)U(1,∞)
+
+Problem #32
+Answer from Original: 7,9,12,13
+Answer from ChatGPT : -2,5,7,12
+
+Problem #320
+Answer from Original: 26
+Answer from ChatGPT : {solve:2*x^2=4*x+9,x}
+
+Problem #323
+Answer from Original: 3
+Answer from ChatGPT : 3
+
+Problem #326
+Answer from Original: 26pi
+Answer from ChatGPT : 2\pi\cdotPQ
+
+Problem #327
+Answer from Original: (-7,-2)
+Answer from ChatGPT : ain(-7,4)
+
+Problem #329
+Answer from Original: 4
+Answer from ChatGPT : {solve:3y=x,2x+5y=11,sum:A}yields{A_sum:11/2}.ThereforethesumofthecoordinatesofpointAis11/2.
+
+Problem #33
+Answer from Original: 7/25
+Answer from ChatGPT : z)(x)is\frac(14/5
+
+Problem #332
+Answer from Original: 158
+Answer from ChatGPT : {x:3+sqrt(10),y:3-sqrt(10)}Thesolutionfollowsfromsolvingthesystem\begin{aligned}x+y&=14\\xy&=19\end{aligned}whichisequivalentto(x-y)^2=4.Addingthesquaresofthenumbersgivesthedesiredresult.
+
+Problem #337
+Answer from Original: 1160
+Answer from ChatGPT : {expression:1000*(1+0.075/4)^(4*2),precision:0}3536
+
+Problem #338
+Answer from Original: -56
+Answer from ChatGPT : {equations:[3*a+b+c=-3,a+3*b+c=9,a+b+3*c=19],variables:[a,b,c],operation:*}
+
+Problem #342
+Answer from Original: 42/5
+Answer from ChatGPT : 8.
+
+Problem #346
+Answer from Original: 7
+Answer from ChatGPT : 9.
+
+Problem #347
+Answer from Original: -15
+Answer from ChatGPT : -15
+
+Problem #35
+Answer from Original: -7
+Answer from ChatGPT : -7
+
+Problem #351
+Answer from Original: 2
+Answer from ChatGPT : Nosolution.
+
+Problem #354
+Answer from Original: 135
+Answer from ChatGPT : 127
+
+Problem #359
+Answer from Original: 9
+Answer from ChatGPT : y=6.
+
+Problem #362
+Answer from Original: 8/3
+Answer from ChatGPT : 5.4
+
+Problem #364
+Answer from Original: 8
+Answer from ChatGPT : Thedigitis4.
+
+Problem #366
+Answer from Original: 4
+Answer from ChatGPT : 2.
+
+Problem #37
+Answer from Original: 217
+Answer from ChatGPT : 16
+
+Problem #388
+Answer from Original: 14
+Answer from ChatGPT : 185/69
+
+Problem #392
+Answer from Original: 32736
+Answer from ChatGPT : 576
+
+Problem #393
+Answer from Original: 2
+Answer from ChatGPT : 2.
+
+Problem #395
+Answer from Original: -10/3
+Answer from ChatGPT : a=6
+
+Problem #398
+Answer from Original: 63
+Answer from ChatGPT : {operation:simplify,expression:(80*9*4)/(7*20)}Answer:207.43approximately.
+
+Problem #40
+Answer from Original: 1/4
+Answer from ChatGPT : d*p)(2d*2p)=\frac(d)(4d)=\frac(1/4
+
+Problem #400
+Answer from Original: 50
+Answer from ChatGPT : 77.2727
+
+Problem #405
+Answer from Original: 2
+Answer from ChatGPT : Onesolution.
+
+Problem #410
+Answer from Original: 4
+Answer from ChatGPT : 10
+
+Problem #412
+Answer from Original: 18
+Answer from ChatGPT : 18.
+
+Problem #413
+Answer from Original: 1
+Answer from ChatGPT : 279,841
+
+Problem #414
+Answer from Original: -128
+Answer from ChatGPT : Theansweris169.
+
+Problem #416
+Answer from Original: -5
+Answer from ChatGPT : {operations:[{operation:solve,left:(x+2)/3,right:4/(x+1)}]}
+
+Problem #419
+Answer from Original: -39
+Answer from ChatGPT : Thevalueof-a-b^2+3abwhena=-1andb=5is-51.
+
+Problem #421
+Answer from Original: 6
+Answer from ChatGPT : 2
+
+Problem #422
+Answer from Original: 47/24
+Answer from ChatGPT : x=7/3
+
+Problem #424
+Answer from Original: 28
+Answer from ChatGPT : 72tours.
+
+Problem #425
+Answer from Original: -128
+Answer from ChatGPT : -96.
+
+Problem #426
+Answer from Original: -3
+Answer from ChatGPT : 2,asthecenterofthecircleis(2,-5)
+
+Problem #427
+Answer from Original: 12
+Answer from ChatGPT : x+y+z=6
+
+Problem #429
+Answer from Original: 1/2
+Answer from ChatGPT : -1
+
+Problem #43
+Answer from Original: 3
+Answer from ChatGPT : {answer:13}
+
+Problem #430
+Answer from Original: 128
+Answer from ChatGPT : 24pages.
+
+Problem #432
+Answer from Original: 2x^2-18
+Answer from ChatGPT : 2x^2-18
+
+Problem #433
+Answer from Original: 1
+Answer from ChatGPT : 2
+
+Problem #435
+Answer from Original: 25
+Answer from ChatGPT : 25.
+
+Problem #437
+Answer from Original: -4
+Answer from ChatGPT : -5
+
+Problem #438
+Answer from Original: 14
+Answer from ChatGPT : {expression:(A+B+C)/3=10,A=B-6,C=B+3,variables:[A,B,C],queries:[C]}Output:{responses:{C:13}}
+
+Problem #44
+Answer from Original: (1,4)
+Answer from ChatGPT : (-20,-57)
+
+Problem #440
+Answer from Original: 5
+Answer from ChatGPT : 5pintsofwater.
+
+Problem #441
+Answer from Original: 10
+Answer from ChatGPT : {response:5x}
+
+Problem #442
+Answer from Original: 3
+Answer from ChatGPT : 3
+
+Problem #445
+Answer from Original: (-infty,-4)cup(-4,6)cup(6,infty)
+Answer from ChatGPT : (-\infty,-4)\cup(-4,6)\cup(6,\infty)
+
+Problem #446
+Answer from Original: 8-i
+Answer from ChatGPT : {Solution:8-1i}
+
+Problem #449
+Answer from Original: 12
+Answer from ChatGPT : 28
+
+Problem #451
+Answer from Original: 0
+Answer from ChatGPT : 19.
+
+Problem #452
+Answer from Original: 11/15
+Answer from ChatGPT : 3/5
+
+Problem #453
+Answer from Original: 1
+Answer from ChatGPT : x=3
+
+Problem #455
+Answer from Original: 3
+Answer from ChatGPT : 6freethrows.
+
+Problem #459
+Answer from Original: 28
+Answer from ChatGPT : 5/7
+
+Problem #462
+Answer from Original: 5/(36))
+Answer from ChatGPT : 1/12
+
+Problem #468
+Answer from Original: 6
+Answer from ChatGPT : 6.
+
+Problem #469
+Answer from Original: -6
+Answer from ChatGPT : g(-1)\approx-3.46andg(-3.46)\approx-6.Therefore,g(g(-1))\approxg(-3.46)\approx-6.
+
+Problem #470
+Answer from Original: 11
+Answer from ChatGPT : 3/2.
+
+Problem #471
+Answer from Original: 2015
+Answer from ChatGPT : 993
+
+Problem #476
+Answer from Original: (-7,3)
+Answer from ChatGPT : (-7,3)
+
+Problem #478
+Answer from Original: 65
+Answer from ChatGPT : 70cubicunits.
+
+Problem #48
+Answer from Original: 12
+Answer from ChatGPT : {operation:+,left:{operation:-,left:9,right:4,complex:true},right:{operation:+,left:3,right:4,complex:true}}
+
+Problem #480
+Answer from Original: 2
+Answer from ChatGPT : Nosolution.f(\pi)isundefinedsince\pi\ge0but\pi<4.
+
+Problem #482
+Answer from Original: 35
+Answer from ChatGPT : json{expression:12^2-4*p*q,variables:{p:5,q:7}}
+
+Problem #484
+Answer from Original: 3
+Answer from ChatGPT : errorgettingananswer
+
+Problem #486
+Answer from Original: 48
+Answer from ChatGPT : 8)(3)flecks.Also,6flocks=4flecksand1flock=\frac(2)(3)flecks.Finally,12flicks=12\times\frac(8/3
+
+Problem #487
+Answer from Original: sqrt(10)).end(align*
+Answer from ChatGPT : \frac(5/2))-\sqrt(2
+
+Problem #489
+Answer from Original: 3
+Answer from ChatGPT : 3
+
+Problem #491
+Answer from Original: 8
+Answer from ChatGPT : 65
+
+Problem #493
+Answer from Original: 70
+Answer from ChatGPT : 70
+
+Problem #496
+Answer from Original: 49
+Answer from ChatGPT : 343.
+
+Problem #498
+Answer from Original: 400
+Answer from ChatGPT : {area:400}
+
+Problem #499
+Answer from Original: 4
+Answer from ChatGPT : Thereare2realnumbersnotinthedomainofthefunctionf(x).
+
+Problem #500
+Answer from Original: 4
+Answer from ChatGPT : -2.
+
+Problem #502
+Answer from Original: 3
+Answer from ChatGPT : {operation:abs((7*x^2-10)-x^4),find:minimum}
+
+Problem #506
+Answer from Original: 368
+Answer from ChatGPT : {question:Ericssportscarsspecificationsincludea500metrichorsepowerengine.Ericwantstoknowhowmanykilowattsofpowerhiscarsenginecangenerate.WhatresultshouldEricobtainif1kilowattisequivalentto1.36horsepower?(Youmayuseacalculatoronthisproblem;answertothenearestkilowatt.),answer:368}
+
+Problem #509
+Answer from Original: 13/6
+Answer from ChatGPT : \sqrt(269)/36
+
+Problem #51
+Answer from Original: 15
+Answer from ChatGPT : Lennyhas\25morethanLarry.
+
+Problem #510
+Answer from Original: 11
+Answer from ChatGPT : \sqrt{x^2+y^2}
+
+Problem #511
+Answer from Original: 268
+Answer from ChatGPT : 1347squareinches.
+
+Problem #512
+Answer from Original: -16
+Answer from ChatGPT : Theminimumvalueis-10.
+
+Problem #513
+Answer from Original: (1,1)
+Answer from ChatGPT : {a:1,b:1}
+
+Problem #514
+Answer from Original: 13
+Answer from ChatGPT : Theansweris25.
+
+Problem #518
+Answer from Original: 3/4
+Answer from ChatGPT : {inputs:{f1:150,m1:200,m2:150},output:{ratio:4,ratio_reduced:4/3}}
+
+Problem #522
+Answer from Original: 15
+Answer from ChatGPT : 15
+
+Problem #523
+Answer from Original: -3
+Answer from ChatGPT : {result:Nosolution.}
+
+Problem #524
+Answer from Original: 4005
+Answer from ChatGPT : 4005
+
+Problem #526
+Answer from Original: (5sqrt(3))/3
+Answer from ChatGPT : 5)(\sqrt(3))\cdot\frac(\sqrt(3))(\sqrt(3))=\frac(5\sqrt(3)/3
+
+Problem #528
+Answer from Original: 6p^4+5p^2-4
+Answer from ChatGPT : 6p^4+5p^2-4
+
+Problem #529
+Answer from Original: 81
+Answer from ChatGPT : 218
+
+Problem #530
+Answer from Original: 2
+Answer from ChatGPT : a=-2
+
+Problem #533
+Answer from Original: 1056
+Answer from ChatGPT : 1681.
+
+Problem #536
+Answer from Original: 33
+Answer from ChatGPT : 24.0
+
+Problem #537
+Answer from Original: 21
+Answer from ChatGPT : 21
+
+Problem #539
+Answer from Original: 78
+Answer from ChatGPT : 240.
+
+Problem #540
+Answer from Original: -4/25
+Answer from ChatGPT : operation:simplify,expression:((-2i)/5)^2)Answer:\dfrac(-4/25
+
+Problem #542
+Answer from Original: (3,-3)
+Answer from ChatGPT : [(-6,10)]
+
+Problem #543
+Answer from Original: -23.5
+Answer from ChatGPT : textbf(2.5)
+
+Problem #547
+Answer from Original: 11
+Answer from ChatGPT : 5
+
+Problem #548
+Answer from Original: -1
+Answer from ChatGPT : -1.
+
+Problem #55
+Answer from Original: 2/(3))
+Answer from ChatGPT : 1/2
+
+Problem #552
+Answer from Original: (-infty,-2)cup(-2,3)cup(3,infty)
+Answer from ChatGPT : R)\setminus\left\(\frac(3/2),-2\right\
+
+Problem #554
+Answer from Original: 60000
+Answer from ChatGPT : ##Output56250
+
+Problem #558
+Answer from Original: 600
+Answer from ChatGPT : 600/49
+
+Problem #559
+Answer from Original: 4
+Answer from ChatGPT : Nosolution.Thedenominator2x^2-8x+7isneverequaltozero.
+
+Problem #560
+Answer from Original: 5
+Answer from ChatGPT : 1
+
+Problem #567
+Answer from Original: 1
+Answer from ChatGPT : -2or4
+
+Problem #568
+Answer from Original: a^3+a^2
+Answer from ChatGPT : 5a+2.
+
+Problem #570
+Answer from Original: 37
+Answer from ChatGPT : -6
+
+Problem #571
+Answer from Original: 89
+Answer from ChatGPT : 91
+
+Problem #577
+Answer from Original: 0
+Answer from ChatGPT : nosolution.
+
+Problem #578
+Answer from Original: -6.5
+Answer from ChatGPT : 5.81.
+
+Problem #581
+Answer from Original: 1/9
+Answer from ChatGPT : {operands:[{symbol:a,value:1},{symbol:b,value:3},{symbol:c,value:5}],operator:/,expression:[{operator:+,expression:[{operator:^,expression:[{symbol:a},{operand:3}]},{operator:+,expression:[{operator:^,expression:[{symbol:b},{operand:2}]},{symbol:c}]}]},{operator:+,expression:[{symbol:a},{operator:+,expression:[{operator:^,expression:[{symbol:b},{operand:2}]},{operator:^,expression:[{symbol:c},{operand:3}]}]}]}]}
+
+Problem #583
+Answer from Original: -1
+Answer from ChatGPT : 7
+
+Problem #585
+Answer from Original: 495
+Answer from ChatGPT : 555
+
+Problem #59
+Answer from Original: 1
+Answer from ChatGPT : b=2
+
+Problem #591
+Answer from Original: 19
+Answer from ChatGPT : 11years.
+
+Problem #594
+Answer from Original: 672
+Answer from ChatGPT : errorgettingananswer
+
+Problem #596
+Answer from Original: -4
+Answer from ChatGPT : x=-4orx=4.Thus,thesmallestintegersatisfyingtheinequalityis-4.Answer:-4.
+
+Problem #597
+Answer from Original: 8
+Answer from ChatGPT : 2
+
+Problem #598
+Answer from Original: 3/2
+Answer from ChatGPT : 625.
+
+Problem #6
+Answer from Original: 5
+Answer from ChatGPT : {distancebetweenvertexandpoint:{vertexofthegraph:{x-coordinate:4,y-coordinate:1},point:{x-coordinate:0,y-coordinate:2}}}Answer:3.1623(roundedtofourdecimalplaces)
+
+Problem #608
+Answer from Original: 920.25
+Answer from ChatGPT : {operation:10000(1+0.045)^2-10000,answer:954.06}
+
+Problem #610
+Answer from Original: 6x^2+30x+36
+Answer from ChatGPT : 6x^2+36x+36.
+
+Problem #611
+Answer from Original: 120
+Answer from ChatGPT : 732.
+
+Problem #613
+Answer from Original: 3.5
+Answer from ChatGPT : {operation:solve,equations:[-6t^2+43t=77],variables:[t]}Theprojectilewillfirstreach77feetinheightin:t~=1.9seconds
+
+Problem #614
+Answer from Original: !sqrt(33)
+Answer from ChatGPT : 3\sqrt{3}.
+
+Problem #615
+Answer from Original: (h^2)/(m)
+Answer from ChatGPT : {answer:h/m}
+
+Problem #616
+Answer from Original: 1
+Answer from ChatGPT : f(g(1))=f(1-1)=f(0)=1
+
+Problem #618
+Answer from Original: 19
+Answer from ChatGPT : 4.
+
+Problem #619
+Answer from Original: -814+3698i
+Answer from ChatGPT : {answer:[186,-300],steps:[Addtherealcomponentsoftwonumbers:508+(-1322)=-814,Addtheimaginarycomponentsoftwonumbers:1749+1949=3698]}
+
+Problem #621
+Answer from Original: 3.21
+Answer from ChatGPT : {operation:simplify,expression:(x+b)^2+c=x^2+2.6*x+3.6,variables:[x,b,c],restrictions:b!=0}Theansweris5.76.
+
+Problem #623
+Answer from Original: 10
+Answer from ChatGPT : 20seconds.
+
+Problem #628
+Answer from Original: [6,infty)
+Answer from ChatGPT : [1,5+sqrt(2)]
+
+Problem #632
+Answer from Original: 3/32
+Answer from ChatGPT : {operation:add,operands:[{operation:multiply,operands:[0.25,{operation:exponentiation,operands:[0.5,3]}]},{operation:multiply,operands:[0.125,{operation:exponentiation,operands:[0.5,4]}]}]}
+
+Problem #634
+Answer from Original: 4
+Answer from ChatGPT : 11/4
+
+Problem #636
+Answer from Original: 11
+Answer from ChatGPT : c=-1
+
+Problem #638
+Answer from Original: 13
+Answer from ChatGPT : {inputs:[{point1:[7,8],point2:[9,0]},{a:2,b:-1,c:10}],outputs:{result:9}}
+
+Problem #639
+Answer from Original: 84
+Answer from ChatGPT : 48
+
+Problem #640
+Answer from Original: 11
+Answer from ChatGPT : c=-31
+
+Problem #649
+Answer from Original: 3
+Answer from ChatGPT : 3
+
+Problem #650
+Answer from Original: 2
+Answer from ChatGPT : x=2
+
+Problem #651
+Answer from Original: 25
+Answer from ChatGPT : 25
+
+Problem #657
+Answer from Original: 10
+Answer from ChatGPT : 10quartersareinthefourthpile.
+
+Problem #661
+Answer from Original: 36
+Answer from ChatGPT : Nosolution.ThelengthofFebruaryvariesdependingontheyear.
+
+Problem #662
+Answer from Original: 9
+Answer from ChatGPT : 29
+
+Problem #668
+Answer from Original: 45
+Answer from ChatGPT : 17
+
+Problem #669
+Answer from Original: 4
+Answer from ChatGPT : -380
+
+Problem #67
+Answer from Original: 2
+Answer from ChatGPT : 23
+
+Problem #672
+Answer from Original: -4
+Answer from ChatGPT : -4
+
+Problem #679
+Answer from Original: [-10,4]
+Answer from ChatGPT : [-11+1,3+1]=[-10,4].Therefore,therangeofg(x)isgivenbytheinterval[-10,4].
+
+Problem #680
+Answer from Original: -2
+Answer from ChatGPT : -3/2
+
+Problem #686
+Answer from Original: 4
+Answer from ChatGPT : a=2
+
+Problem #688
+Answer from Original: 165
+Answer from ChatGPT : 165.
+
+Problem #689
+Answer from Original: 6
+Answer from ChatGPT : 6
+
+Problem #69
+Answer from Original: 25
+Answer from ChatGPT : 33rows.
+
+Problem #694
+Answer from Original: 16
+Answer from ChatGPT : Therewere12bluemarblesinthebagbeforeaddingmore.
+
+Problem #701
+Answer from Original: 1545
+Answer from ChatGPT : 1435
+
+Problem #702
+Answer from Original: 17/8
+Answer from ChatGPT : 2
+
+Problem #704
+Answer from Original: 7
+Answer from ChatGPT : {c:Tosolvethistaskwesettheequationx^2-7x+7=-3,solveitandgettwox-values.,s:Thesumofthex-coordinatesoftheintersectionpointsis7.}
+
+Problem #706
+Answer from Original: 1/9
+Answer from ChatGPT : {result:16}
+
+Problem #710
+Answer from Original: (i)/5
+Answer from ChatGPT : solution:z=\\frac(5)(13)-\\frac(6/13)i
+
+Problem #713
+Answer from Original: 600
+Answer from ChatGPT : 220
+
+Problem #716
+Answer from Original: 3
+Answer from ChatGPT : equation*)f(f(x))=f(2x-5)=2(2x-5)-5=4x-15\end(equation*)Whichisequalto3,whenx=9/4.\bulletForx<3,\quadf(x)=-x+5.\begin(align*)f(f(x))&=f(-x+5)\\&=-(-x+5)+5\\&=x\end(align*)Therefore,forf(f(x))=3,thereisonlyonevaluei.e.,x=\frac(9/4
+
+Problem #718
+Answer from Original: 117
+Answer from ChatGPT : {solution:-9+\\sqrt{216}}->{a_plus_b:30}
+
+Problem #722
+Answer from Original: 9901
+Answer from ChatGPT : 9901.
+
+Problem #724
+Answer from Original: -10
+Answer from ChatGPT : {outputs:[{answer:26}]}
+
+Problem #725
+Answer from Original: 144
+Answer from ChatGPT : 81/16
+
+Problem #726
+Answer from Original: -1/2
+Answer from ChatGPT : 1
+
+Problem #73
+Answer from Original: p+q-r
+Answer from ChatGPT : Theothersolutionisx=p+q-r.
+
+Problem #731
+Answer from Original: -9
+Answer from ChatGPT : -12.
+
+Problem #733
+Answer from Original: 6
+Answer from ChatGPT : Answer:x=0
+
+Problem #744
+Answer from Original: 19
+Answer from ChatGPT : 2,since(-\sqrt{9},\sqrt{9})isthelargestintervaloverallpossibledomainscontainingvaluesofxthatmakef(x)unique.
+
+Problem #747
+Answer from Original: 19
+Answer from ChatGPT : {expression:Solve[{a+2b==15,a+5b==3},{a,b}],variables:[a,b]}---{a:-7,b:11}---Therefore,a+b=4.
+
+Problem #748
+Answer from Original: 21
+Answer from ChatGPT : {x:19,y:-6}
+
+Problem #749
+Answer from Original: 221
+Answer from ChatGPT : 237
+
+Problem #750
+Answer from Original: 5
+Answer from ChatGPT : 5.
+
+Problem #752
+Answer from Original: 5000
+Answer from ChatGPT : 6000
+
+Problem #753
+Answer from Original: 1/5
+Answer from ChatGPT : a=10/3
+
+Problem #755
+Answer from Original: 2
+Answer from ChatGPT : 4.5
+
+Problem #756
+Answer from Original: 243
+Answer from ChatGPT : 3125.
+
+Problem #76
+Answer from Original: 1
+Answer from ChatGPT : 27
+
+Problem #762
+Answer from Original: -5
+Answer from ChatGPT : {solution:-5<=b<=3}
+
+Problem #769
+Answer from Original: 11
+Answer from ChatGPT : 9.
+
+Problem #77
+Answer from Original: (1,-2)
+Answer from ChatGPT : (-1,2)
+
+Problem #771
+Answer from Original: 1
+Answer from ChatGPT : 1.5
+
+Problem #776
+Answer from Original: -2
+Answer from ChatGPT : -51
+
+Problem #779
+Answer from Original: sqrt(6)
+Answer from ChatGPT : 50/49
+
+Problem #780
+Answer from Original: 5
+Answer from ChatGPT : 14
+
+Problem #783
+Answer from Original: 3
+Answer from ChatGPT : 2.8
+
+Problem #784
+Answer from Original: 21
+Answer from ChatGPT : {eval:((63)^0.5)+9}
+
+Problem #785
+Answer from Original: 7
+Answer from ChatGPT : Nosolution.IamacomputationalsystemandIcannotinferthatyouwantthesumoftheceilingandfloorofthesquarerootof10.Inthiscase,theresultwouldbe4.
+
+Problem #786
+Answer from Original: 9
+Answer from ChatGPT : 2
+
+Problem #791
+Answer from Original: 41
+Answer from ChatGPT : 987
+
+Problem #794
+Answer from Original: 76.80
+Answer from ChatGPT : {operation:round(((8*12)/0.208333)*100,2),display_result:true}Thevalueofan8-footstackofnickelsis3182.88dollars.
+
+Problem #795
+Answer from Original: 25text(ft)
+Answer from ChatGPT : 45feet.
+
+Problem #797
+Answer from Original: 22
+Answer from ChatGPT : 89.
+
+Problem #799
+Answer from Original: 1
+Answer from ChatGPT : x=1
+
+Problem #80
+Answer from Original: -11
+Answer from ChatGPT : Thesolutionisx=11.
+
+Problem #801
+Answer from Original: 2
+Answer from ChatGPT : -2
+
+Problem #803
+Answer from Original: 16
+Answer from ChatGPT : 47.
+
+Problem #805
+Answer from Original: 6
+Answer from ChatGPT : 6
+
+Problem #812
+Answer from Original: 350
+Answer from ChatGPT : {equation:(500+10(x-450)/5)x,variable:\x\,solvefor:\x\,options:{method:maximize}}
+
+Problem #814
+Answer from Original: 4
+Answer from ChatGPT : x=4
+
+Problem #816
+Answer from Original: 4
+Answer from ChatGPT : 127
+
+Problem #817
+Answer from Original: 2
+Answer from ChatGPT : 1
+
+Problem #818
+Answer from Original: 2sqrt(2)
+Answer from ChatGPT : 4
+
+Problem #82
+Answer from Original: 1599text(dollars)
+Answer from ChatGPT : {operation:round,args:{value:{operation:-,args:[{operation:/,args:[{operation:*,args:[20000,0.06,4]},365]},4]},digits:0}}
+
+Problem #821
+Answer from Original: 6
+Answer from ChatGPT : Thevalueof(3\&5)\&8=(4\&8)=6.
+
+Problem #824
+Answer from Original: 12
+Answer from ChatGPT : 3+6+4
+
+Problem #825
+Answer from Original: -1
+Answer from ChatGPT : x=-1
+
+Problem #827
+Answer from Original: 15/4
+Answer from ChatGPT : [{operation:combine,steps:[[1/2x,-3/5,1/x],[=,1/5]]},{operation:isolate,steps:[[3/5],[=,1/2x+1/x-1/5],[=,1/2x+2/2x-2/10],[=,5/10x+4/10],[=,9/10x],[x,=,50/9]]}]
+
+Problem #829
+Answer from Original: (6,7)
+Answer from ChatGPT : [6,\sqrt{184})\cup[7,\sqrt{191})
+
+Problem #831
+Answer from Original: 36
+Answer from ChatGPT : Theansweris14.
+
+Problem #834
+Answer from Original: 288
+Answer from ChatGPT : 48.
+
+Problem #838
+Answer from Original: 7
+Answer from ChatGPT : 7
+
+Problem #840
+Answer from Original: 98
+Answer from ChatGPT : 222
+
+Problem #841
+Answer from Original: 350
+Answer from ChatGPT : 322.
+
+Problem #842
+Answer from Original: 1/4
+Answer from ChatGPT : 27/64
+
+Problem #843
+Answer from Original: 4x(8x^2-x+5)
+Answer from ChatGPT : 4x(8x^2-x+5).
+
+Problem #846
+Answer from Original: 5
+Answer from ChatGPT : aligned)2x^2+4x-1&=0\\x^2+2x-\frac(1)(2)&=0\\\end(aligned)Usingthequadraticformulaweget:\begin(aligned)\frac(-(2)\pm\sqrt((2)^2-4(1)(-\frac(1)(2))))(2(1))&=\frac(-2\pm\sqrt(9))(2)\\&=-1\pm\frac(3)(2)\end(aligned)Hencethetwosolutionstotheequationarex_1=-\frac(1)(2)+\frac(3)(2)=1andx_2=-\frac(1)(2)-\frac(3/2)=-2.Therefore,1^2+(-2)^2=5,sotheansweris5.Thesumofsquaresofthesolutionsis5.Answer:\\json(solution:5
+
+Problem #849
+Answer from Original: 18
+Answer from ChatGPT : {result:22}
+
+Problem #850
+Answer from Original: -8x^4+7x^2-7x+8
+Answer from ChatGPT : g(x)=-8x^4+7x^2-7
+
+Problem #851
+Answer from Original: -sqrt(x-2)+2
+Answer from ChatGPT : \[k(x)=-2+\sqrt{2-x}\]
+
+Problem #852
+Answer from Original: 10
+Answer from ChatGPT : n=10
+
+Problem #853
+Answer from Original: 12
+Answer from ChatGPT : 4
+
+Problem #858
+Answer from Original: -2
+Answer from ChatGPT : Thesmallestnumberwhichisonelessthantwiceitsreciprocalis2.
+
+Problem #859
+Answer from Original: (128,2)
+Answer from ChatGPT : [64,66]
+
+Problem #862
+Answer from Original: 109/150
+Answer from ChatGPT : {expression:72.6666../100,result:2/3}
+
+Problem #864
+Answer from Original: (-1,6)
+Answer from ChatGPT : {point_1:[-5,5],point_2:[3,7]}OUTPUT:(-1,6)
+
+Problem #865
+Answer from Original: 13
+Answer from ChatGPT : 5.
+
+Problem #869
+Answer from Original: 27
+Answer from ChatGPT : 30
+
+Problem #870
+Answer from Original: 9z(z^2-3z+3)
+Answer from ChatGPT : 9z(z-1)(z-2)
+
+Problem #872
+Answer from Original: 0
+Answer from ChatGPT : -1
+
+Problem #873
+Answer from Original: 33
+Answer from ChatGPT : c=25
+
+Problem #876
+Answer from Original: (15sqrt(7))/14
+Answer from ChatGPT : {expression:(sqrt(10)/sqrt(21))/(sqrt(135)/sqrt(8)),variables:{}}
+
+Problem #880
+Answer from Original: 10
+Answer from ChatGPT : {expression:a+b+c,equations:{eq1:a*0^2+b*0+c=5,eq2:a*1^2+b*1+c=10,eq3:a*2^2+b*2+c=19}}
+
+Problem #882
+Answer from Original: 7
+Answer from ChatGPT : x=7
+
+Problem #883
+Answer from Original: 2.5
+Answer from ChatGPT : 9
+
+Problem #887
+Answer from Original: 41
+Answer from ChatGPT : 54
+
+Problem #889
+Answer from Original: 9
+Answer from ChatGPT : ncanbe18or30.Toexplaintheworking,letthedifferencebetweenthedimensionsbek.Thesumofthedimensionsinthefirststageis(2n+k+6).Thesumofthedimensionsinthesecondstageis3n-3.Equatingthesetwosums,andsolvingforn,weget:3n-3=2n+k+6n=k+9Fromthisequation,itsclearthatkhastobeeven.Also,thenumberofdrummersis(n-2)(n+8)-(n-2)(2n-3)=8n-25.Usingthis,wecansolvefornandverifythatonlyvalues18and30giveus4ormoredrummers.Hence,theansweris48.
+
+Problem #89
+Answer from Original: 49/64
+Answer from ChatGPT : 49/64
+
+Problem #892
+Answer from Original: 2
+Answer from ChatGPT : Theansweris2.
+
+Problem #893
+Answer from Original: -1
+Answer from ChatGPT : -7
+
+Problem #901
+Answer from Original: 78
+Answer from ChatGPT : ThetotalnumberoftoycarsthatAidenwillhavereceivedfromJois78.
+
+Problem #902
+Answer from Original: 1
+Answer from ChatGPT : {answer:8/3}
+
+Problem #904
+Answer from Original: 0
+Answer from ChatGPT : 9.
+
+Problem #905
+Answer from Original: 4
+Answer from ChatGPT : -16
+
+Problem #907
+Answer from Original: 2
+Answer from ChatGPT : 2
+
+Problem #911
+Answer from Original: -7
+Answer from ChatGPT : {result:-7}
+
+Problem #913
+Answer from Original: 64a^6
+Answer from ChatGPT : 64a^6.
+
+Problem #916
+Answer from Original: 4
+Answer from ChatGPT : 216
+
+Problem #917
+Answer from Original: 12
+Answer from ChatGPT : 050
+
+Problem #919
+Answer from Original: 7.5
+Answer from ChatGPT : y=7.25
+
+Problem #922
+Answer from Original: 13
+Answer from ChatGPT : 12.165525(secondstoroundup)
+
+Problem #923
+Answer from Original: 14
+Answer from ChatGPT : 9
+
+Problem #928
+Answer from Original: (sqrt(2))/20
+Answer from ChatGPT : 1)(\sqrt(8)+\sqrt(50)+\sqrt(18))\cdot\frac(\sqrt(8)-\sqrt(50)+\sqrt(18))(\sqrt(8)-\sqrt(50)+\sqrt(18))=\frac(-3\sqrt2+\sqrt(50)-3/4
+
+Problem #935
+Answer from Original: -7
+Answer from ChatGPT : [-3,-4]
+
+Problem #937
+Answer from Original: 2
+Answer from ChatGPT : Therearetwovaluesofxthatmakesthedenominator0,hencethefractionundefined.Therefore,theansweris2.{answer:2}
+
+Problem #938
+Answer from Original: 6
+Answer from ChatGPT : Nosolution.Idonotseeanymaximumvalueforf^{-1}(x)onthegivengraph.
+
+Problem #944
+Answer from Original: 1
+Answer from ChatGPT : 128.
+
+Problem #945
+Answer from Original: 2
+Answer from ChatGPT : P(G(a))=P(4-3a)=4+2\sqrt{(4-3a)+2}=4+2\sqrt{-3a+6}Now,weneedtomakesurethattheargumentinthesquarerootofP(G(a))isnonnegative.Therefore,wemusthave-3a+6\geq0orequivalentlya\leq2.Thus,largestasuchthatP(G(a))isdefinedis2.
+
+Problem #952
+Answer from Original: (-1,8)
+Answer from ChatGPT : Nosolution.
+
+Problem #955
+Answer from Original: -4
+Answer from ChatGPT : {answer:-4}
+
+Problem #958
+Answer from Original: 0
+Answer from ChatGPT : {c:-4}
+
+Problem #96
+Answer from Original: -8
+Answer from ChatGPT : a=8
+
+Problem #962
+Answer from Original: 12
+Answer from ChatGPT : 10+4sqrt(5)
+
+Problem #967
+Answer from Original: 7x^5+12x^2+3x+9
+Answer from ChatGPT : \boldsymbol{7x^5+9x^2+3x^2+3x+2+7=7x^5+12x^2+3x+9}
+
+Problem #968
+Answer from Original: -11/9
+Answer from ChatGPT : y=-1.
+
+Problem #969
+Answer from Original: 350
+Answer from ChatGPT : 340.
+
+Problem #972
+Answer from Original: 11/2
+Answer from ChatGPT : 3/2
+
+Problem #975
+Answer from Original: -4
+Answer from ChatGPT : x=-4andx=-5arenotinthedomainoff(x).Allotherrealvaluesofxareinthedomain.
+
+Problem #977
+Answer from Original: 16
+Answer from ChatGPT : 4096.0
+
+Problem #978
+Answer from Original: 20
+Answer from ChatGPT : 8
+
+Problem #979
+Answer from Original: 44
+Answer from ChatGPT : 18.
+
+Problem #981
+Answer from Original: 228.3
+Answer from ChatGPT : {operation:452/1.05^14}Itwas166.9centimeterstalltwoweeksago.
+
+Problem #983
+Answer from Original: 2x^3-10x^2-24x+72
+Answer from ChatGPT : 2x^3-24x^2-2x+72
+
+Problem #986
+Answer from Original: -1/2
+Answer from ChatGPT : -0.75
+
+Problem #988
+Answer from Original: 11
+Answer from ChatGPT : {solution:17}
+
+Problem #989
+Answer from Original: 1
+Answer from ChatGPT : 1+\sqrt(5)/2
+
+Problem #990
+Answer from Original: 3800
+Answer from ChatGPT : {expression:2000*(1+18*0.05),precision:2}
+
+Problem #993
+Answer from Original: -x^7-2x^5+x^2
+Answer from ChatGPT : -x^7+4x^5+x^2
+
+Problem #994
+Answer from Original: 6
+Answer from ChatGPT : 5/2
+
+Problem #996
+Answer from Original: 2
+Answer from ChatGPT : 1+\sqrt(5)/2
+
+Problem #998
+Answer from Original: 13
+Answer from ChatGPT : text(nosolution)
+
+Matching Answers: 278
+Wrong Answers   : 909
+9 Files with Errors: 
+[('1031', 'Multiple Answers'), ('1089', 'Multiple Answers'), ('1197', 'Multiple Answers'), ('1730', 'Multiple Answers'), ('1810', 'Multiple Answers'), ('1878', 'Multiple Answers'), ('2395', 'Extraction Failed'), ('291', 'Multiple Answers'), ('491', 'Multiple Answers')]
