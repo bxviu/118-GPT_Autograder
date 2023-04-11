@@ -10,10 +10,10 @@ def score(answer1, answer2):
         if debugLevel > 1: print("Matches: \"" + str(answer1) + "\" matches \"" + str(answer2) + "\"")
         return
     # maybe ChatGPT has the answer within a larger string, comment out if you want the scoring to be more strict
-    elif (answer1 in answer2):
-        correctNum += 1
-        if debugLevel > 1: print("Matches: \"" + str(answer1) + "\" is found within \"" + str(answer2) + "\"")
-        return
+    # elif (answer1 in answer2):
+    #     correctNum += 1
+    #     if debugLevel > 1: print("Matches: \"" + str(answer1) + "\" is found within \"" + str(answer2) + "\"")
+    #     return
     global wrongNum
     wrongNum += 1
     if debugLevel > 1: print("Wrong: \"" + str(answer1) + "\" doesn't match \"" + str(answer2) + "\"")
@@ -30,15 +30,13 @@ def openJsonFile(file):
         return data['solution']
 
 def getJsonFiles(original_file_path, GPT_file_path):
-    # https://www.geeksforgeeks.org/python-read-file-from-sibling-directory/
-    # https://www.geeksforgeeks.org/python-list-files-in-a-directory/
     jsonListOrig = []
     jsonListGPT = []
 
     fileCount = 0;
     if debugLevel > 1: invalidFileNum = 0
     
-    checkFileList = []#[706]#[876, 2257, 2253, 2216, 2193]
+    checkFileList = []#[291]#[1810]#[706]#[876, 2257, 2253, 2216, 2193]
     for file in checkFileList:
         file = str(file) + ".json"
         jsonListOrig.append(os.path.join(original_file_path, file))
@@ -76,25 +74,18 @@ def count_opening_braces(s):
             count += 1
         elif c == '}':
             closed += 1
-            # count -= 1
         if open != 0 and closed != 0 and open == closed:
-            # print("eq " + str(count))
             return count
-    # print("end " + str(count))
     return count
 
 def extractAnswer(string):
     if debugLevel > 3: print("Extracting Answer from: \n" + string + "\n")
     string = string.replace("%", "").replace("$", "").replace(" ", "").replace("\n", "").replace("\'", "").replace("\"", "").replace("`", "")
     if debugLevel > 3: print("Removing %,$, ,\\n,\',\",`: \n" + string + "\n")
-    # print(string)
     if '\\boxed' in string:
-        # return string
         pattern = r'\\boxed{.*}'
         matches = list(set(re.findall(pattern, string)))
         if debugLevel > 2: print("Found Answer in String: " + matches[0])
-        # pattern = r'\\boxed\([^()]+\)'
-        # pattern = r'\\boxed{((?:[^{}]*{[^{}]*}){0,%d}[^{}]*)}' % count_opening_braces(string)
         pattern = r'\\boxed{((?:[^{}]*{[^{}]*}*){0,%d}[^{}]*)}' % count_opening_braces(string)
         # get rid of duplicates of same answer
         matches = list(set(re.findall(pattern, string)))
@@ -105,21 +96,13 @@ def extractAnswer(string):
             if debugLevel > 1: 
                 print("why is there more than one answer in the solution file??? -  " + str(matches) 
                 + "\nGoing to use answer in 0th index.")
-            # raise Exception("why is there more than one answer in the solution file??? - " + str(matches))
         if len(matches) < 1:
             if debugLevel > 0: 
                 addErrorFile("No Answer")
             if debugLevel > 1:
                 print("why is no answer???")
-            # raise Exception("why is no answer???")
-        # if "," in matches[0]:
-        # matches[0] = re.sub(",", "", matches[0]).replace(" ", "")
-        # matches[0] = matches[0].replace("%", "").replace("$", "")    
         try:
             if 'frac' in matches[0]:
-                # pattern = r'\\boxed\{(-?).*{(\d+)}{(\d+)}}'
-                # pattern = r'\\boxed\{(-?).*{(.*)}{(.*)}}'
-                # matches[0] = 
                 pattern = r'(-?).*?{(.*)}{(.*)}'
                 fractionNums = re.findall(pattern, matches[0])
                 if len(fractionNums) != 0:
@@ -135,11 +118,8 @@ def extractAnswer(string):
                         result += str(fractionNums[0][2])
                     else:
                         result += "(" + str(fractionNums[0][2]) + ")"
-                    # result = str(fractionNums[0][1]) + "/" + str(fractionNums[0][2])
                     if fractionNums[0][0] == "-":
                         result = "-" + result
-                    # return result
-                    # str(fractionNums[0][0][1:-1]) + "/" + str(fractionNums[0][1][1:-1]) if fractionNums[0][0] != "-" else "-" + 
                 else:
                     pattern = r'(-?)[\\A-Za-z_]+(\d+)'
                     fractionNums = re.findall(pattern, matches[0])
@@ -163,35 +143,28 @@ def extractAnswer(string):
                 and they are supposed to be like "\boxed{\frac{1}{9}}""" 
                 so this else statement should deal with stuff like that
                 '''
-                
-            # print(matches[0][7:-1])
             else:   
                 result = ''.join(x for x in matches[0] if x != "\\")
             # Assuming that {} contains numbers that are part of a function now, like sqrt{324} becomes sqrt(324)
-            # matches[0] = matches[0].replace("{", "(").replace("}", ")")
-            # if debugLevel > 1: print("Replacing {} with (): " + matches[0])
-
             result = result.replace("{", "(").replace("}", ")").replace("\\","")
             if debugLevel > 2: print("Replacing {} with () and removing \\: " + result)
             return result
-            # matches[0][7:-1] cuts off the "\\boxed(" at the start of the string and ")" at the end
-            # return ''.join(x for x in matches[0][7:-1] if x != "\\") # x.isdigit() or x == '-')
-            # return ''.join(filter(str.isdigit, matches[0]))
         except:
             if debugLevel > 0: addErrorFile("Extraction Failed")
             return "Extraction Failed"
     elif 'frac{' in string:
-        # try:
-            pattern = r'(-?).*?{(.*)}{(.*)}'
-            fractionNums = re.findall(pattern, string)
-            if debugLevel > 1: print("No \"\\boxed{}\" Format but Found Fraction: " + str(fractionNums))
-            result = str(fractionNums[0][1]) + "/" + str(fractionNums[0][2])
-            if fractionNums[0][0] == "-":
-                result = "-" + result
-            if debugLevel > 2: print("Replacing {} with (): " + string)
-            return result.replace("{", "(").replace("}", ")")
-        # except:
-        #     return "grader-error2"
+            try:
+                pattern = r'(-?).*?{(.*)}{(.*)}'
+                fractionNums = re.findall(pattern, string)
+                if debugLevel > 1: print("No \"\\boxed{}\" Format but Found Fraction: " + str(fractionNums))
+                result = str(fractionNums[0][1]) + "/" + str(fractionNums[0][2])
+                if fractionNums[0][0] == "-":
+                    result = "-" + result
+                if debugLevel > 2: print("Replacing {} with (): " + string)
+                return result.replace("{", "(").replace("}", ")")
+            except:
+                if debugLevel > 0: addErrorFile("Extraction Failed")
+                return "Extraction Failed"
     return string
 
 def gradeFiles(original_file_path, GPT_file_path): 
@@ -255,7 +228,7 @@ def main():
     else:
         original_file_path = sys.argv[1]
         GPT_file_path = sys.argv[2]
-    if len(sys.argv) > 2:
+    if len(sys.argv) > 3:
         debugLevel = int(sys.argv[3]) if sys.argv[3].isnumeric() else debugLevel
     
     if os.path.isdir(original_file_path) and os.path.isdir(GPT_file_path):
