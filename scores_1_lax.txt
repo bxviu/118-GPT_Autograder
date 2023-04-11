@@ -1,0 +1,29 @@
+algebra
+Matching Answers: 277
+Wrong Answers   : 910
+
+counting_and_probability
+Matching Answers: 73
+Wrong Answers   : 401
+
+geometry
+Matching Answers: 46
+Wrong Answers   : 433
+
+intermediate_algebra
+Matching Answers: 134
+Wrong Answers   : 769
+
+number_theory
+Matching Answers: 99
+Wrong Answers   : 441
+
+prealgebra
+Matching Answers: 255
+Wrong Answers   : 616
+
+precalculus
+Matching Answers: 80
+Wrong Answers   : 466
+
+353/5000 ~= 0.0706%
