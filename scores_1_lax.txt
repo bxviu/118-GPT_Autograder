@@ -26,4 +26,4 @@ precalculus
 Matching Answers: 80
 Wrong Answers   : 466
 
-353/5000 ~= 0.0706%
+964/5000 ~= 0.1928 ~= 19.28%
