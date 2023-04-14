@@ -1,0 +1,88 @@
+algebra - formatted
+Matching Answers: 199
+Wrong Answers   : 988
+Total Answers   : 1187
+
+Comparisons if Ignoring 7 Failed Extractions.
+Matching Answers: 192
+Wrong Answers   : 981
+Total Answers   : 1180
+
+-------------------------
+
+counting_and_probability - formatted
+Matching Answers: 63
+Wrong Answers   : 411
+Total Answers   : 474
+
+Comparisons if Ignoring 0 Failed Extractions.
+Matching Answers: 63
+Wrong Answers   : 411
+Total Answers   : 474
+
+-------------------------
+
+geometry - not formatted
+Matching Answers: 48
+Wrong Answers   : 431
+Total Answers   : 479
+
+Comparisons if Ignoring 5 Failed Extractions.
+Matching Answers: 43
+Wrong Answers   : 426
+Total Answers   : 474
+
+-------------------------
+
+intermediate_algebra - not formatted
+Matching Answers: 136
+Wrong Answers   : 767
+Total Answers   : 903
+
+Comparisons if Ignoring 13 Failed Extractions.
+Matching Answers: 123
+Wrong Answers   : 754
+Total Answers   : 890
+
+-------------------------
+
+number_theory - not formatted
+Matching Answers: 103
+Wrong Answers   : 437
+Total Answers   : 540
+
+Comparisons if Ignoring 0 Failed Extractions.
+Matching Answers: 103
+Wrong Answers   : 437
+Total Answers   : 540
+
+-------------------------
+
+prealgebra - not formatted
+Matching Answers: 469
+Wrong Answers   : 402
+Total Answers   : 871
+
+Comparisons if Ignoring 1 Failed Extractions.
+Matching Answers: 468
+Wrong Answers   : 401
+Total Answers   : 870
+
+-------------------------
+
+precalculus - halfway formatted, so using the not formatted files
+Matching Answers: 94
+Wrong Answers   : 452
+Total Answers   : 546
+
+Comparisons if Ignoring 24 Failed Extractions.
+Matching Answers: 70
+Wrong Answers   : 428
+Total Answers   : 522
+
+-------------------------
+
+1112/5000 ~= 0.2224 = 22.24%
+
+If Ignoring 50 Failed Extractions
+1062/4950 ~= 0.2145 = 21.45%

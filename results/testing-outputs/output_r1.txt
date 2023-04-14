@@ -1,0 +1,4710 @@
+Found 100 files.
+Found 200 files.
+Found 300 files.
+Found 400 files.
+Found 500 files.
+Found 600 files.
+Found 700 files.
+Found 800 files.
+Found 900 files.
+Found 1000 files.
+Found 1100 files.
+
+
+Matching Answers Now
+
+
+Original File: 4-7-MATH-test-answers/test/algebra/1.json
+Extracted Answer: ['2']
+Answer from Original: 2
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1_answer.json
+Answer from ChatGPT : 2
+
+Matches: "2" matches "2"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/10.json
+Extracted Answer: ['10']
+Answer from Original: 10
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/10_answer.json
+Answer from ChatGPT : 18
+
+Wrong: "10" doesn't match "18"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1001.json
+Extracted Answer: ['\\dfrac{9}{7}']
+Found Fraction: [('', '9', '7')]
+Answer from Original: 9/7
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1001_answer.json
+Extracted Answer: ['\\frac{2}{7}']
+Found Fraction: [('', '2', '7')]
+Answer from ChatGPT : 2/7
+
+Wrong: "9/7" doesn't match "2/7"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1002.json
+Extracted Answer: ['i']
+Answer from Original: i
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1002_answer.json
+Extracted Answer: ['0']
+Answer from ChatGPT : 0
+
+Wrong: "i" doesn't match "0"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1004.json
+Extracted Answer: ['4']
+Answer from Original: 4
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1004_answer.json
+Answer from ChatGPT : 2.
+
+Wrong: "4" doesn't match "2."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1009.json
+Extracted Answer: ['402']
+Answer from Original: 402
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1009_answer.json
+Answer from ChatGPT : 241
+
+Wrong: "402" doesn't match "241"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/101.json
+Extracted Answer: ['x \\in [-2,7]']
+Answer from Original: xin[-2,7]
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/101_answer.json
+Answer from ChatGPT : {operation:([-infinity,-1]union[6,infinity])}
+
+Wrong: "xin[-2,7]" doesn't match "{operation:([-infinity,-1]union[6,infinity])}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1014.json
+Extracted Answer: ['7']
+Answer from Original: 7
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1014_answer.json
+Answer from ChatGPT : 5
+
+Wrong: "7" doesn't match "5"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1017.json
+Extracted Answer: ['4,6,14,15']
+Answer from Original: 4,6,14,15
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1017_answer.json
+Answer from ChatGPT : 1,3,6,10
+
+Wrong: "4,6,14,15" doesn't match "1,3,6,10"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1019.json
+Extracted Answer: ['-\\frac{1}{8}']
+Found Fraction: [('-', '1', '8')]
+Answer from Original: -1/8
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1019_answer.json
+Found Fraction: [('', '1', '7')]
+Answer from ChatGPT : 1/7
+
+Wrong: "-1/8" doesn't match "1/7"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1020.json
+Extracted Answer: ['\\frac{x+2}{7}']
+Found Fraction: [('', 'x+2', '7')]
+Answer from Original: (x+2)/7
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1020_answer.json
+Found Fraction: [('', '-1}(x) = \\frac{1', '7')]
+Found Fraction: []
+Answer from ChatGPT : (ExtractionFailed)/7
+
+Wrong: "(x+2)/7" doesn't match "(ExtractionFailed)/7"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1022.json
+Extracted Answer: ['-15']
+Answer from Original: -15
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1022_answer.json
+Answer from ChatGPT : Nosolution.
+
+Wrong: "-15" doesn't match "Nosolution."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1023.json
+Extracted Answer: ['10']
+Answer from Original: 10
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1023_answer.json
+Answer from ChatGPT : 10
+
+Matches: "10" matches "10"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1025.json
+Extracted Answer: ['8']
+Answer from Original: 8
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1025_answer.json
+Answer from ChatGPT : 5and7,so5+7=12.Therefore,thesumofthecoordinatesofthemidpointofthissegmentis12.
+
+Wrong: "8" doesn't match "5and7,so5+7=12.Therefore,thesumofthecoordinatesofthemidpointofthissegmentis12."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1026.json
+Extracted Answer: ['75']
+Answer from Original: 75
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1026_answer.json
+Answer from ChatGPT : 130
+
+Wrong: "75" doesn't match "130"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1031.json
+Extracted Answer: ['\\frac{11}{2}']
+Found Fraction: [('', '11', '2')]
+Answer from Original: 11/2
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1031_answer.json
+Answer from ChatGPT : 2.5
+
+Wrong: "11/2" doesn't match "2.5"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1032.json
+Extracted Answer: ['-25']
+Answer from Original: -25
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1032_answer.json
+Answer from ChatGPT : {answer:-25}
+
+Matches: "-25" is found within "{answer:-25}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1034.json
+Extracted Answer: ['8']
+Answer from Original: 8
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1034_answer.json
+Answer from ChatGPT : 1930.
+
+Wrong: "8" doesn't match "1930."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1035.json
+Extracted Answer: ['3']
+Answer from Original: 3
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1035_answer.json
+Answer from ChatGPT : 130Treeksareequalinweightto1Squig.
+
+Matches: "3" is found within "130Treeksareequalinweightto1Squig."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/104.json
+Extracted Answer: ['187.5']
+Answer from Original: 187.5
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/104_answer.json
+Answer from ChatGPT : 150.
+
+Wrong: "187.5" doesn't match "150."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1042.json
+Extracted Answer: ['18']
+Answer from Original: 18
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1042_answer.json
+Answer from ChatGPT : [{input:count(2<=n<=499andisprime(n)),output:5}]
+
+Wrong: "18" doesn't match "[{input:count(2<=n<=499andisprime(n)),output:5}]"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1043.json
+Extracted Answer: ['\\$40']
+Answer from Original: 40
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1043_answer.json
+Answer from ChatGPT : {operation:1.25*2^4}Theansweris20.
+
+Wrong: "40" doesn't match "{operation:1.25*2^4}Theansweris20."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1044.json
+Extracted Answer: ['5']
+Answer from Original: 5
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1044_answer.json
+Answer from ChatGPT : 11
+
+Wrong: "5" doesn't match "11"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1049.json
+Extracted Answer: ['8']
+Answer from Original: 8
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1049_answer.json
+Answer from ChatGPT : {expression:4*3.67/1.835,precision:2}
+
+Matches: "8" is found within "{expression:4*3.67/1.835,precision:2}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1050.json
+Extracted Answer: ['3125']
+Answer from Original: 3125
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1050_answer.json
+Answer from ChatGPT : 1250.
+
+Wrong: "3125" doesn't match "1250."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1051.json
+Extracted Answer: ['[0,\\infty)']
+Answer from Original: [0,infty)
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1051_answer.json
+1
+Answer from ChatGPT : Therangeofthefunctionf(x)=sqrt(x^2)is[0,infty).
+
+Matches: "[0,infty)" is found within "Therangeofthefunctionf(x)=sqrt(x^2)is[0,infty)."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1057.json
+Extracted Answer: ['.5']
+Answer from Original: .5
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1057_answer.json
+Answer from ChatGPT : -4.5
+
+Matches: ".5" is found within "-4.5"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1060.json
+Extracted Answer: ['12, 10, 6']
+Answer from Original: 12,10,6
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1060_answer.json
+Answer from ChatGPT : c=Box
+
+Wrong: "12,10,6" doesn't match "c=Box"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1063.json
+Extracted Answer: ['5']
+Answer from Original: 5
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1063_answer.json
+Answer from ChatGPT : 8.
+
+Wrong: "5" doesn't match "8."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1065.json
+Extracted Answer: ['16']
+Answer from Original: 16
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1065_answer.json
+Answer from ChatGPT : {expression:48b-144=0,variables:[b],solution:b=3}
+
+Wrong: "16" doesn't match "{expression:48b-144=0,variables:[b],solution:b=3}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1069.json
+Extracted Answer: ['2300']
+Answer from Original: 2300
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1069_answer.json
+Answer from ChatGPT : Thecostoffivepoundsoffeathersandfiveouncesofgoldis493.
+
+Wrong: "2300" doesn't match "Thecostoffivepoundsoffeathersandfiveouncesofgoldis493."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/107.json
+Extracted Answer: ['5']
+Answer from Original: 5
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/107_answer.json
+1
+1
+1
+1
+1
+Answer from ChatGPT : r=sqrt((-b/2)^2-c)wherebisthecoefficientofthelineartermandcistheconstanttermofthecircleequation.Therefore,r=sqrt((-(8)/2)^2-(-6))=sqrt(4^2+6)=sqrt(22).Hence,theradiusofthecircleissqrt(22).
+
+Wrong: "5" doesn't match "r=sqrt((-b/2)^2-c)wherebisthecoefficientofthelineartermandcistheconstanttermofthecircleequation.Therefore,r=sqrt((-(8)/2)^2-(-6))=sqrt(4^2+6)=sqrt(22).Hence,theradiusofthecircleissqrt(22)."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1070.json
+Extracted Answer: ['105']
+Answer from Original: 105
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1070_answer.json
+Answer from ChatGPT : 177.
+
+Wrong: "105" doesn't match "177."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1071.json
+Extracted Answer: ['-13.5']
+Answer from Original: -13.5
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1071_answer.json
+Answer from ChatGPT : {p+q:-11.7}
+
+Wrong: "-13.5" doesn't match "{p+q:-11.7}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1072.json
+Extracted Answer: ['\\frac{243}{625}']
+Found Fraction: [('', '243', '625')]
+Answer from Original: 243/625
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1072_answer.json
+Extracted Answer: ['\\frac{625}{4782969}']
+Found Fraction: [('', '625', '4782969')]
+Answer from ChatGPT : 625/4782969
+
+Wrong: "243/625" doesn't match "625/4782969"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1075.json
+Extracted Answer: ['2']
+Answer from Original: 2
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1075_answer.json
+Answer from ChatGPT : 6.
+
+Wrong: "2" doesn't match "6."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1078.json
+Extracted Answer: ['(-\\sqrt{3}, \\sqrt{3})']
+1
+1
+Answer from Original: (-sqrt(3),sqrt(3))
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1078_answer.json
+Extracted Answer: ['(-2,1)']
+Answer from ChatGPT : (-2,1)
+
+Wrong: "(-sqrt(3),sqrt(3))" doesn't match "(-2,1)"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1082.json
+Extracted Answer: ['23']
+Answer from Original: 23
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1082_answer.json
+Extracted Answer: ['15']
+Answer from ChatGPT : 15
+
+Wrong: "23" doesn't match "15"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1084.json
+Extracted Answer: ['49']
+Answer from Original: 49
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1084_answer.json
+Extracted Answer: ['(7,49)']
+Answer from ChatGPT : (7,49)
+
+Matches: "49" is found within "(7,49)"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1088.json
+Extracted Answer: ['2x^9 - 8x^7 + 9x^6 - 16x^5 - 12x^4 + 9x^3 - 24x^2']
+Answer from Original: 2x^9-8x^7+9x^6-16x^5-12x^4+9x^3-24x^2
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1088_answer.json
+Answer from ChatGPT : errorgettingananswer
+
+Wrong: "2x^9-8x^7+9x^6-16x^5-12x^4+9x^3-24x^2" doesn't match "errorgettingananswer"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1089.json
+Extracted Answer: ['(-\\infty,-8)\\cup (8,\\infty)']
+Answer from Original: (-infty,-8)cup(8,infty)
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1089_answer.json
+Extracted Answer: ['(-\\infty, 0)', '(8, \\infty)']
+why is there more than one answer in the solution file??? -  ['(-\\infty, 0)', '(8, \\infty)']
+Going to use answer in 0th index.
+Answer from ChatGPT : (-infty,0)
+
+Wrong: "(-infty,-8)cup(8,infty)" doesn't match "(-infty,0)"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/109.json
+Extracted Answer: ['0']
+Answer from Original: 0
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/109_answer.json
+Answer from ChatGPT : {Operation:Substitute,Expression:3*4+2*y=12,Unknown:y}{Solution:3*4+2*y=12,Unknown:y}{Solution:-6}
+
+Wrong: "0" doesn't match "{Operation:Substitute,Expression:3*4+2*y=12,Unknown:y}{Solution:3*4+2*y=12,Unknown:y}{Solution:-6}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1092.json
+Extracted Answer: ['2']
+Answer from Original: 2
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1092_answer.json
+Answer from ChatGPT : Nosolution.
+
+Wrong: "2" doesn't match "Nosolution."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1095.json
+Extracted Answer: ['16']
+Answer from Original: 16
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1095_answer.json
+Answer from ChatGPT : 28dollars.
+
+Wrong: "16" doesn't match "28dollars."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1097.json
+Extracted Answer: ['\\frac{1}{12}']
+Found Fraction: [('', '1', '12')]
+Answer from Original: 1/12
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1097_answer.json
+Extracted Answer: ['\\frac{7}{8}']
+Found Fraction: [('', '7', '8')]
+Answer from ChatGPT : 7/8
+
+Wrong: "1/12" doesn't match "7/8"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1098.json
+Extracted Answer: ['6+9i']
+Answer from Original: 6+9i
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1098_answer.json
+Answer from ChatGPT : {operation:(1+2i)*6-3i}<br>{result:9+9i}
+
+Wrong: "6+9i" doesn't match "{operation:(1+2i)*6-3i}<br>{result:9+9i}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/11.json
+Extracted Answer: ['2']
+Answer from Original: 2
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/11_answer.json
+Answer from ChatGPT : 14
+
+Wrong: "2" doesn't match "14"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/110.json
+Extracted Answer: ['20']
+Answer from Original: 20
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/110_answer.json
+Answer from ChatGPT : 20
+
+Matches: "20" matches "20"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1102.json
+Extracted Answer: ['7(x+3) (x-3)']
+Answer from Original: 7(x+3)(x-3)
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1102_answer.json
+Answer from ChatGPT : 7(x+3)(x-3)
+
+Matches: "7(x+3)(x-3)" matches "7(x+3)(x-3)"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1103.json
+Extracted Answer: ['y^4-2y^3+7y^2+y-5']
+Answer from Original: y^4-2y^3+7y^2+y-5
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1103_answer.json
+Answer from ChatGPT : {operation:add,operands:[{polynomial:[1,-3,1,-3]},{polynomial:[1,7,0,-2]}]}Theanswerisy^4-3y^3+y^3+7y^2+y-5.
+
+Wrong: "y^4-2y^3+7y^2+y-5" doesn't match "{operation:add,operands:[{polynomial:[1,-3,1,-3]},{polynomial:[1,7,0,-2]}]}Theanswerisy^4-3y^3+y^3+7y^2+y-5."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1107.json
+Extracted Answer: ['4']
+Answer from Original: 4
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1107_answer.json
+Answer from ChatGPT : 4
+
+Matches: "4" matches "4"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1108.json
+Extracted Answer: ['0']
+Answer from Original: 0
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1108_answer.json
+Answer from ChatGPT : Theansweris0.
+
+Matches: "0" is found within "Theansweris0."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1111.json
+Extracted Answer: ['12']
+Answer from Original: 12
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1111_answer.json
+Answer from ChatGPT : Nosolution.
+
+Wrong: "12" doesn't match "Nosolution."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1112.json
+Extracted Answer: ['\\frac{7}{2}']
+Found Fraction: [('', '7', '2')]
+Answer from Original: 7/2
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1112_answer.json
+Found Fraction: [('', '1', '3')]
+Answer from ChatGPT : 1/3
+
+Wrong: "7/2" doesn't match "1/3"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1114.json
+Extracted Answer: ['69']
+Answer from Original: 69
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1114_answer.json
+Answer from ChatGPT : Thelargesttwhichwillbringtheamusementparkaprofitgreaterthan4200is100.**Solution:**Thecostofoneticketis70.TherevenuefromtticketsisR=70t.TheprofitisgivenbyP(t)=R(t)-C(t),whereC(t)isthecostfunctionforttickets.Iftleq60,thenC(t)=50t+800.Ift>60,thenC(t)=70cdot60+(t-60)(50+70-(t-60)).Wefindthatthebreak-evenpointist=70.Thus,ift>70,wehaveP(t)=70t-[70cdot60+(t-60)(50+70-(t-60))].Simplifying,wegetP(t)=-t^2+140t-4200=-(t-100)(t-40).Hence,themaximumtwhichwillbringtheamusementparkaprofitgreaterthan4200ist=100.
+
+Wrong: "69" doesn't match "Thelargesttwhichwillbringtheamusementparkaprofitgreaterthan4200is100.**Solution:**Thecostofoneticketis70.TherevenuefromtticketsisR=70t.TheprofitisgivenbyP(t)=R(t)-C(t),whereC(t)isthecostfunctionforttickets.Iftleq60,thenC(t)=50t+800.Ift>60,thenC(t)=70cdot60+(t-60)(50+70-(t-60)).Wefindthatthebreak-evenpointist=70.Thus,ift>70,wehaveP(t)=70t-[70cdot60+(t-60)(50+70-(t-60))].Simplifying,wegetP(t)=-t^2+140t-4200=-(t-100)(t-40).Hence,themaximumtwhichwillbringtheamusementparkaprofitgreaterthan4200ist=100."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1115.json
+Extracted Answer: ['5']
+Answer from Original: 5
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1115_answer.json
+Answer from ChatGPT : 14.
+
+Wrong: "5" doesn't match "14."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1123.json
+Extracted Answer: ['\\left(-\\infty,-\\frac 12\\right)\\cup \\left(-\\frac 12,\\infty\\right)']
+Found Fraction: []
+Answer from Original: ExtractionFailed
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1123_answer.json
+Found Fraction: [('', '1}{2}) \\cup (-\\frac{1', '2')]
+Found Fraction: []
+Answer from ChatGPT : (ExtractionFailed)/2
+
+Matches: "ExtractionFailed" is found within "(ExtractionFailed)/2"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1125.json
+Extracted Answer: ['\\frac{2}{5}']
+Found Fraction: [('', '2', '5')]
+Answer from Original: 2/5
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1125_answer.json
+Extracted Answer: ['\\frac{3}{5}']
+Found Fraction: [('', '3', '5')]
+Answer from ChatGPT : 3/5
+
+Wrong: "2/5" doesn't match "3/5"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1128.json
+Extracted Answer: ['7']
+Answer from Original: 7
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1128_answer.json
+Answer from ChatGPT : 1.Weneedtofindthevalueoff^{-1}(3)first.2.f(4)=3impliesf^{-1}(3)=4.3.Thusf^{-1}(f^{-1}(3))=f^{-1}(4).4.Todeterminethevalueoff^{-1}(4),weneedtofindxsuchthatf(x)=4.5.Fromtheinformationgiven,f(7)=4.6.Therefore,f^{-1}(4)=7.Thusf^{-1}(f^{-1}(3))=f^{-1}(4)=7.Sotheansweris7.
+
+Matches: "7" is found within "1.Weneedtofindthevalueoff^{-1}(3)first.2.f(4)=3impliesf^{-1}(3)=4.3.Thusf^{-1}(f^{-1}(3))=f^{-1}(4).4.Todeterminethevalueoff^{-1}(4),weneedtofindxsuchthatf(x)=4.5.Fromtheinformationgiven,f(7)=4.6.Therefore,f^{-1}(4)=7.Thusf^{-1}(f^{-1}(3))=f^{-1}(4)=7.Sotheansweris7."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1129.json
+Extracted Answer: ['20']
+Answer from Original: 20
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1129_answer.json
+Answer from ChatGPT : Output:21+3i
+
+Wrong: "20" doesn't match "Output:21+3i"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/113.json
+Extracted Answer: ['7']
+Answer from Original: 7
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/113_answer.json
+Answer from ChatGPT : 7.0
+
+Matches: "7" is found within "7.0"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1133.json
+Extracted Answer: ['\\sqrt{x}']
+1
+Answer from Original: sqrt(x)
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1133_answer.json
+1
+Answer from ChatGPT : sqrt(x^5).
+
+Wrong: "sqrt(x)" doesn't match "sqrt(x^5)."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1135.json
+Extracted Answer: ['78']
+Answer from Original: 78
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1135_answer.json
+Answer from ChatGPT : abc=231,wherea=11,b=13,andc=2.
+
+Wrong: "78" doesn't match "abc=231,wherea=11,b=13,andc=2."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1138.json
+Extracted Answer: ['9']
+Answer from Original: 9
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1138_answer.json
+Answer from ChatGPT : 108.
+
+Wrong: "9" doesn't match "108."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/114.json
+Extracted Answer: ['4']
+Answer from Original: 4
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/114_answer.json
+Answer from ChatGPT : 16.
+
+Wrong: "4" doesn't match "16."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1142.json
+Extracted Answer: ['6']
+Answer from Original: 6
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1142_answer.json
+Answer from ChatGPT : 1.5.
+
+Wrong: "6" doesn't match "1.5."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1143.json
+Extracted Answer: ['17']
+Answer from Original: 17
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1143_answer.json
+Answer from ChatGPT : 58.5
+
+Wrong: "17" doesn't match "58.5"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1144.json
+Extracted Answer: ['\\left(1,\\frac{9}{2}\\right)']
+Found Fraction: [('', '9', '2')]
+Answer from Original: 9/2
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1144_answer.json
+Answer from ChatGPT : {midpoint:{coords:[[5,3],[-3,6]]}}
+
+Wrong: "9/2" doesn't match "{midpoint:{coords:[[5,3],[-3,6]]}}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1145.json
+Extracted Answer: ['\\frac{15}{2}']
+Found Fraction: [('', '15', '2')]
+Answer from Original: 15/2
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1145_answer.json
+Extracted Answer: ['3 \\frac{32767}{65536}']
+Found Fraction: [('', '32767', '65536')]
+Answer from ChatGPT : 32767/65536
+
+Wrong: "15/2" doesn't match "32767/65536"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1147.json
+Extracted Answer: ['-2']
+Answer from Original: -2
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1147_answer.json
+Answer from ChatGPT : h=-2
+
+Matches: "-2" is found within "h=-2"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1149.json
+Extracted Answer: ['8']
+Answer from Original: 8
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1149_answer.json
+Answer from ChatGPT : {solution:54}
+
+Wrong: "8" doesn't match "{solution:54}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1151.json
+Extracted Answer: ['20']
+Answer from Original: 20
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1151_answer.json
+Answer from ChatGPT : Thegreaterofthetwonumbersbefore8isaddedtoitis70.
+
+Wrong: "20" doesn't match "Thegreaterofthetwonumbersbefore8isaddedtoitis70."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1157.json
+Extracted Answer: ['24']
+Answer from Original: 24
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1157_answer.json
+Answer from ChatGPT : 224/21or1014/21
+
+Matches: "24" is found within "224/21or1014/21"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/116.json
+Extracted Answer: ['\\frac{19}{4}']
+Found Fraction: [('', '19', '4')]
+Answer from Original: 19/4
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/116_answer.json
+Found Fraction: [('', '33', '2')]
+Answer from ChatGPT : 33/2
+
+Wrong: "19/4" doesn't match "33/2"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1160.json
+Extracted Answer: ['5']
+Answer from Original: 5
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1160_answer.json
+Answer from ChatGPT : {-5}
+
+Matches: "5" is found within "{-5}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1164.json
+Extracted Answer: ['-55']
+Answer from Original: -55
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1164_answer.json
+Answer from ChatGPT : 740.
+
+Wrong: "-55" doesn't match "740."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1165.json
+Extracted Answer: ['60']
+Answer from Original: 60
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1165_answer.json
+Answer from ChatGPT : 180
+
+Wrong: "60" doesn't match "180"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1166.json
+Extracted Answer: ['-7']
+Answer from Original: -7
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1166_answer.json
+Found Fraction: [('', '2x-1}{2x+2} = \\frac{x-3}{x-1}$$$$(2x-1)(x-1) = (x-3)(2x+2)$$$$2x^2-3x-3=0$$Using the quadratic formula, we get:$$x_1 = \\frac{3-\\sqrt{21}}{4} \\approx -0.69 \\quad \\text{and} \\quad x_2 = \\frac{3+\\sqrt{21}}{4} \\approx 1.69$$Therefore, the values of x which satisfies the equation are $x_1=\\frac{3-\\sqrt{21}}{4}$ and $x_2=\\frac{3+\\sqrt{21}', '4')]
+Found Fraction: [('', '2x+2} = \\frac{x-3}{x-1}$$$$(2x-1)(x-1) = (x-3)(2x+2)$$$$2x^2-3x-3=0$$Using the quadratic formula, we get:$$x_1 = \\frac{3-\\sqrt{21}}{4} \\approx -0.69 \\quad \\text{and} \\quad x_2 = \\frac{3+\\sqrt{21}}{4} \\approx 1.69$$Therefore, the values of x which satisfies the equation are $x_1=\\frac{3-\\sqrt{21}', '4}$ and $x_2=\\frac{3+\\sqrt{21')]
+Found Fraction: [('', 'x-3}{x-1}$$$$(2x-1)(x-1) = (x-3)(2x+2)$$$$2x^2-3x-3=0$$Using the quadratic formula, we get:$$x_1 = \\frac{3-\\sqrt{21}}{4} \\approx -0.69 \\quad \\text{and} \\quad x_2 = \\frac{3+\\sqrt{21}', '4} \\approx 1.69$$Therefore, the values of x which satisfies the equation are $x_1=\\frac{3-\\sqrt{21')]
+Found Fraction: [('', 'x-1}$$$$(2x-1)(x-1) = (x-3)(2x+2)$$$$2x^2-3x-3=0$$Using the quadratic formula, we get:$$x_1 = \\frac{3-\\sqrt{21}', '4} \\approx -0.69 \\quad \\text{and} \\quad x_2 = \\frac{3+\\sqrt{21')]
+Found Fraction: [('', '1')]
+Found Fraction: [('', '2')]
+Found Fraction: [('', '1')]
+Found Fraction: [('', '2')]
+Answer from ChatGPT : ((((/1)/(/2))/(/1))/(/2))/4
+
+Wrong: "-7" doesn't match "((((/1)/(/2))/(/1))/(/2))/4"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1168.json
+Extracted Answer: ['0.43']
+Answer from Original: 0.43
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1168_answer.json
+Answer from ChatGPT : 1.01seconds
+
+Wrong: "0.43" doesn't match "1.01seconds"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1169.json
+Extracted Answer: ['108']
+Answer from Original: 108
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1169_answer.json
+Answer from ChatGPT : errorgettingananswer
+
+Wrong: "108" doesn't match "errorgettingananswer"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1170.json
+Extracted Answer: ['4950']
+Answer from Original: 4950
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1170_answer.json
+Answer from ChatGPT : 17850.
+
+Wrong: "4950" doesn't match "17850."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1179.json
+Extracted Answer: ['50']
+Answer from Original: 50
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1179_answer.json
+Answer from ChatGPT : x=8isasolution.
+
+Wrong: "50" doesn't match "x=8isasolution."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1180.json
+Extracted Answer: ['14']
+Answer from Original: 14
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1180_answer.json
+Answer from ChatGPT : Answer:9
+
+Wrong: "14" doesn't match "Answer:9"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1181.json
+Extracted Answer: ['8']
+Answer from Original: 8
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1181_answer.json
+Answer from ChatGPT : Answer:32
+
+Wrong: "8" doesn't match "Answer:32"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1182.json
+Extracted Answer: ['26']
+Answer from Original: 26
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1182_answer.json
+Answer from ChatGPT : 3ast10=2(3)+5(10)-3cdot10=6+50-30=26
+
+Matches: "26" is found within "3ast10=2(3)+5(10)-3cdot10=6+50-30=26"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1184.json
+Extracted Answer: ['129']
+Answer from Original: 129
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1184_answer.json
+Answer from ChatGPT : 1953.
+
+Wrong: "129" doesn't match "1953."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1185.json
+Extracted Answer: ['0']
+Answer from Original: 0
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1185_answer.json
+Answer from ChatGPT : 0
+
+Matches: "0" matches "0"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1187.json
+Extracted Answer: ['-5']
+Answer from Original: -5
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1187_answer.json
+Answer from ChatGPT : {result:-14}
+
+Wrong: "-5" doesn't match "{result:-14}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/119.json
+Extracted Answer: ['2']
+Answer from Original: 2
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/119_answer.json
+Answer from ChatGPT : e=4,d=17
+
+Wrong: "2" doesn't match "e=4,d=17"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1190.json
+Extracted Answer: ['4']
+Answer from Original: 4
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1190_answer.json
+Answer from ChatGPT : Theexpressionx^2-6x+13isequalto(x-3)^2+4.Thesquareofarealnumberisnonnegative,sothesmallestpossiblevalueofthisexpressioniswhen(x-3)^2=0(whichoccurswhenx=3),sothesmallestpossiblevalueofx^2-6x+13is4.
+
+Matches: "4" is found within "Theexpressionx^2-6x+13isequalto(x-3)^2+4.Thesquareofarealnumberisnonnegative,sothesmallestpossiblevalueofthisexpressioniswhen(x-3)^2=0(whichoccurswhenx=3),sothesmallestpossiblevalueofx^2-6x+13is4."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1195.json
+Extracted Answer: ['30']
+Answer from Original: 30
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1195_answer.json
+Answer from ChatGPT : 74.
+
+Wrong: "30" doesn't match "74."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1197.json
+Extracted Answer: ['\\frac{2\\sqrt{53}+53', '161']
+why is there more than one answer in the solution file??? -  ['\\frac{2\\sqrt{53}+53', '161']
+Going to use answer in 0th index.
+Found Fraction: []
+Answer from Original: ExtractionFailed
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1197_answer.json
+Extracted Answer: ['41']
+Answer from ChatGPT : 41
+
+Wrong: "ExtractionFailed" doesn't match "41"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1199.json
+Extracted Answer: ['1']
+Answer from Original: 1
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1199_answer.json
+Answer from ChatGPT : 4
+
+Wrong: "1" doesn't match "4"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1203.json
+Extracted Answer: ['5']
+Answer from Original: 5
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1203_answer.json
+Extracted Answer: ['5']
+Answer from ChatGPT : 5
+
+Matches: "5" matches "5"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1206.json
+Extracted Answer: ['3s^2']
+Answer from Original: 3s^2
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1206_answer.json
+Extracted Answer: ['3s^2']
+Answer from ChatGPT : 3s^2
+
+Matches: "3s^2" matches "3s^2"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1208.json
+Extracted Answer: ['125']
+Answer from Original: 125
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1208_answer.json
+Answer from ChatGPT : {solution:252}
+
+Wrong: "125" doesn't match "{solution:252}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1209.json
+Extracted Answer: ['8']
+Answer from Original: 8
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1209_answer.json
+Answer from ChatGPT : 6
+
+Wrong: "8" doesn't match "6"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1210.json
+Extracted Answer: ['286']
+Answer from Original: 286
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1210_answer.json
+Answer from ChatGPT : Answer:184.
+
+Wrong: "286" doesn't match "Answer:184."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1212.json
+Extracted Answer: ['(9,11)']
+Answer from Original: (9,11)
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1212_answer.json
+Answer from ChatGPT : (11,17)isnotontheline.
+
+Wrong: "(9,11)" doesn't match "(11,17)isnotontheline."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1213.json
+Extracted Answer: ['\\dfrac{1}{5}']
+Found Fraction: [('', '1', '5')]
+Answer from Original: 1/5
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1213_answer.json
+Found Fraction: [('', 'x+5}{3}$2. $f^{-1}(x)=3x-5$3. $f^{-1}(3)=4$4. $g(x)=\\dfrac{1}{f^{-1}(x)+1}$5. $g(3)=\\dfrac{1}{f^{-1}(3)+1}$6. $g(3)=\\dfrac{1}{4+1}$7. $g(3)=\\dfrac{1}{5}$Therefore, $g(3)=\\dfrac{1', '5')]
+Found Fraction: [('', '3}$2. $f^{-1}(x)=3x-5$3. $f^{-1}(3)=4$4. $g(x)=\\dfrac{1}{f^{-1}(x)+1}$5. $g(3)=\\dfrac{1}{f^{-1}(3)+1}$6. $g(3)=\\dfrac{1}{4+1}$7. $g(3)=\\dfrac{1', '5')]
+Found Fraction: [('', '-1}(x)=3x-5$3. $f^{-1}(3)=4$4. $g(x)=\\dfrac{1}{f^{-1}(x)+1}$5. $g(3)=\\dfrac{1}{f^{-1}(3)+1}$6. $g(3)=\\dfrac{1', '4+1')]
+Found Fraction: [('-', '-1}(3)=4$4. $g(x)=\\dfrac{1}{f^{-1}(x)+1}$5. $g(3)=\\dfrac{1', 'f^{-1}(3)+1')]
+Found Fraction: [('-', '1', 'f^{-1}(x)+1')]
+Answer from ChatGPT : (((-(-1/(f^{-1}(x)+1))/(f^{-1}(3)+1))/(4+1))/5)/5
+
+Wrong: "1/5" doesn't match "(((-(-1/(f^{-1}(x)+1))/(f^{-1}(3)+1))/(4+1))/5)/5"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1214.json
+Extracted Answer: ['1']
+Answer from Original: 1
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1214_answer.json
+Answer from ChatGPT : 2
+
+Wrong: "1" doesn't match "2"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1220.json
+Extracted Answer: ['0']
+Answer from Original: 0
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1220_answer.json
+Answer from ChatGPT : -192
+
+Wrong: "0" doesn't match "-192"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1221.json
+Extracted Answer: ['6']
+Answer from Original: 6
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1221_answer.json
+Answer from ChatGPT : 6.0
+
+Matches: "6" is found within "6.0"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1226.json
+Extracted Answer: ['2x(15x^2-4x+10)']
+Answer from Original: 2x(15x^2-4x+10)
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1226_answer.json
+Answer from ChatGPT : 2x(5x^2-2x+5)
+
+Wrong: "2x(15x^2-4x+10)" doesn't match "2x(5x^2-2x+5)"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1227.json
+Extracted Answer: ['106']
+Answer from Original: 106
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1227_answer.json
+Answer from ChatGPT : 127.
+
+Wrong: "106" doesn't match "127."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/123.json
+Extracted Answer: ['10']
+Answer from Original: 10
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/123_answer.json
+Answer from ChatGPT : {answer:15}
+
+Wrong: "10" doesn't match "{answer:15}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1231.json
+Extracted Answer: ['26']
+Answer from Original: 26
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1231_answer.json
+Extracted Answer: ['10']
+Answer from ChatGPT : 10
+
+Wrong: "26" doesn't match "10"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1233.json
+Extracted Answer: ['47']
+Answer from Original: 47
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1233_answer.json
+Answer from ChatGPT : 544feet.
+
+Wrong: "47" doesn't match "544feet."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1234.json
+Extracted Answer: ['18']
+Answer from Original: 18
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1234_answer.json
+Answer from ChatGPT : x=9
+
+Wrong: "18" doesn't match "x=9"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1238.json
+Extracted Answer: ['5']
+Answer from Original: 5
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1238_answer.json
+Answer from ChatGPT : 11.
+
+Wrong: "5" doesn't match "11."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1239.json
+Extracted Answer: ['\\frac{\\sqrt7}{14}']
+Found Fraction: [('', '\\sqrt7', '14')]
+0
+Answer from Original: (sqrt(7))/14
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1239_answer.json
+Found Fraction: [('', '\\\\sqrt7', '14')]
+0
+Answer from ChatGPT : (sqrt(7))/14
+
+Matches: "(sqrt(7))/14" matches "(sqrt(7))/14"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1241.json
+Extracted Answer: ['-6']
+Answer from Original: -6
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1241_answer.json
+Answer from ChatGPT : -13
+
+Wrong: "-6" doesn't match "-13"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1246.json
+Extracted Answer: ['15']
+Answer from Original: 15
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1246_answer.json
+Answer from ChatGPT : -5
+
+Wrong: "15" doesn't match "-5"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1248.json
+Extracted Answer: ['\\frac{19}{30}']
+Found Fraction: [('', '19', '30')]
+Answer from Original: 19/30
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1248_answer.json
+Found Fraction: [('', '20', '3')]
+Answer from ChatGPT : 20/3
+
+Wrong: "19/30" doesn't match "20/3"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1249.json
+Extracted Answer: ['-1']
+Answer from Original: -1
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1249_answer.json
+Answer from ChatGPT : -13
+
+Matches: "-1" is found within "-13"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/125.json
+Extracted Answer: ['6']
+Answer from Original: 6
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/125_answer.json
+Answer from ChatGPT : Thesonis9yearsoldtoday.
+
+Wrong: "6" doesn't match "Thesonis9yearsoldtoday."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1250.json
+Extracted Answer: ['\\frac{1}{350}']
+Found Fraction: [('', '1', '350')]
+Answer from Original: 1/350
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1250_answer.json
+Extracted Answer: ['\\frac{521729}{25000}']
+Found Fraction: [('', '521729', '25000')]
+Answer from ChatGPT : 521729/25000
+
+Wrong: "1/350" doesn't match "521729/25000"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1251.json
+Extracted Answer: ['(2,12)']
+Answer from Original: (2,12)
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1251_answer.json
+Answer from ChatGPT : (a,b)=(5,6)
+
+Wrong: "(2,12)" doesn't match "(a,b)=(5,6)"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1252.json
+Extracted Answer: ['-8']
+Answer from Original: -8
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1252_answer.json
+Answer from ChatGPT : -16.
+
+Wrong: "-8" doesn't match "-16."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1253.json
+Extracted Answer: ['b=4']
+Answer from Original: b=4
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1253_answer.json
+Answer from ChatGPT : Theanswerisb=-2ap
+
+Wrong: "b=4" doesn't match "Theanswerisb=-2ap"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1255.json
+Extracted Answer: ['6']
+Answer from Original: 6
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1255_answer.json
+Extracted Answer: ['6']
+Answer from ChatGPT : 6
+
+Matches: "6" matches "6"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1259.json
+Extracted Answer: ['7']
+Answer from Original: 7
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1259_answer.json
+Answer from ChatGPT : D+E+F=19.
+
+Wrong: "7" doesn't match "D+E+F=19."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/126.json
+Extracted Answer: ['(15,-11)']
+Answer from Original: (15,-11)
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/126_answer.json
+Answer from ChatGPT : {solve:(x-9)/2=3AND(y-1)/2=-5,x:-3,y:-9}
+
+Wrong: "(15,-11)" doesn't match "{solve:(x-9)/2=3AND(y-1)/2=-5,x:-3,y:-9}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1260.json
+Extracted Answer: ['\\frac56']
+Found Fraction: [('', '56')]
+Answer from Original: 5/6
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1260_answer.json
+Answer from ChatGPT : -0.6
+
+Wrong: "5/6" doesn't match "-0.6"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1261.json
+Extracted Answer: ['6']
+Answer from Original: 6
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1261_answer.json
+Answer from ChatGPT : 14.
+
+Wrong: "6" doesn't match "14."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1263.json
+Extracted Answer: ['15']
+Answer from Original: 15
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1263_answer.json
+Answer from ChatGPT : Answer:11
+
+Wrong: "15" doesn't match "Answer:11"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1264.json
+Extracted Answer: ['19']
+Answer from Original: 19
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1264_answer.json
+Answer from ChatGPT : {answer:19}
+
+Matches: "19" is found within "{answer:19}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1265.json
+Extracted Answer: ['\\frac{3}{2}']
+Found Fraction: [('', '3', '2')]
+Answer from Original: 3/2
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1265_answer.json
+Answer from ChatGPT : 3/2
+
+Matches: "3/2" matches "3/2"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1266.json
+Extracted Answer: ['1']
+Answer from Original: 1
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1266_answer.json
+Answer from ChatGPT : m=1
+
+Matches: "1" is found within "m=1"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1268.json
+Extracted Answer: ['\\frac{2009}{4}']
+Found Fraction: [('', '2009', '4')]
+Answer from Original: 2009/4
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1268_answer.json
+Answer from ChatGPT : 181,063.
+
+Wrong: "2009/4" doesn't match "181,063."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1270.json
+Extracted Answer: ['-22']
+Answer from Original: -22
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1270_answer.json
+Answer from ChatGPT : -2.5
+
+Wrong: "-22" doesn't match "-2.5"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1271.json
+Extracted Answer: ['-2']
+Answer from Original: -2
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1271_answer.json
+Answer from ChatGPT : -14.
+
+Wrong: "-2" doesn't match "-14."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1272.json
+Extracted Answer: ['0']
+Answer from Original: 0
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1272_answer.json
+Answer from ChatGPT : 16.
+
+Wrong: "0" doesn't match "16."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1275.json
+Extracted Answer: ['\\frac{\\sqrt{3}}{3}']
+Found Fraction: [('', '\\sqrt{3}', '3')]
+1
+Answer from Original: (sqrt(3))/3
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1275_answer.json
+Found Fraction: [('', '1', '3')]
+Answer from ChatGPT : 1/3
+
+Wrong: "(sqrt(3))/3" doesn't match "1/3"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1278.json
+Extracted Answer: ['-0.25']
+Answer from Original: -0.25
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1278_answer.json
+Answer from ChatGPT : 2.
+
+Wrong: "-0.25" doesn't match "2."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1281.json
+Extracted Answer: ['1']
+Answer from Original: 1
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1281_answer.json
+Answer from ChatGPT : Kis37.
+
+Wrong: "1" doesn't match "Kis37."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1282.json
+Extracted Answer: ['11']
+Answer from Original: 11
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1282_answer.json
+Answer from ChatGPT : 20.Ibrute-forcedthisquestionbecauseIdontknowanyneatmethodstosolveitmoreefficiently.120issmallenoughtotestintegersuntilwefoundthesolutions.
+
+Wrong: "11" doesn't match "20.Ibrute-forcedthisquestionbecauseIdontknowanyneatmethodstosolveitmoreefficiently.120issmallenoughtotestintegersuntilwefoundthesolutions."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1283.json
+Extracted Answer: ['1']
+Answer from Original: 1
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1283_answer.json
+Extracted Answer: ['16']
+Answer from ChatGPT : 16
+
+Matches: "1" is found within "16"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1286.json
+Extracted Answer: ['45']
+Answer from Original: 45
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1286_answer.json
+Answer from ChatGPT : 54.
+
+Wrong: "45" doesn't match "54."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1287.json
+Extracted Answer: ['20']
+Answer from Original: 20
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1287_answer.json
+Answer from ChatGPT : 4.
+
+Wrong: "20" doesn't match "4."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1288.json
+Extracted Answer: ['15554']
+Answer from Original: 15554
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1288_answer.json
+Answer from ChatGPT : 4444.
+
+Wrong: "15554" doesn't match "4444."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1289.json
+Extracted Answer: ['1']
+Answer from Original: 1
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1289_answer.json
+Answer from ChatGPT : Thereare2positiveintegers(2and3)forwhichn^2-3n+2isaprimenumber.
+
+Wrong: "1" doesn't match "Thereare2positiveintegers(2and3)forwhichn^2-3n+2isaprimenumber."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/129.json
+Extracted Answer: ['-2']
+Answer from Original: -2
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/129_answer.json
+Found Fraction: [('', '2', '3')]
+Answer from ChatGPT : 2/3
+
+Wrong: "-2" doesn't match "2/3"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1291.json
+Extracted Answer: ['18']
+Answer from Original: 18
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1291_answer.json
+Found Fraction: [('', '"result": "no solution"} (We can\'t actually solve for $a$ and $b$ because we only have one equation with two variables. We could try to solve for one variable in terms of the other and substitute, but it\'s easier to solve the question as follows...) Add the given equations: $a^2b + ab^2 = a \\cdot ab \\cdot b + ab^2 = ab(a+b) = a^2b + ab^2 = 135 + \\frac{27}{5} = \\frac{702}{5}$. Now solve for $a+b$: $a+b = \\frac{\\frac{702}{5}}{ab} = \\frac{\\frac{702}{5}}{(\\frac{27}{5})(\\frac{1}{a})} = \\frac{702}{27a}$. Then solve for $a+5b$: $a+5b = (a+b) + 4b = \\frac{702}{27a} + 4\\sqrt[3]{\\frac{27', '5}')]
+Found Fraction: [('', '27}{5} = \\frac{702}{5}$. Now solve for $a+b$: $a+b = \\frac{\\frac{702}{5}}{ab} = \\frac{\\frac{702}{5}}{(\\frac{27}{5})(\\frac{1}{a})} = \\frac{702}{27a}$. Then solve for $a+5b$: $a+5b = (a+b) + 4b = \\frac{702', '27a')]
+Found Fraction: [('', '5} = \\frac{702}{5}$. Now solve for $a+b$: $a+b = \\frac{\\frac{702}{5}}{ab} = \\frac{\\frac{702}{5}}{(\\frac{27}{5})(\\frac{1}{a})} = \\frac{702', '27a')]
+Found Fraction: [('', '702}{5}$. Now solve for $a+b$: $a+b = \\frac{\\frac{702}{5}}{ab} = \\frac{\\frac{702}{5}}{(\\frac{27}{5})(\\frac{1', 'a})')]
+Found Fraction: [('', '5}$. Now solve for $a+b$: $a+b = \\frac{\\frac{702}{5}}{ab} = \\frac{\\frac{702}{5}}{(\\frac{27', '5')]
+Found Fraction: [('', '\\frac{702}{5}}{ab} = \\frac{\\frac{702', '5}')]
+Found Fraction: [('', '702}{5}', 'ab')]
+Answer from ChatGPT : (((((((702}{5})/(ab))/(5}))/5)/(a})))/(27a))/(27a))/(5})
+
+Wrong: "18" doesn't match "(((((((702}{5})/(ab))/(5}))/5)/(a})))/(27a))/(27a))/(5})"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1293.json
+Extracted Answer: ['64']
+Answer from Original: 64
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1293_answer.json
+Answer from ChatGPT : 1.0
+
+Wrong: "64" doesn't match "1.0"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1294.json
+Extracted Answer: ['3']
+Answer from Original: 3
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1294_answer.json
+Answer from ChatGPT : {answer:3}
+
+Matches: "3" is found within "{answer:3}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1295.json
+Extracted Answer: ['36']
+Answer from Original: 36
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1295_answer.json
+Answer from ChatGPT : {Operation:((7*100*100)/924)*3/11,Units:cents}
+
+Wrong: "36" doesn't match "{Operation:((7*100*100)/924)*3/11,Units:cents}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/13.json
+Extracted Answer: ['(-6, 10)']
+Answer from Original: (-6,10)
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/13_answer.json
+Answer from ChatGPT : A=-1andB=5.
+
+Wrong: "(-6,10)" doesn't match "A=-1andB=5."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1302.json
+Extracted Answer: ['10']
+Answer from Original: 10
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1302_answer.json
+Answer from ChatGPT : 8.
+
+Wrong: "10" doesn't match "8."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1303.json
+Extracted Answer: ['4']
+Answer from Original: 4
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1303_answer.json
+Answer from ChatGPT : 32.0
+
+Wrong: "4" doesn't match "32.0"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1306.json
+Extracted Answer: ['\\frac{12}{7}}$ seconds above the height of $6$ meters.[asy]import graph; size(8.945cm); real lsf=0.5; pen dps=linewidth(0.7)+fontsize(10); defaultpen(dps); pen ds=black; real xmin=-2.935,xmax=7.01,ymin=-3.295,ymax=11.24;real f1(real x){return -4.9*x^2+14*x-0.4;']
+Found Fraction: [('', '12', '7}')]
+Answer from Original: 12/(7})
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1306_answer.json
+Found Fraction: [('', '41', '49')]
+Answer from ChatGPT : 41/49
+
+Wrong: "12/(7})" doesn't match "41/49"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/131.json
+Extracted Answer: ['-1']
+Answer from Original: -1
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/131_answer.json
+Found Fraction: [('', '1}{a-1}+\\frac{1}{b-1} = \\frac{a+b-2}{ab-a-b+1} = \\frac{7/2-2}{2/2+1} = \\frac{3', '2')]
+Found Fraction: [('', 'a-1}+\\frac{1}{b-1} = \\frac{a+b-2}{ab-a-b+1} = \\frac{7/2-2', '2/2+1')]
+Found Fraction: [('', '1}{b-1} = \\frac{a+b-2', 'ab-a-b+1')]
+Found Fraction: []
+Answer from ChatGPT : (((ExtractionFailed)/(ab-a-b+1))/(2/2+1))/2
+
+Wrong: "-1" doesn't match "(((ExtractionFailed)/(ab-a-b+1))/(2/2+1))/2"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1310.json
+Extracted Answer: ['5']
+Answer from Original: 5
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1310_answer.json
+Answer from ChatGPT : 3617
+
+Wrong: "5" doesn't match "3617"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1312.json
+Extracted Answer: ['-\\frac32']
+Found Fraction: [('-', '32')]
+Answer from Original: -3/2
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1312_answer.json
+Found Fraction: [('', '1', '3')]
+Answer from ChatGPT : 1/3
+
+Wrong: "-3/2" doesn't match "1/3"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1316.json
+Extracted Answer: ['8']
+Answer from Original: 8
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1316_answer.json
+Answer from ChatGPT : 8.
+
+Matches: "8" is found within "8."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1317.json
+Extracted Answer: ['-8192']
+Answer from Original: -8192
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1317_answer.json
+Answer from ChatGPT : 128.
+
+Wrong: "-8192" doesn't match "128."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1318.json
+Extracted Answer: ['36']
+Answer from Original: 36
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1318_answer.json
+Answer from ChatGPT : n=12
+
+Wrong: "36" doesn't match "n=12"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/132.json
+Extracted Answer: ['-\\frac{1}{2}']
+Found Fraction: [('-', '1', '2')]
+Answer from Original: -1/2
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/132_answer.json
+Found Fraction: [('', '-1', '2')]
+Answer from ChatGPT : (-1)/2
+
+Wrong: "-1/2" doesn't match "(-1)/2"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1329.json
+Extracted Answer: ['9']
+Answer from Original: 9
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1329_answer.json
+Answer from ChatGPT : 6squareinches
+
+Wrong: "9" doesn't match "6squareinches"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1331.json
+Extracted Answer: ['20']
+Answer from Original: 20
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1331_answer.json
+Answer from ChatGPT : Answer:37.
+
+Wrong: "20" doesn't match "Answer:37."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1332.json
+Extracted Answer: ['9']
+Answer from Original: 9
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1332_answer.json
+Answer from ChatGPT : {expression:15*1500=k,result:22500,steps:[15*1500=k,22500=k,inverseproportionequationformula:x*y=kwherexandyarevariablesininverseproportion,x*y=kbecomesx*y=22500wherexisthepopularityofthetvmeasuredinnumberofsalesandyisitscost,y=2500,x=22500/2500,x=9,therefore9customerswouldbuyatelevisionthatcosts2500]}
+
+Matches: "9" is found within "{expression:15*1500=k,result:22500,steps:[15*1500=k,22500=k,inverseproportionequationformula:x*y=kwherexandyarevariablesininverseproportion,x*y=kbecomesx*y=22500wherexisthepopularityofthetvmeasuredinnumberofsalesandyisitscost,y=2500,x=22500/2500,x=9,therefore9customerswouldbuyatelevisionthatcosts2500]}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1338.json
+Extracted Answer: ['66']
+Answer from Original: 66
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1338_answer.json
+Answer from ChatGPT : x=210
+
+Wrong: "66" doesn't match "x=210"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1339.json
+Extracted Answer: ['600']
+Answer from Original: 600
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1339_answer.json
+Answer from ChatGPT : {operation:inverse,x:24,y:15}{operation:multiply,x:24,y:15,z:x*y}{operation:add,x:x*y,y:2.0,z:x+y}{operation:divide,x:z,y:3.0,z:x/y}{result:x=+str(round(z,2))}
+
+Wrong: "600" doesn't match "{operation:inverse,x:24,y:15}{operation:multiply,x:24,y:15,z:x*y}{operation:add,x:x*y,y:2.0,z:x+y}{operation:divide,x:z,y:3.0,z:x/y}{result:x=+str(round(z,2))}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1340.json
+Extracted Answer: ['6']
+Answer from Original: 6
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1340_answer.json
+Answer from ChatGPT : n=6
+
+Matches: "6" is found within "n=6"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1341.json
+Extracted Answer: ['-11 + 27i']
+Answer from Original: -11+27i
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1341_answer.json
+Answer from ChatGPT : {answer:3-23i}
+
+Wrong: "-11+27i" doesn't match "{answer:3-23i}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1342.json
+Extracted Answer: ['50']
+Answer from Original: 50
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1342_answer.json
+Answer from ChatGPT : 99.
+
+Wrong: "50" doesn't match "99."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1343.json
+Extracted Answer: ['256']
+Answer from Original: 256
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1343_answer.json
+Extracted Answer: ['256']
+Answer from ChatGPT : 256
+
+Matches: "256" matches "256"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1345.json
+Extracted Answer: ['48']
+Answer from Original: 48
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1345_answer.json
+Answer from ChatGPT : 50
+
+Wrong: "48" doesn't match "50"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1349.json
+Extracted Answer: ['\\text{Evelyn}']
+Answer from Original: text{Evelyn}
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1349_answer.json
+Answer from ChatGPT : Carlahasthegreatestaveragespeed.
+
+Wrong: "text{Evelyn}" doesn't match "Carlahasthegreatestaveragespeed."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1354.json
+Extracted Answer: ['(-\\infty,0)']
+Answer from Original: (-infty,0)
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1354_answer.json
+Found Fraction: [('', '513', '52')]
+Answer from ChatGPT : 513/52
+
+Wrong: "(-infty,0)" doesn't match "513/52"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1355.json
+Extracted Answer: ['36']
+Answer from Original: 36
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1355_answer.json
+Answer from ChatGPT : Thecoordinatesofthepointare(16,32)
+
+Wrong: "36" doesn't match "Thecoordinatesofthepointare(16,32)"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1359.json
+Extracted Answer: ['\\frac{243}{8}']
+Found Fraction: [('', '243', '8')]
+Answer from Original: 243/8
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1359_answer.json
+Extracted Answer: ['288']
+Answer from ChatGPT : 288
+
+Wrong: "243/8" doesn't match "288"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1360.json
+Extracted Answer: ['13']
+Answer from Original: 13
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1360_answer.json
+Answer from ChatGPT : 6.
+
+Wrong: "13" doesn't match "6."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1362.json
+Extracted Answer: ['13']
+Answer from Original: 13
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1362_answer.json
+Answer from ChatGPT : {result:7}
+
+Wrong: "13" doesn't match "{result:7}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1366.json
+Extracted Answer: ['3']
+Answer from Original: 3
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1366_answer.json
+Answer from ChatGPT : -2.
+
+Wrong: "3" doesn't match "-2."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/137.json
+Extracted Answer: ['575\\text{ students}']
+Answer from Original: 575text{students}
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/137_answer.json
+Answer from ChatGPT : 560
+
+Wrong: "575text{students}" doesn't match "560"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1372.json
+Extracted Answer: ['\\frac{5}{3}']
+Found Fraction: [('', '5', '3')]
+Answer from Original: 5/3
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1372_answer.json
+Answer from ChatGPT : Theanswerisb=4.
+
+Wrong: "5/3" doesn't match "Theanswerisb=4."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1373.json
+Extracted Answer: ['5']
+Answer from Original: 5
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1373_answer.json
+Answer from ChatGPT : 630
+
+Wrong: "5" doesn't match "630"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1374.json
+Extracted Answer: ['3']
+Answer from Original: 3
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1374_answer.json
+Answer from ChatGPT : {problem:Thequadratic4x^2+2x-1canbewrittenintheforma(x+b)^2+c,wherea,b,andcareconstants.Whatisa+b+c?,answer:-1}
+
+Wrong: "3" doesn't match "{problem:Thequadratic4x^2+2x-1canbewrittenintheforma(x+b)^2+c,wherea,b,andcareconstants.Whatisa+b+c?,answer:-1}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1375.json
+Extracted Answer: ['1']
+Answer from Original: 1
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1375_answer.json
+Answer from ChatGPT : {operation:evaluate,expression:sqrt(((-1)+3)/(2))}Answer:1.0
+
+Matches: "1" is found within "{operation:evaluate,expression:sqrt(((-1)+3)/(2))}Answer:1.0"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1376.json
+Extracted Answer: ['6']
+Answer from Original: 6
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1376_answer.json
+Extracted Answer: ['2']
+Answer from ChatGPT : 2
+
+Wrong: "6" doesn't match "2"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1377.json
+Extracted Answer: ['16']
+Answer from Original: 16
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1377_answer.json
+Answer from ChatGPT : 48years.
+
+Wrong: "16" doesn't match "48years."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/138.json
+Extracted Answer: ['13']
+Answer from Original: 13
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/138_answer.json
+Answer from ChatGPT : 24/5
+
+Wrong: "13" doesn't match "24/5"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1380.json
+Extracted Answer: ['0']
+Answer from Original: 0
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1380_answer.json
+Answer from ChatGPT : 13.
+
+Wrong: "0" doesn't match "13."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1387.json
+Extracted Answer: ['-\\sqrt{x-3}+3']
+1
+Answer from Original: -sqrt(x-3)+3
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1387_answer.json
+Answer from ChatGPT : Onesolutionisthatk(x)=6-x
+
+Wrong: "-sqrt(x-3)+3" doesn't match "Onesolutionisthatk(x)=6-x"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/139.json
+Extracted Answer: ['\\frac{1}{33}']
+Found Fraction: [('', '1', '33')]
+Answer from Original: 1/33
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/139_answer.json
+Extracted Answer: ['-\\dfrac{1}{33}']
+Found Fraction: [('-', '1', '33')]
+Answer from ChatGPT : -1/33
+
+Matches: "1/33" is found within "-1/33"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1390.json
+Extracted Answer: ['\\frac9{5}']
+Found Fraction: [('', '9')]
+Answer from Original: /9
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1390_answer.json
+Found Fraction: [('', '\\sqrt{x}}{\\sqrt{x-1}}=\\frac32$$3\\sqrt{x}=2\\sqrt{x-1}$$9x=4x-4$$x=-\\frac{4', '5')]
+Found Fraction: [('', 'x}', '\\sqrt{x-1}}=\\frac32$$3\\sqrt{x}=2\\sqrt{x-1')]
+Found Fraction: [('', '32')]
+Answer from ChatGPT : ((x})/(3/2))/5
+
+Wrong: "/9" doesn't match "((x})/(3/2))/5"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1392.json
+Extracted Answer: ['75']
+Answer from Original: 75
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1392_answer.json
+Answer from ChatGPT : {solution:83}
+
+Wrong: "75" doesn't match "{solution:83}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1396.json
+Extracted Answer: ['\\frac{3}{2}']
+Found Fraction: [('', '3', '2')]
+Answer from Original: 3/2
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1396_answer.json
+Extracted Answer: ['1.5']
+Answer from ChatGPT : 1.5
+
+Wrong: "3/2" doesn't match "1.5"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1398.json
+Extracted Answer: ['b - 1']
+Answer from Original: b-1
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1398_answer.json
+Found Fraction: [('', '"solution": "$c=\\\\frac{b^2', '4(b-2c)^2}$"')]
+Found Fraction: []
+Answer from ChatGPT : (ExtractionFailed)/(4(b-2c)^2})
+
+Wrong: "b-1" doesn't match "(ExtractionFailed)/(4(b-2c)^2})"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/140.json
+Extracted Answer: ['-9']
+Answer from Original: -9
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/140_answer.json
+Extracted Answer: ['086']
+Answer from ChatGPT : 086
+
+Wrong: "-9" doesn't match "086"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1401.json
+Extracted Answer: ['361']
+Answer from Original: 361
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1401_answer.json
+Answer from ChatGPT : 343x^2+686x+361
+
+Matches: "361" is found within "343x^2+686x+361"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1408.json
+Extracted Answer: ['73']
+Answer from Original: 73
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1408_answer.json
+Answer from ChatGPT : 52.
+
+Wrong: "73" doesn't match "52."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/141.json
+Extracted Answer: ['369']
+Answer from Original: 369
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/141_answer.json
+Answer from ChatGPT : 117.
+
+Wrong: "369" doesn't match "117."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1411.json
+Extracted Answer: ['445']
+Answer from Original: 445
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1411_answer.json
+Answer from ChatGPT : 3000widgets.
+
+Wrong: "445" doesn't match "3000widgets."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1416.json
+Extracted Answer: ['[-3,2]']
+Answer from Original: [-3,2]
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1416_answer.json
+Answer from ChatGPT : xleq-2orxgeq3.
+
+Wrong: "[-3,2]" doesn't match "xleq-2orxgeq3."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1418.json
+Extracted Answer: ['81']
+Answer from Original: 81
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1418_answer.json
+Answer from ChatGPT : 60
+
+Wrong: "81" doesn't match "60"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1419.json
+Extracted Answer: ['7']
+Answer from Original: 7
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1419_answer.json
+Answer from ChatGPT : 13
+
+Wrong: "7" doesn't match "13"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/142.json
+Extracted Answer: ['5']
+Answer from Original: 5
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/142_answer.json
+Answer from ChatGPT : m+b=-1.
+
+Wrong: "5" doesn't match "m+b=-1."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1422.json
+Extracted Answer: ['-5']
+Answer from Original: -5
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1422_answer.json
+Answer from ChatGPT : {solution:-5}
+
+Matches: "-5" is found within "{solution:-5}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1423.json
+Extracted Answer: ['-120']
+Answer from Original: -120
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1423_answer.json
+Answer from ChatGPT : 72
+
+Wrong: "-120" doesn't match "72"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1424.json
+Extracted Answer: ['73.5']
+Answer from Original: 73.5
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1424_answer.json
+Answer from ChatGPT : {op:*,expr:[42,56],inverse:true,var:j,second_var:k,second_var_val:32}
+
+Wrong: "73.5" doesn't match "{op:*,expr:[42,56],inverse:true,var:j,second_var:k,second_var_val:32}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1425.json
+Extracted Answer: ['2']
+Answer from Original: 2
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1425_answer.json
+Answer from ChatGPT : Thereare2valuesofxforwhichtheexpressionisnotdefined:x=3andx=-3.
+
+Matches: "2" is found within "Thereare2valuesofxforwhichtheexpressionisnotdefined:x=3andx=-3."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1428.json
+Extracted Answer: ['\\frac{135}{2}']
+Found Fraction: [('', '135', '2')]
+Answer from Original: 135/2
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1428_answer.json
+Answer from ChatGPT : 60
+
+Wrong: "135/2" doesn't match "60"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/143.json
+Extracted Answer: ['8']
+Answer from Original: 8
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/143_answer.json
+Answer from ChatGPT : 7
+
+Wrong: "8" doesn't match "7"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1434.json
+Extracted Answer: ['25']
+Answer from Original: 25
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1434_answer.json
+Answer from ChatGPT : 10.
+
+Wrong: "25" doesn't match "10."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1438.json
+Extracted Answer: ['625']
+Answer from Original: 625
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1438_answer.json
+Answer from ChatGPT : -625.
+
+Matches: "625" is found within "-625."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1439.json
+Extracted Answer: ['16']
+Answer from Original: 16
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1439_answer.json
+Answer from ChatGPT : 96
+
+Wrong: "16" doesn't match "96"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/144.json
+Extracted Answer: ['9']
+Answer from Original: 9
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/144_answer.json
+Answer from ChatGPT : 14
+
+Wrong: "9" doesn't match "14"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1441.json
+Extracted Answer: ['363']
+Answer from Original: 363
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1441_answer.json
+Answer from ChatGPT : 81
+
+Wrong: "363" doesn't match "81"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1442.json
+Extracted Answer: ['103']
+Answer from Original: 103
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1442_answer.json
+Answer from ChatGPT : Themeasureofthesecondlargestangleis107^{circ}.
+
+Wrong: "103" doesn't match "Themeasureofthesecondlargestangleis107^{circ}."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1443.json
+Extracted Answer: ['0']
+Answer from Original: 0
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1443_answer.json
+Answer from ChatGPT : x=7andy=-8whichmeansxy=-56
+
+Wrong: "0" doesn't match "x=7andy=-8whichmeansxy=-56"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1445.json
+Extracted Answer: ['400']
+Answer from Original: 400
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1445_answer.json
+Answer from ChatGPT : 441
+
+Wrong: "400" doesn't match "441"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1447.json
+Extracted Answer: ['29']
+Answer from Original: 29
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1447_answer.json
+Extracted Answer: ['20']
+Answer from ChatGPT : 20
+
+Wrong: "29" doesn't match "20"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1448.json
+Extracted Answer: ['0']
+Answer from Original: 0
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1448_answer.json
+Found Fraction: [('', 'a+b}{2}=-\\dfrac{7', '6')]
+Found Fraction: []
+Answer from ChatGPT : (ExtractionFailed)/6
+
+Wrong: "0" doesn't match "(ExtractionFailed)/6"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1457.json
+Extracted Answer: ['-120']
+Answer from Original: -120
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1457_answer.json
+Answer from ChatGPT : Thevalueoftheproductabcis-40.
+
+Wrong: "-120" doesn't match "Thevalueoftheproductabcis-40."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1458.json
+Extracted Answer: ['19']
+Answer from Original: 19
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1458_answer.json
+Extracted Answer: ['3']
+Answer from ChatGPT : 3
+
+Wrong: "19" doesn't match "3"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1459.json
+Extracted Answer: ['12']
+Answer from Original: 12
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1459_answer.json
+Answer from ChatGPT : {n:12}
+
+Matches: "12" is found within "{n:12}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1461.json
+Extracted Answer: ['-9']
+Answer from Original: -9
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1461_answer.json
+Answer from ChatGPT : 7.
+
+Wrong: "-9" doesn't match "7."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1462.json
+Extracted Answer: ['-10']
+Answer from Original: -10
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1462_answer.json
+Answer from ChatGPT : A(B-C)canbewrittenin6differentwaysbydistributing4,5,and6:(4times(5-6))=-4(4times(6-5))=4(5times(4-6))=-10(5times(6-4))=10(6times(4-5))=-6(6times(5-4))=6Therefore,thesmallestresultis-10.Hence,theansweris:json{solution:-10}
+
+Matches: "-10" is found within "A(B-C)canbewrittenin6differentwaysbydistributing4,5,and6:(4times(5-6))=-4(4times(6-5))=4(5times(4-6))=-10(5times(6-4))=10(6times(4-5))=-6(6times(5-4))=6Therefore,thesmallestresultis-10.Hence,theansweris:json{solution:-10}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1463.json
+Extracted Answer: ['7']
+Answer from Original: 7
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1463_answer.json
+Found Fraction: [('-', '15')]
+Answer from ChatGPT : -1/5
+
+Wrong: "7" doesn't match "-1/5"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1464.json
+Extracted Answer: ['x = 4']
+Answer from Original: x=4
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1464_answer.json
+Answer from ChatGPT : errorgettingananswer
+
+Wrong: "x=4" doesn't match "errorgettingananswer"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1466.json
+Extracted Answer: ['x^4+x^2-10x-24']
+Answer from Original: x^4+x^2-10x-24
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1466_answer.json
+Extracted Answer: ['x^4+x^3-18x^2-4x+24']
+Answer from ChatGPT : x^4+x^3-18x^2-4x+24
+
+Wrong: "x^4+x^2-10x-24" doesn't match "x^4+x^3-18x^2-4x+24"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1467.json
+Extracted Answer: ['2']
+Answer from Original: 2
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1467_answer.json
+Answer from ChatGPT : n=2
+
+Matches: "2" is found within "n=2"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1468.json
+Extracted Answer: ['52']
+Answer from Original: 52
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1468_answer.json
+Answer from ChatGPT : 24
+
+Wrong: "52" doesn't match "24"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1470.json
+Extracted Answer: ['1']
+Answer from Original: 1
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1470_answer.json
+Found Fraction: [('', '1}{2}$ when $x = \\frac{3', '2')]
+Found Fraction: []
+Answer from ChatGPT : (ExtractionFailed)/2
+
+Wrong: "1" doesn't match "(ExtractionFailed)/2"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/148.json
+Extracted Answer: ['3']
+Answer from Original: 3
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/148_answer.json
+Found Fraction: [('', '1', '4')]
+Answer from ChatGPT : 1/4
+
+Wrong: "3" doesn't match "1/4"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1480.json
+Extracted Answer: ['7']
+Answer from Original: 7
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1480_answer.json
+1
+Answer from ChatGPT : 8+sqrt(27)
+
+Matches: "7" is found within "8+sqrt(27)"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1485.json
+Extracted Answer: ['\\frac{3}{5}']
+Found Fraction: [('', '3', '5')]
+Answer from Original: 3/5
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1485_answer.json
+Found Fraction: [('', '    "operation": "solve",    "equation": "\\\\frac{1}{3x-1}=\\\\frac{2', 'x+1}",    "variable": "x"')]
+Found Fraction: [('', '1', '3x-1')]
+Answer from ChatGPT : (1/(3x-1))/(x+1},variable:x)
+
+Wrong: "3/5" doesn't match "(1/(3x-1))/(x+1},variable:x)"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1486.json
+Extracted Answer: ['-4']
+Answer from Original: -4
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1486_answer.json
+Answer from ChatGPT : 337.5.
+
+Wrong: "-4" doesn't match "337.5."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1488.json
+Extracted Answer: ['7']
+Answer from Original: 7
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1488_answer.json
+Answer from ChatGPT : (-2,9)
+
+Wrong: "7" doesn't match "(-2,9)"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/149.json
+Extracted Answer: ['6']
+Answer from Original: 6
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/149_answer.json
+Answer from ChatGPT : {answer:-10},sumofallpossiblevaluesofxinthisparticularcaseis-10.
+
+Wrong: "6" doesn't match "{answer:-10},sumofallpossiblevaluesofxinthisparticularcaseis-10."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1490.json
+Extracted Answer: ['169']
+Answer from Original: 169
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1490_answer.json
+Answer from ChatGPT : 729.
+
+Wrong: "169" doesn't match "729."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1493.json
+Extracted Answer: ['54']
+Answer from Original: 54
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1493_answer.json
+Answer from ChatGPT : {quadratic:[1,-6,66],form:(x+b)^2+c,operation:b+c}->{Result:10}.
+
+Wrong: "54" doesn't match "{quadratic:[1,-6,66],form:(x+b)^2+c,operation:b+c}->{Result:10}."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1494.json
+Extracted Answer: ['50']
+Answer from Original: 50
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1494_answer.json
+Answer from ChatGPT : 48
+
+Wrong: "50" doesn't match "48"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1498.json
+Extracted Answer: ['36']
+Answer from Original: 36
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1498_answer.json
+Extracted Answer: ['36']
+Answer from ChatGPT : 36
+
+Matches: "36" matches "36"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/15.json
+Extracted Answer: ['100']
+Answer from Original: 100
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/15_answer.json
+Answer from ChatGPT : 340
+
+Wrong: "100" doesn't match "340"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1500.json
+Extracted Answer: ['5050']
+Answer from Original: 5050
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1500_answer.json
+Answer from ChatGPT : 5050
+
+Matches: "5050" matches "5050"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1506.json
+Extracted Answer: ['123']
+Answer from Original: 123
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1506_answer.json
+Answer from ChatGPT : 123.
+
+Matches: "123" is found within "123."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1507.json
+Extracted Answer: ['\\frac{5}{4}']
+Found Fraction: [('', '5', '4')]
+Answer from Original: 5/4
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1507_answer.json
+Extracted Answer: ['-\\frac{26}{25}']
+Found Fraction: [('-', '26', '25')]
+Answer from ChatGPT : -26/25
+
+Wrong: "5/4" doesn't match "-26/25"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/151.json
+Extracted Answer: ['1']
+Answer from Original: 1
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/151_answer.json
+Answer from ChatGPT : 1.
+
+Matches: "1" is found within "1."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1511.json
+Extracted Answer: ['1']
+Answer from Original: 1
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1511_answer.json
+Answer from ChatGPT : Nosolution.
+
+Wrong: "1" doesn't match "Nosolution."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1514.json
+Extracted Answer: ['16']
+Answer from Original: 16
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1514_answer.json
+Found Fraction: [('', '4^5 + 4^5 + 4^5 + 4^5} = \\sqrt[3]{4 \\cdot 4^5} = \\sqrt[3]{2^6 \\cdot 2^{10}} = \\sqrt[3]{2^{16}} = 2^{\\frac{16', '3}')]
+Found Fraction: []
+Answer from ChatGPT : (ExtractionFailed)/(3})
+
+Wrong: "16" doesn't match "(ExtractionFailed)/(3})"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1519.json
+Extracted Answer: ['\\frac{\\sqrt{3}}{3}']
+Found Fraction: [('', '\\sqrt{3}', '3')]
+1
+Answer from Original: (sqrt(3))/3
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1519_answer.json
+Extracted Answer: ['\\frac{\\sqrt{3}}{3}']
+Found Fraction: [('', '\\sqrt{3}', '3')]
+1
+Answer from ChatGPT : (sqrt(3))/3
+
+Matches: "(sqrt(3))/3" matches "(sqrt(3))/3"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1524.json
+Extracted Answer: ['12']
+Answer from Original: 12
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1524_answer.json
+Answer from ChatGPT : 16.
+
+Wrong: "12" doesn't match "16."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1527.json
+Extracted Answer: ['3']
+Answer from Original: 3
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1527_answer.json
+Answer from ChatGPT : c=6
+
+Wrong: "3" doesn't match "c=6"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1528.json
+Extracted Answer: ['\\frac{3}{5}']
+Found Fraction: [('', '3', '5')]
+Answer from Original: 3/5
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1528_answer.json
+Answer from ChatGPT : {operation:15/6*1.5,notation:fraction}
+
+Wrong: "3/5" doesn't match "{operation:15/6*1.5,notation:fraction}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1529.json
+Extracted Answer: ['1']
+Answer from Original: 1
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1529_answer.json
+Answer from ChatGPT : 2
+
+Wrong: "1" doesn't match "2"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/153.json
+Extracted Answer: ['3702']
+Answer from Original: 3702
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/153_answer.json
+Answer from ChatGPT : 1+10+100+1000=1111
+
+Wrong: "3702" doesn't match "1+10+100+1000=1111"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1534.json
+Extracted Answer: ['9']
+Answer from Original: 9
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1534_answer.json
+Answer from ChatGPT : {solution:12}
+
+Wrong: "9" doesn't match "{solution:12}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1535.json
+Extracted Answer: ['3']
+Answer from Original: 3
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1535_answer.json
+Answer from ChatGPT : b=-2
+
+Wrong: "3" doesn't match "b=-2"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1538.json
+Extracted Answer: ['-\\frac{8}{5}']
+Found Fraction: [('-', '8', '5')]
+Answer from Original: -8/5
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1538_answer.json
+Answer from ChatGPT : a=-2
+
+Wrong: "-8/5" doesn't match "a=-2"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1540.json
+Extracted Answer: ['43']
+Answer from Original: 43
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1540_answer.json
+Answer from ChatGPT : x=23.
+
+Wrong: "43" doesn't match "x=23."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1541.json
+Extracted Answer: ['5']
+Answer from Original: 5
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1541_answer.json
+Answer from ChatGPT : 119.0.
+
+Wrong: "5" doesn't match "119.0."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1543.json
+Extracted Answer: ['220']
+Answer from Original: 220
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1543_answer.json
+Answer from ChatGPT : 184
+
+Wrong: "220" doesn't match "184"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1545.json
+Extracted Answer: ['5']
+Answer from Original: 5
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1545_answer.json
+Answer from ChatGPT : 12
+
+Wrong: "5" doesn't match "12"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1547.json
+Extracted Answer: ['6r^2-4r-24']
+Answer from Original: 6r^2-4r-24
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1547_answer.json
+Answer from ChatGPT : Answer:22r^3+29r-24
+
+Wrong: "6r^2-4r-24" doesn't match "Answer:22r^3+29r-24"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1548.json
+Extracted Answer: ['22']
+Answer from Original: 22
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1548_answer.json
+Extracted Answer: ['32']
+Answer from ChatGPT : 32
+
+Wrong: "22" doesn't match "32"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1549.json
+Extracted Answer: ['364']
+Answer from Original: 364
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1549_answer.json
+Answer from ChatGPT : 284.0
+
+Wrong: "364" doesn't match "284.0"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/155.json
+Extracted Answer: ['\\$15,\\!000']
+Answer from Original: 15,!000
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/155_answer.json
+Answer from ChatGPT : {expression:10000*(1+5*(10/100))}<br>{result:15000.0}
+
+Wrong: "15,!000" doesn't match "{expression:10000*(1+5*(10/100))}<br>{result:15000.0}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1553.json
+Extracted Answer: ['3']
+Answer from Original: 3
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1553_answer.json
+Answer from ChatGPT : square=7
+
+Wrong: "3" doesn't match "square=7"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1557.json
+Extracted Answer: ['\\frac12']
+Found Fraction: [('', '12')]
+Answer from Original: 1/2
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1557_answer.json
+Extracted Answer: ['\\frac{5}{3}']
+Found Fraction: [('', '5', '3')]
+Answer from ChatGPT : 5/3
+
+Wrong: "1/2" doesn't match "5/3"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1558.json
+Extracted Answer: ['5']
+Answer from Original: 5
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1558_answer.json
+Answer from ChatGPT : c=3
+
+Wrong: "5" doesn't match "c=3"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/156.json
+Extracted Answer: ['1']
+Answer from Original: 1
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/156_answer.json
+Answer from ChatGPT : {expression:sqrt((5+sqrt(61))/2)-sqrt((5-sqrt(61))/2)}.Orapproximately3.
+
+Matches: "1" is found within "{expression:sqrt((5+sqrt(61))/2)-sqrt((5-sqrt(61))/2)}.Orapproximately3."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1560.json
+Extracted Answer: ['81']
+Answer from Original: 81
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1560_answer.json
+Answer from ChatGPT : 441
+
+Wrong: "81" doesn't match "441"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1561.json
+Extracted Answer: ['5']
+Answer from Original: 5
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1561_answer.json
+Extracted Answer: ['\\frac{-15}{13}']
+Found Fraction: [('', '-15', '13')]
+Answer from ChatGPT : (-15)/13
+
+Matches: "5" is found within "(-15)/13"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1564.json
+Extracted Answer: ['26']
+Answer from Original: 26
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1564_answer.json
+Answer from ChatGPT : 28feet.
+
+Wrong: "26" doesn't match "28feet."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1568.json
+Extracted Answer: ['\\sqrt{13}']
+1
+Answer from Original: sqrt(13)
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1568_answer.json
+Answer from ChatGPT : 2.236
+
+Wrong: "sqrt(13)" doesn't match "2.236"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1569.json
+Extracted Answer: ['\\frac{68}{3}\\text{ pounds}']
+Found Fraction: [('', '68', '3}\\text{ pounds')]
+Answer from Original: 68/(3}text{pounds)
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1569_answer.json
+Answer from ChatGPT : {answer:36}
+
+Wrong: "68/(3}text{pounds)" doesn't match "{answer:36}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1570.json
+Extracted Answer: ['13']
+Answer from Original: 13
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1570_answer.json
+1
+1
+Answer from ChatGPT : sqrt((1-(-4))^2+(13-1)^2)=5sqrt(5)
+
+Matches: "13" is found within "sqrt((1-(-4))^2+(13-1)^2)=5sqrt(5)"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1578.json
+Extracted Answer: ['10']
+Answer from Original: 10
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1578_answer.json
+Answer from ChatGPT : 13
+
+Wrong: "10" doesn't match "13"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/158.json
+Extracted Answer: ['8']
+Answer from Original: 8
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/158_answer.json
+Answer from ChatGPT : 14
+
+Wrong: "8" doesn't match "14"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1580.json
+Extracted Answer: ['80']
+Answer from Original: 80
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1580_answer.json
+Answer from ChatGPT : 121
+
+Wrong: "80" doesn't match "121"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1581.json
+Extracted Answer: ['16']
+Answer from Original: 16
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1581_answer.json
+Answer from ChatGPT : -8.0.
+
+Wrong: "16" doesn't match "-8.0."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1584.json
+Extracted Answer: ['2']
+Answer from Original: 2
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1584_answer.json
+1
+Answer from ChatGPT : {solution:3sqrt(3)}
+
+Wrong: "2" doesn't match "{solution:3sqrt(3)}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1585.json
+Extracted Answer: ['-2']
+Answer from Original: -2
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1585_answer.json
+Answer from ChatGPT : Nosolution.
+
+Wrong: "-2" doesn't match "Nosolution."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1586.json
+Extracted Answer: ['5']
+Answer from Original: 5
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1586_answer.json
+Answer from ChatGPT : {point1:[0,0],point2:[9,6],fraction:1/3}=>(3.0,2.0)=>5
+
+Matches: "5" is found within "{point1:[0,0],point2:[9,6],fraction:1/3}=>(3.0,2.0)=>5"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1588.json
+Extracted Answer: ['23']
+Answer from Original: 23
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1588_answer.json
+Answer from ChatGPT : {solution:31}
+
+Wrong: "23" doesn't match "{solution:31}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/159.json
+Extracted Answer: ['-2']
+Answer from Original: -2
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/159_answer.json
+Answer from ChatGPT : {b:10}(oranyotherconstantexpressionthatevaluatesto10)
+
+Wrong: "-2" doesn't match "{b:10}(oranyotherconstantexpressionthatevaluatesto10)"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1591.json
+Extracted Answer: ['5']
+Answer from Original: 5
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1591_answer.json
+1
+Answer from ChatGPT : sqrt(50)
+
+Matches: "5" is found within "sqrt(50)"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1592.json
+Extracted Answer: ['10']
+Answer from Original: 10
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1592_answer.json
+Answer from ChatGPT : {solution:9}
+
+Wrong: "10" doesn't match "{solution:9}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1593.json
+Extracted Answer: ['2']
+Answer from Original: 2
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1593_answer.json
+Extracted Answer: ['2^{152/100}']
+Answer from ChatGPT : 2^{152/100}
+
+Matches: "2" is found within "2^{152/100}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1594.json
+Extracted Answer: ['2']
+Answer from Original: 2
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1594_answer.json
+Extracted Answer: ['2']
+Answer from ChatGPT : 2
+
+Matches: "2" matches "2"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1596.json
+Extracted Answer: ['40']
+Answer from Original: 40
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1596_answer.json
+Answer from ChatGPT : N=85.
+
+Wrong: "40" doesn't match "N=85."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1597.json
+Extracted Answer: ['7']
+Answer from Original: 7
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1597_answer.json
+Found Fraction: [('', '1}{-2})^2] + 4(\\frac{1', '-2')]
+Found Fraction: []
+Answer from ChatGPT : (ExtractionFailed)/(-2)
+
+Wrong: "7" doesn't match "(ExtractionFailed)/(-2)"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1598.json
+Extracted Answer: ['1']
+Answer from Original: 1
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1598_answer.json
+Answer from ChatGPT : 1462.5
+
+Matches: "1" is found within "1462.5"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/160.json
+Extracted Answer: ['\\$ 139']
+Answer from Original: 139
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/160_answer.json
+Answer from ChatGPT : Thechargeforatwo-hourrepairjobis163text{dollars}.
+
+Wrong: "139" doesn't match "Thechargeforatwo-hourrepairjobis163text{dollars}."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1600.json
+Extracted Answer: ['7']
+Answer from Original: 7
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1600_answer.json
+Answer from ChatGPT : Simonpaidfor6rides.HereisthesolutioninJSONformat:{entry_fee:2.25,total_cost:12.75}Tofindthenumberofrides,wejustneedtosubtracttheentryfeefromthetotalcostanddividetheresultbythecostperride:rides=(total_cost-entry_fee)/cost_per_rideInthiscase,thecostperrideis1.50,sowehave:rides=(12.75-2.25)/1.5=6
+
+Matches: "7" is found within "Simonpaidfor6rides.HereisthesolutioninJSONformat:{entry_fee:2.25,total_cost:12.75}Tofindthenumberofrides,wejustneedtosubtracttheentryfeefromthetotalcostanddividetheresultbythecostperride:rides=(total_cost-entry_fee)/cost_per_rideInthiscase,thecostperrideis1.50,sowehave:rides=(12.75-2.25)/1.5=6"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1602.json
+Extracted Answer: ['12']
+Answer from Original: 12
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1602_answer.json
+Answer from ChatGPT : 11
+
+Wrong: "12" doesn't match "11"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1604.json
+Extracted Answer: ['81\\text{ teachers}']
+Answer from Original: 81text{teachers}
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1604_answer.json
+Answer from ChatGPT : 88
+
+Wrong: "81text{teachers}" doesn't match "88"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1605.json
+Extracted Answer: ['2']
+Answer from Original: 2
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1605_answer.json
+Answer from ChatGPT : x=2
+
+Matches: "2" is found within "x=2"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1606.json
+Extracted Answer: ['4']
+Answer from Original: 4
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1606_answer.json
+Extracted Answer: ['\\frac{1}{26}']
+Found Fraction: [('', '1', '26')]
+Answer from ChatGPT : 1/26
+
+Wrong: "4" doesn't match "1/26"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1609.json
+Extracted Answer: ['5']
+Answer from Original: 5
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1609_answer.json
+Answer from ChatGPT : 49.
+
+Wrong: "5" doesn't match "49."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/161.json
+Extracted Answer: ['-\\frac1{2x}']
+Found Fraction: [('-', '1')]
+Answer from Original: -/1
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/161_answer.json
+Found Fraction: [('', '1', '2x')]
+Answer from ChatGPT : 1/(2x)
+
+Wrong: "-/1" doesn't match "1/(2x)"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1610.json
+Extracted Answer: ['30']
+Answer from Original: 30
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1610_answer.json
+Answer from ChatGPT : Nosolution.
+
+Wrong: "30" doesn't match "Nosolution."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1611.json
+Extracted Answer: ['74726']
+Answer from Original: 74726
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1611_answer.json
+Answer from ChatGPT : {expression:round(100000/1.06**5)}
+
+Wrong: "74726" doesn't match "{expression:round(100000/1.06**5)}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1616.json
+Extracted Answer: ['(5,-6)']
+Answer from Original: (5,-6)
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1616_answer.json
+Answer from ChatGPT : [[a,2],[b,-15]]
+
+Wrong: "(5,-6)" doesn't match "[[a,2],[b,-15]]"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1621.json
+Extracted Answer: ['-120']
+Answer from Original: -120
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1621_answer.json
+Answer from ChatGPT : A=-2,B=-6,C=11soAtimesBtimesC=-132.
+
+Wrong: "-120" doesn't match "A=-2,B=-6,C=11soAtimesBtimesC=-132."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1623.json
+Extracted Answer: ['4']
+Answer from Original: 4
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1623_answer.json
+Extracted Answer: ['9']
+Answer from ChatGPT : 9
+
+Wrong: "4" doesn't match "9"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1624.json
+Extracted Answer: ['3']
+Answer from Original: 3
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1624_answer.json
+Answer from ChatGPT : x=3
+
+Matches: "3" is found within "x=3"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1628.json
+Extracted Answer: ['28']
+Answer from Original: 28
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1628_answer.json
+Answer from ChatGPT : 15-(-14)=29.
+
+Wrong: "28" doesn't match "15-(-14)=29."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1633.json
+Extracted Answer: ['800']
+Answer from Original: 800
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1633_answer.json
+Answer from ChatGPT : 800
+
+Matches: "800" matches "800"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1634.json
+Extracted Answer: ['9']
+Answer from Original: 9
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1634_answer.json
+Extracted Answer: ['9']
+Answer from ChatGPT : 9
+
+Matches: "9" matches "9"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1639.json
+Extracted Answer: ['10']
+Answer from Original: 10
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1639_answer.json
+Answer from ChatGPT : 16.
+
+Wrong: "10" doesn't match "16."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1646.json
+Extracted Answer: ['-4']
+Answer from Original: -4
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1646_answer.json
+Answer from ChatGPT : {solve:|-x+3|=7}outputs-4because|-(-4)+3|=7.
+
+Matches: "-4" is found within "{solve:|-x+3|=7}outputs-4because|-(-4)+3|=7."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1647.json
+Extracted Answer: ['549']
+Answer from Original: 549
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1647_answer.json
+Answer from ChatGPT : {result:Nosolution}
+
+Wrong: "549" doesn't match "{result:Nosolution}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1650.json
+Extracted Answer: ['(-16,-4)']
+Answer from Original: (-16,-4)
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1650_answer.json
+Answer from ChatGPT : {operation:solve,equation:(x+2)/2=-7,(y+4)/2=0,unknowns:x,y}
+
+Wrong: "(-16,-4)" doesn't match "{operation:solve,equation:(x+2)/2=-7,(y+4)/2=0,unknowns:x,y}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1656.json
+Extracted Answer: ['27']
+Answer from Original: 27
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1656_answer.json
+Answer from ChatGPT : 41.
+
+Wrong: "27" doesn't match "41."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1659.json
+Extracted Answer: ['(-4x^2+x+1)(4x^2+x+1)']
+Answer from Original: (-4x^2+x+1)(4x^2+x+1)
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1659_answer.json
+Answer from ChatGPT : (-4x-1)(4x+1)(-x+1)(x+1).
+
+Wrong: "(-4x^2+x+1)(4x^2+x+1)" doesn't match "(-4x-1)(4x+1)(-x+1)(x+1)."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1664.json
+Extracted Answer: ['4(3-x)(3+x)']
+Answer from Original: 4(3-x)(3+x)
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1664_answer.json
+Answer from ChatGPT : {solution:(6-2x)(6+2x)}
+
+Wrong: "4(3-x)(3+x)" doesn't match "{solution:(6-2x)(6+2x)}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1668.json
+Extracted Answer: ['5']
+Answer from Original: 5
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1668_answer.json
+Answer from ChatGPT : 4,1
+
+Wrong: "5" doesn't match "4,1"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1674.json
+Extracted Answer: ['0']
+Answer from Original: 0
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1674_answer.json
+Found Fraction: [('', '23', '4')]
+Answer from ChatGPT : 23/4
+
+Wrong: "0" doesn't match "23/4"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1678.json
+Extracted Answer: ['11']
+Answer from Original: 11
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1678_answer.json
+Answer from ChatGPT : 24.
+
+Wrong: "11" doesn't match "24."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1680.json
+Extracted Answer: ['7']
+Answer from Original: 7
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1680_answer.json
+Extracted Answer: ['\\frac{42}{11}']
+Found Fraction: [('', '42', '11')]
+Answer from ChatGPT : 42/11
+
+Wrong: "7" doesn't match "42/11"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1683.json
+Extracted Answer: ['22']
+Answer from Original: 22
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1683_answer.json
+Answer from ChatGPT : {operation:rationalize_denominator,expression:(sqrt(5)+sqrt(2))/(sqrt(5)-sqrt(2))}
+
+Wrong: "22" doesn't match "{operation:rationalize_denominator,expression:(sqrt(5)+sqrt(2))/(sqrt(5)-sqrt(2))}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1689.json
+Extracted Answer: ['C']
+Answer from Original: C
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1689_answer.json
+Answer from ChatGPT : A.
+
+Wrong: "C" doesn't match "A."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1693.json
+Extracted Answer: ['18']
+Answer from Original: 18
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1693_answer.json
+Answer from ChatGPT : 12.
+
+Wrong: "18" doesn't match "12."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1698.json
+Extracted Answer: ['0']
+Answer from Original: 0
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1698_answer.json
+Answer from ChatGPT : -25
+
+Wrong: "0" doesn't match "-25"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1699.json
+Extracted Answer: ['0']
+Answer from Original: 0
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1699_answer.json
+Answer from ChatGPT : [-8,8]
+
+Wrong: "0" doesn't match "[-8,8]"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/17.json
+Extracted Answer: ['8']
+Answer from Original: 8
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/17_answer.json
+Answer from ChatGPT : a=0.
+
+Wrong: "8" doesn't match "a=0."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/170.json
+Extracted Answer: ['11']
+Answer from Original: 11
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/170_answer.json
+Answer from ChatGPT : 11
+
+Matches: "11" matches "11"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1701.json
+Extracted Answer: ['2']
+Answer from Original: 2
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1701_answer.json
+Answer from ChatGPT : x=-11
+
+Wrong: "2" doesn't match "x=-11"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1702.json
+Extracted Answer: ['125']
+Answer from Original: 125
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1702_answer.json
+Answer from ChatGPT : 625.5945304047073
+
+Wrong: "125" doesn't match "625.5945304047073"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1703.json
+Extracted Answer: ['2\\sqrt{22}']
+1
+Answer from Original: 2sqrt(22)
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1703_answer.json
+Answer from ChatGPT : 8.
+
+Wrong: "2sqrt(22)" doesn't match "8."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1704.json
+Extracted Answer: ['174']
+Answer from Original: 174
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1704_answer.json
+Answer from ChatGPT : A=24,B=200.ThusA+B=224.{solution:224}
+
+Wrong: "174" doesn't match "A=24,B=200.ThusA+B=224.{solution:224}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1706.json
+Extracted Answer: ['7']
+Answer from Original: 7
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1706_answer.json
+Answer from ChatGPT : {result:-2}
+
+Wrong: "7" doesn't match "{result:-2}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1707.json
+Extracted Answer: ['3']
+Answer from Original: 3
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1707_answer.json
+Answer from ChatGPT : {c:125^b=5=5^3,sob=3/5.27^b=(3^3)^b=3^(3b)=(3^(3))^b=27^b=c,soc=3^(3b)=3^(3*3/5)=3^9*3^-2=729/9=81.}
+
+Matches: "3" is found within "{c:125^b=5=5^3,sob=3/5.27^b=(3^3)^b=3^(3b)=(3^(3))^b=27^b=c,soc=3^(3b)=3^(3*3/5)=3^9*3^-2=729/9=81.}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1709.json
+Extracted Answer: ['14']
+Answer from Original: 14
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1709_answer.json
+Answer from ChatGPT : Thedegreeofp(t)cdotq(t)willbeequaltothesumofthedegreesofp(t)andq(t).Thus,degreeofp(t)cdotq(t)=7+7=14.
+
+Matches: "14" is found within "Thedegreeofp(t)cdotq(t)willbeequaltothesumofthedegreesofp(t)andq(t).Thus,degreeofp(t)cdotq(t)=7+7=14."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/171.json
+Extracted Answer: ['9']
+Answer from Original: 9
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/171_answer.json
+Answer from ChatGPT : {response:9}
+
+Matches: "9" is found within "{response:9}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1713.json
+Extracted Answer: ['16']
+Answer from Original: 16
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1713_answer.json
+Answer from ChatGPT : 128.
+
+Wrong: "16" doesn't match "128."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1714.json
+Extracted Answer: ['800000']
+Answer from Original: 800000
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1714_answer.json
+Answer from ChatGPT : 200000.
+
+Wrong: "800000" doesn't match "200000."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1724.json
+Extracted Answer: ['\\frac{\\sqrt6}3']
+Found Fraction: [('', '6')]
+Answer from Original: /6
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1724_answer.json
+Found Fraction: [('', '\\frac23}$ is $\\frac{\\sqrt{6}', '3')]
+Found Fraction: [('', '23')]
+Answer from ChatGPT : (2/3)/3
+
+Wrong: "/6" doesn't match "(2/3)/3"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1729.json
+Extracted Answer: ['2']
+Answer from Original: 2
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1729_answer.json
+Answer from ChatGPT : 3and9arethetwonumbers,sotheirdifferenceis6.{solution:6}
+
+Wrong: "2" doesn't match "3and9arethetwonumbers,sotheirdifferenceis6.{solution:6}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1730.json
+Extracted Answer: ['3']
+Answer from Original: 3
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1730_answer.json
+Answer from ChatGPT : -30.
+
+Matches: "3" is found within "-30."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1731.json
+Extracted Answer: ['\\frac{4}{5}']
+Found Fraction: [('', '4', '5')]
+Answer from Original: 4/5
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1731_answer.json
+Answer from ChatGPT : Nosolution.
+
+Wrong: "4/5" doesn't match "Nosolution."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1732.json
+Extracted Answer: ['\\frac{1}{4}']
+Found Fraction: [('', '1', '4')]
+Answer from Original: 1/4
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1732_answer.json
+Extracted Answer: ['10^{\\frac{1}{4}}']
+Found Fraction: [('', '\\frac{1', '4}')]
+Found Fraction: []
+Answer from ChatGPT : (ExtractionFailed)/(4})
+
+Wrong: "1/4" doesn't match "(ExtractionFailed)/(4})"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1733.json
+Extracted Answer: ['5']
+Answer from Original: 5
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1733_answer.json
+Answer from ChatGPT : 264.
+
+Wrong: "5" doesn't match "264."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1736.json
+Extracted Answer: ['64']
+Answer from Original: 64
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1736_answer.json
+Answer from ChatGPT : Thereare2cellsatthebeginning.Attheendofthefirst3days,thereare4cells.Attheendofthenext3days,thereare8cells.Thispatterncontinuesuntilday15,whenthereare2^5=32cells.Therefore,thereare32cellsattheendofthe15^text{th}day.
+
+Wrong: "64" doesn't match "Thereare2cellsatthebeginning.Attheendofthefirst3days,thereare4cells.Attheendofthenext3days,thereare8cells.Thispatterncontinuesuntilday15,whenthereare2^5=32cells.Therefore,thereare32cellsattheendofthe15^text{th}day."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1739.json
+Extracted Answer: ['5']
+Answer from Original: 5
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1739_answer.json
+Answer from ChatGPT : 5
+
+Matches: "5" matches "5"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/174.json
+Extracted Answer: ['9']
+Answer from Original: 9
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/174_answer.json
+Answer from ChatGPT : NoSolution.
+
+Wrong: "9" doesn't match "NoSolution."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1742.json
+Extracted Answer: ['3']
+Answer from Original: 3
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1742_answer.json
+Answer from ChatGPT : {question:Lethbeapolynomialofdegree5,andsupposethath(x)=(x^2-7x+10)cdotg(x),whereg(x)isapolynomialofdegreeb.Findb.,answer:b=3}
+
+Matches: "3" is found within "{question:Lethbeapolynomialofdegree5,andsupposethath(x)=(x^2-7x+10)cdotg(x),whereg(x)isapolynomialofdegreeb.Findb.,answer:b=3}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1748.json
+Extracted Answer: ['4']
+Answer from Original: 4
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1748_answer.json
+Answer from ChatGPT : Lettheuniquesolutionbex_1thenwehave:ax_1^2+8x_1+4=0Sincetheresonlyonesolutionwehaveonly1rootwhichmeansthatdiscriminantiszero.Delta=b^2-4ac=08^2-4*a*4=0a=4ora=8butacannotbezero.Thus,a=4.
+
+Matches: "4" is found within "Lettheuniquesolutionbex_1thenwehave:ax_1^2+8x_1+4=0Sincetheresonlyonesolutionwehaveonly1rootwhichmeansthatdiscriminantiszero.Delta=b^2-4ac=08^2-4*a*4=0a=4ora=8butacannotbezero.Thus,a=4."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/175.json
+Extracted Answer: ['2']
+Answer from Original: 2
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/175_answer.json
+Answer from ChatGPT : nosolution.
+
+Wrong: "2" doesn't match "nosolution."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1750.json
+Extracted Answer: ['\\frac{6\\sqrt{5}}{5}']
+Found Fraction: [('', '6\\sqrt{5}', '5')]
+1
+Answer from Original: (6sqrt(5))/5
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1750_answer.json
+Answer from ChatGPT : {simplify:[(72^(1/2))/(10^(1/2))]}
+
+Wrong: "(6sqrt(5))/5" doesn't match "{simplify:[(72^(1/2))/(10^(1/2))]}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1753.json
+Extracted Answer: ['10']
+Answer from Original: 10
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1753_answer.json
+Answer from ChatGPT : 20units.
+
+Wrong: "10" doesn't match "20units."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1755.json
+Extracted Answer: ['\\$16,\\!386.16']
+Answer from Original: 16,!386.16
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1755_answer.json
+Answer from ChatGPT : Input:{investment:10000,rate:0.10,years:5,compounds_per_year:4}Output:11605.54
+
+Wrong: "16,!386.16" doesn't match "Input:{investment:10000,rate:0.10,years:5,compounds_per_year:4}Output:11605.54"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1757.json
+Extracted Answer: ['5']
+Answer from Original: 5
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1757_answer.json
+Answer from ChatGPT : 43
+
+Wrong: "5" doesn't match "43"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/176.json
+Extracted Answer: ['x^3 + 2x^2 + x']
+Answer from Original: x^3+2x^2+x
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/176_answer.json
+Answer from ChatGPT : x^3+2x^2+x
+
+Matches: "x^3+2x^2+x" matches "x^3+2x^2+x"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1760.json
+Extracted Answer: ['3']
+Answer from Original: 3
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1760_answer.json
+Answer from ChatGPT : 4isthesmallestpossiblevalue.
+
+Wrong: "3" doesn't match "4isthesmallestpossiblevalue."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1762.json
+Extracted Answer: ['1050']
+Answer from Original: 1050
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1762_answer.json
+Answer from ChatGPT : Kendrawouldburn1050calories.
+
+Matches: "1050" is found within "Kendrawouldburn1050calories."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1763.json
+Extracted Answer: ['6']
+Answer from Original: 6
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1763_answer.json
+Answer from ChatGPT : 30cookies.
+
+Wrong: "6" doesn't match "30cookies."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1770.json
+Extracted Answer: ['1.8']
+Answer from Original: 1.8
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1770_answer.json
+Answer from ChatGPT : x=0.4
+
+Wrong: "1.8" doesn't match "x=0.4"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1772.json
+Extracted Answer: ['2']
+Answer from Original: 2
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1772_answer.json
+Extracted Answer: ['\\infty']
+Answer from ChatGPT : infty
+
+Wrong: "2" doesn't match "infty"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1774.json
+Extracted Answer: ['0.75']
+Answer from Original: 0.75
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1774_answer.json
+Found Fraction: [('', '-(-60) \\pm \\sqrt{(-60)^2 - 4(-16)(54)}', '2(-16)')]
+1
+Answer from ChatGPT : (-(-60)pmsqrt((-60)^2-4(-16)(54)))/(2(-16))
+
+Wrong: "0.75" doesn't match "(-(-60)pmsqrt((-60)^2-4(-16)(54)))/(2(-16))"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1776.json
+Extracted Answer: ['-15']
+Answer from Original: -15
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1776_answer.json
+Answer from ChatGPT : -20
+
+Wrong: "-15" doesn't match "-20"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1778.json
+Extracted Answer: ['-4']
+Answer from Original: -4
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1778_answer.json
+Extracted Answer: ['-20']
+Answer from ChatGPT : -20
+
+Wrong: "-4" doesn't match "-20"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1779.json
+Extracted Answer: ['10']
+Answer from Original: 10
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1779_answer.json
+Extracted Answer: ['12']
+Answer from ChatGPT : 12
+
+Wrong: "10" doesn't match "12"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/178.json
+Extracted Answer: ['2010']
+Answer from Original: 2010
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/178_answer.json
+Extracted Answer: ['2010']
+Answer from ChatGPT : 2010
+
+Matches: "2010" matches "2010"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1781.json
+Extracted Answer: ['-3']
+Answer from Original: -3
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1781_answer.json
+Found Fraction: [('', '29', '11')]
+Answer from ChatGPT : 29/11
+
+Wrong: "-3" doesn't match "29/11"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1784.json
+Extracted Answer: ['-114']
+Answer from Original: -114
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1784_answer.json
+Answer from ChatGPT : -2
+
+Wrong: "-114" doesn't match "-2"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1786.json
+Extracted Answer: ['24']
+Answer from Original: 24
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1786_answer.json
+Answer from ChatGPT : {solution:-7/3}
+
+Wrong: "24" doesn't match "{solution:-7/3}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1787.json
+Extracted Answer: ['8']
+Answer from Original: 8
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1787_answer.json
+Answer from ChatGPT : Twofriendscanshareonemeal,so12friendscouldhaveordered6meals.
+
+Wrong: "8" doesn't match "Twofriendscanshareonemeal,so12friendscouldhaveordered6meals."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1788.json
+Extracted Answer: ['\\frac 54']
+Found Fraction: []
+Answer from Original: ExtractionFailed
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1788_answer.json
+Found Fraction: [('', '1}{4}+1=\\frac{5', '4')]
+Found Fraction: []
+Answer from ChatGPT : (ExtractionFailed)/4
+
+Matches: "ExtractionFailed" is found within "(ExtractionFailed)/4"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1789.json
+Extracted Answer: ['3']
+Answer from Original: 3
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1789_answer.json
+Answer from ChatGPT : 24.0
+
+Wrong: "3" doesn't match "24.0"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1791.json
+Extracted Answer: ['89']
+Answer from Original: 89
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1791_answer.json
+Answer from ChatGPT : {solution:43}
+
+Wrong: "89" doesn't match "{solution:43}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1792.json
+Extracted Answer: ['99940009']
+Answer from Original: 99940009
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1792_answer.json
+Answer from ChatGPT : 99970009.
+
+Wrong: "99940009" doesn't match "99970009."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1794.json
+Extracted Answer: ['\\dfrac{1}{3}']
+Found Fraction: [('', '1', '3')]
+Answer from Original: 1/3
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1794_answer.json
+Found Fraction: [('', '1}{3} \\quad \\mathrm{or} \\quad x = -\\frac{2}{3} $$But, since $x > 0$, the only solution is:$$ x = \\frac{1', '3')]
+Found Fraction: [('', '3} \\quad \\mathrm{or} \\quad x = -\\frac{2', '3')]
+Found Fraction: []
+Answer from ChatGPT : ((ExtractionFailed)/3)/3
+
+Wrong: "1/3" doesn't match "((ExtractionFailed)/3)/3"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1796.json
+Extracted Answer: ['2\\sqrt{5}']
+1
+Answer from Original: 2sqrt(5)
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1796_answer.json
+Answer from ChatGPT : 2√2.
+
+Wrong: "2sqrt(5)" doesn't match "2√2."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1798.json
+Extracted Answer: ['27']
+Answer from Original: 27
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1798_answer.json
+Answer from ChatGPT : {operands:[153,0.7],operator:solve_for_y}Output:90
+
+Wrong: "27" doesn't match "{operands:[153,0.7],operator:solve_for_y}Output:90"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/180.json
+Extracted Answer: ['360']
+Answer from Original: 360
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/180_answer.json
+Answer from ChatGPT : 3240cubiccentimeters.
+
+Wrong: "360" doesn't match "3240cubiccentimeters."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1800.json
+Extracted Answer: ['4000']
+Answer from Original: 4000
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1800_answer.json
+Answer from ChatGPT : 4000drips.
+
+Matches: "4000" is found within "4000drips."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1803.json
+Extracted Answer: ['17']
+Answer from Original: 17
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1803_answer.json
+Answer from ChatGPT : 5
+
+Wrong: "17" doesn't match "5"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1804.json
+Extracted Answer: ['200']
+Answer from Original: 200
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1804_answer.json
+Answer from ChatGPT : 200.
+
+Matches: "200" is found within "200."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1805.json
+Extracted Answer: ['11']
+Answer from Original: 11
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1805_answer.json
+Answer from ChatGPT : -11.
+
+Matches: "11" is found within "-11."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1806.json
+Extracted Answer: ['4']
+Answer from Original: 4
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1806_answer.json
+Answer from ChatGPT : {res:t-7}
+
+Wrong: "4" doesn't match "{res:t-7}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1807.json
+Extracted Answer: ['-3']
+Answer from Original: -3
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1807_answer.json
+Extracted Answer: ['4']
+Answer from ChatGPT : 4
+
+Wrong: "-3" doesn't match "4"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1809.json
+Extracted Answer: ['(-\\infty, -7)\\cup(-7, 3)\\cup(3, \\infty)']
+Answer from Original: (-infty,-7)cup(-7,3)cup(3,infty)
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1809_answer.json
+Extracted Answer: ['(-\\infty,-7) \\cup (-7,3) \\cup (3,\\infty)']
+Answer from ChatGPT : (-infty,-7)cup(-7,3)cup(3,infty)
+
+Matches: "(-infty,-7)cup(-7,3)cup(3,infty)" matches "(-infty,-7)cup(-7,3)cup(3,infty)"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/181.json
+Extracted Answer: ['11']
+Answer from Original: 11
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/181_answer.json
+Answer from ChatGPT : {operation:solve,equation:(n+5)/(n-3)=2}
+
+Wrong: "11" doesn't match "{operation:solve,equation:(n+5)/(n-3)=2}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1810.json
+Extracted Answer: ['\\left[\\frac{1}{2}, \\frac{4']
+Found Fraction: [('', '1', '2')]
+Answer from Original: 1/2
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1810_answer.json
+Extracted Answer: ['\\frac16', '4']
+why is there more than one answer in the solution file??? -  ['\\frac16', '4']
+Going to use answer in 0th index.
+Found Fraction: [('', '16')]
+Answer from ChatGPT : 1/6
+
+Wrong: "1/2" doesn't match "1/6"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1811.json
+Extracted Answer: ['24']
+Answer from Original: 24
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1811_answer.json
+Answer from ChatGPT : {solution:18}
+
+Wrong: "24" doesn't match "{solution:18}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1812.json
+Extracted Answer: ['4']
+Answer from Original: 4
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1812_answer.json
+Answer from ChatGPT : a+b=11/2
+
+Wrong: "4" doesn't match "a+b=11/2"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1814.json
+Extracted Answer: ['143']
+Answer from Original: 143
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1814_answer.json
+Answer from ChatGPT : {inputs:{question:Thesumofthedigitsofatwo-digitnumberis13.Thedifferencebetweenthenumberandthenumberwithitsdigitsreversedis27.Whatisthesumoftheoriginalnumberandthenumberwithitsdigitsreversed?},outputs:{answer:132}}
+
+Wrong: "143" doesn't match "{inputs:{question:Thesumofthedigitsofatwo-digitnumberis13.Thedifferencebetweenthenumberandthenumberwithitsdigitsreversedis27.Whatisthesumoftheoriginalnumberandthenumberwithitsdigitsreversed?},outputs:{answer:132}}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1815.json
+Extracted Answer: ['17']
+Answer from Original: 17
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1815_answer.json
+Answer from ChatGPT : 17.
+
+Matches: "17" is found within "17."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1818.json
+Extracted Answer: ['9\\pi']
+Answer from Original: 9pi
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1818_answer.json
+Answer from ChatGPT : 73.647.
+
+Wrong: "9pi" doesn't match "73.647."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/182.json
+Extracted Answer: ['21y+14']
+Answer from Original: 21y+14
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/182_answer.json
+Answer from ChatGPT : 21y+14
+
+Matches: "21y+14" matches "21y+14"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1820.json
+Extracted Answer: ['44\\%']
+Answer from Original: 44
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1820_answer.json
+Answer from ChatGPT : 44increase.
+
+Matches: "44" is found within "44increase."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1824.json
+Extracted Answer: ['-4']
+Answer from Original: -4
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1824_answer.json
+Answer from ChatGPT : ab=-16.
+
+Wrong: "-4" doesn't match "ab=-16."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1826.json
+Extracted Answer: ['20']
+Answer from Original: 20
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1826_answer.json
+Answer from ChatGPT : 14
+
+Wrong: "20" doesn't match "14"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1828.json
+Extracted Answer: ['2']
+Answer from Original: 2
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1828_answer.json
+Answer from ChatGPT : {solution:4}
+
+Wrong: "2" doesn't match "{solution:4}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/183.json
+Extracted Answer: ['1']
+Answer from Original: 1
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/183_answer.json
+Answer from ChatGPT : x=1isaverticalasymptote.
+
+Matches: "1" is found within "x=1isaverticalasymptote."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1834.json
+Extracted Answer: ['22']
+Answer from Original: 22
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1834_answer.json
+Answer from ChatGPT : Thecorrectansweris13.
+
+Wrong: "22" doesn't match "Thecorrectansweris13."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1836.json
+Extracted Answer: ['8']
+Answer from Original: 8
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1836_answer.json
+Answer from ChatGPT : 4days
+
+Wrong: "8" doesn't match "4days"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1837.json
+Extracted Answer: ['5']
+Answer from Original: 5
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1837_answer.json
+Answer from ChatGPT : {x:4}
+
+Wrong: "5" doesn't match "{x:4}"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1838.json
+Extracted Answer: ['(r+5)^2']
+Answer from Original: (r+5)^2
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1838_answer.json
+Answer from ChatGPT : (r+5)^2
+
+Matches: "(r+5)^2" matches "(r+5)^2"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/184.json
+Extracted Answer: ['3\\sqrt{2}']
+1
+Answer from Original: 3sqrt(2)
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/184_answer.json
+Answer from ChatGPT : a=2ora=-3.
+
+Wrong: "3sqrt(2)" doesn't match "a=2ora=-3."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1841.json
+Extracted Answer: ['-6']
+Answer from Original: -6
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1841_answer.json
+Answer from ChatGPT : x=14.
+
+Wrong: "-6" doesn't match "x=14."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1842.json
+Extracted Answer: ['49']
+Answer from Original: 49
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1842_answer.json
+Extracted Answer: ['\\frac{49}{30}']
+Found Fraction: [('', '49', '30')]
+Answer from ChatGPT : 49/30
+
+Matches: "49" is found within "49/30"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1845.json
+Extracted Answer: ['\\frac{5}{3}']
+Found Fraction: [('', '5', '3')]
+Answer from Original: 5/3
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1845_answer.json
+Extracted Answer: ['\\frac{7}{3}']
+Found Fraction: [('', '7', '3')]
+Answer from ChatGPT : 7/3
+
+Wrong: "5/3" doesn't match "7/3"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1846.json
+Extracted Answer: ['4']
+Answer from Original: 4
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1846_answer.json
+Answer from ChatGPT : Nosolution.
+
+Wrong: "4" doesn't match "Nosolution."
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1848.json
+Extracted Answer: ['4']
+Answer from Original: 4
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1848_answer.json
+Extracted Answer: ['4']
+Answer from ChatGPT : 4
+
+Matches: "4" matches "4"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1849.json
+Extracted Answer: ['7z^{96}(4z+1)']
+Answer from Original: 7z^{96}(4z+1)
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1849_answer.json
+Answer from ChatGPT : errorgettingananswer
+
+Wrong: "7z^{96}(4z+1)" doesn't match "errorgettingananswer"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/185.json
+Extracted Answer: ['17']
+Answer from Original: 17
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/185_answer.json
+Answer from ChatGPT : 15
+
+Wrong: "17" doesn't match "15"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1850.json
+Extracted Answer: ['4']
+Answer from Original: 4
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1850_answer.json
+Answer from ChatGPT : 2
+
+Wrong: "4" doesn't match "2"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1855.json
+Extracted Answer: ['\\frac{11}{2}']
+Found Fraction: [('', '11', '2')]
+Answer from Original: 11/2
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1855_answer.json
+Found Fraction: [('', '385', '462')]
+Answer from ChatGPT : 385/462
+
+Wrong: "11/2" doesn't match "385/462"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1856.json
+Extracted Answer: ['\\frac16']
+Found Fraction: [('', '16')]
+Answer from Original: 1/6
+
+GPT File: 4-7-MATH-test-answers/test/algebra/answers/1856_answer.json
+Answer from ChatGPT : -5
+
+Wrong: "1/6" doesn't match "-5"
+
+---------------------------------
+
+Original File: 4-7-MATH-test-answers/test/algebra/1861.json
+Extracted Answer: ['10\\sqrt{2}}$.- OR -We note that the points $(-5, 5)$, $(5, -5)$, and $(-5, -5)$ form an isosceles right triangle (a 45-45-90 triangle) with legs of length 10. Therefore, the hypotenuse has length $\\boxed{10\\sqrt 2']
+
+Traceback (most recent call last):
+  File "/mnt/c/Users/bxvu0/OneDrive/Documents/UCSC/2022 - 2023/Spring Quarter/CMPM 118 - Research Experience in Engineering/autograder/118GPT_autograding_script.py", line 243, in <module>
+    main()
+  File "/mnt/c/Users/bxvu0/OneDrive/Documents/UCSC/2022 - 2023/Spring Quarter/CMPM 118 - Research Experience in Engineering/autograder/118GPT_autograding_script.py", line 238, in main
+    gradeFiles(original_file_path, GPT_file_path)
+  File "/mnt/c/Users/bxvu0/OneDrive/Documents/UCSC/2022 - 2023/Spring Quarter/CMPM 118 - Research Experience in Engineering/autograder/118GPT_autograding_script.py", line 187, in gradeFiles
+    correctSolution = extract.extractAnswer(openJsonFile(originalFile), debugLevel)
+  File "/mnt/c/Users/bxvu0/OneDrive/Documents/UCSC/2022 - 2023/Spring Quarter/CMPM 118 - Research Experience in Engineering/autograder/answer_extraction.py", line 18, in extractAnswer
+    return extractInside(string.replace("\n", "").replace("\\end{align*}", "").replace("\\begin{align*}", ""))
+  File "/mnt/c/Users/bxvu0/OneDrive/Documents/UCSC/2022 - 2023/Spring Quarter/CMPM 118 - Research Experience in Engineering/autograder/answer_extraction.py", line 5, in extractInside
+    return extractInside(handle_boxed(string))
+  File "/mnt/c/Users/bxvu0/OneDrive/Documents/UCSC/2022 - 2023/Spring Quarter/CMPM 118 - Research Experience in Engineering/autograder/answer_extraction.py", line 5, in extractInside
+    return extractInside(handle_boxed(string))
+  File "/mnt/c/Users/bxvu0/OneDrive/Documents/UCSC/2022 - 2023/Spring Quarter/CMPM 118 - Research Experience in Engineering/autograder/answer_extraction.py", line 54, in handle_boxed
+    shortestAnswer = min(matches, key=len)
+ValueError: min() arg is an empty sequence
+
+real    0m29.888s
+user    0m0.409s
+sys     0m1.756s

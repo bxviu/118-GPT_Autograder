@@ -11,6 +11,19 @@ For the debug level:
         3 to see even more logic running and the substring from where the answers are found
         4 to see the whole string where the answers are extracted from
 
-#To do
+Also uses functions from https://github.com/hendrycks/math
+
+# To do
+Errors with formatting answers:
+\boxed{(-\infty,-\frac{1}{2})\cup(-\frac{1}{2},\infty)}
+\boxed{\frac{68}{3}\text{pounds}}
+\boxed{\frac{\sqrt{6}}3}
+\boxed{[\frac{1}{2},\frac{4}{3}]}
+\boxed{\frac{625}4}
+\boxed{(\frac{3}{5},\frac{8}{3}]}
+\boxed{\frac{1}{5}+\frac{3}{5}i}
+probably won't deal with them since there were only 7 instances these errors from 1187 questions
+
+# done
 kind of want to rewrite this extracting number script so that it can recursively read each command, such as \sqrt, or \frac,  within the \boxed{} answer.
 i feel like this would make it easier to deal with unknown commands that aren't too common like \infty and some others

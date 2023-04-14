@@ -10,14 +10,72 @@ def score(answer1, answer2):
         correctNum += 1
         if debugLevel > 1: print("Matches: \"" + str(answer1) + "\" matches \"" + str(answer2) + "\"")
         return
+    pattern = r"[^\(\)\-+/*.\d]?([\(\)\-+/*.\d]+)[^\(\)\-+/*.\d]?"
+    matches1 = re.findall(pattern, answer1)
+    matches2 = re.findall(pattern, answer2)
+    if len(matches1) == 1 and len(matches2) == 1:
+        if "os" in matches1[0] or "os" in matches2[0]:
+            if debugLevel > 3: print("oh, nope")
+        else:
+            # this is for matching answers such as 1/2 and 0.5 that aren't literally the same, but have the same value
+            if debugLevel > 3: print("Trying eval to calculate the value")
+            # https://lybniz2.sourceforge.net/safeeval.html hope this is true
+            # if you get this error or similar: <string>:1: SyntaxWarning: 'int' object is not callable; perhaps you missed a comma?
+            # it is because of equations like 1(2), there needs to be 1*(2) for it to evaluate correctly
+            # not dealing with that because it seems like a small error right now
+            try: 
+                if eval(matches1[0],{"__builtins__":None},{}) == eval(matches2[0],{"__builtins__":None},{}):
+                    if debugLevel > 3:
+                        print("success")
+                        print(matches1[0])
+                        print(matches2[0])
+                    correctNum += 1
+                    if debugLevel > 1: print("Evaluation of: \"" + str(answer1) + "\" matches \"" + str(answer2) + "\"")
+                    return
+            except:
+                if debugLevel > 3:
+                    print("failed")
+                    print(matches1[0])
+                    print(matches2[0])
     # maybe ChatGPT has the answer within a larger string, comment out if you want the scoring to be more strict
     elif (answer1 in answer2):
-        correctNum += 1
-        if debugLevel > 1: print("Matches: \"" + str(answer1) + "\" is found within \"" + str(answer2) + "\"")
-        return
+        if debugLevel > 2: print("Can find: \"" + str(answer1) + "\" within \"" + str(answer2) + "\"\nChecking if it has an equation around it.\n")
+        if check_not_surrounded_by_chars(answer1, answer2):
+            correctNum += 1
+            if debugLevel > 1: print("Matches: \"" + str(answer1) + "\" is found within \"" + str(answer2) + "\"")
+            return
+        if debugLevel > 2: print("Found equation characters around it. No match.\n")
     global wrongNum
     wrongNum += 1
     if debugLevel > 1: print("Wrong: \"" + str(answer1) + "\" doesn't match \"" + str(answer2) + "\"")
+
+# this should deal with some instances of seeing a smaller length answer being found within chatgpt's answer
+# like "2" being found in "(1+sqrt(5))/2"
+def check_not_surrounded_by_chars(a: str, b: str) -> bool:
+    chars = set(",0123456789+-/*^().")
+    # this checks out by 2 surrounding chars  
+    # for i in range(len(b) - len(a) + 1):
+    #     if a == b[i:i+len(a)]:
+    #         if i > 1 and b[i-2:i] not in chars:
+    #             continue
+    #         if i > 0 and b[i-1:i] not in chars:
+    #             continue
+    #         if i + len(a) < len(b) - 1 and b[i+len(a):i+len(a)+2] not in chars:
+    #             continue
+    #         if i + len(a) < len(b) and b[i+len(a):i+len(a)+1] not in chars:
+    #             continue
+    #         return True
+    # return False
+
+    # this checks out by 1 surrounding char  
+    for i in range(len(b) - len(a) + 1):
+        if b[i:i+len(a)] == a:
+            if i > 0 and b[i-1] in chars:
+                continue
+            if i+len(a) < len(b) and b[i+len(a)] in chars:
+                continue
+            return True
+    return False
 
 def addErrorFile(reason):
     global errorFiles
@@ -34,14 +92,20 @@ def getJsonFiles(original_file_path, GPT_file_path):
     jsonListOrig = []
     jsonListGPT = []
 
-    fileCount = 0;
+    fileCount = 0
     if debugLevel > 1: invalidFileNum = 0
     
-    checkFileList = []#[2]#,2]#,51,230,327,872,1043,1349,1123]#[291]#[1810]#[706]#[876, 2257, 2253, 2216, 2193]
+    checkFileList = []#[1123, 1569, 1724, 1810, 2395, 2486, 313]#[2]#,2]#,51,230,327,872,1043,1349,1123]#[291]#[1810]#[706]#[876, 2257, 2253, 2216, 2193]
     for file in checkFileList:
         file = str(file) + ".json"
         jsonListOrig.append(os.path.join(original_file_path, file))
-        jsonListGPT.append(os.path.join(GPT_file_path, file[:-5] + "_answer" + file[-5:]))
+        if os.path.exists(os.path.join(GPT_file_path, file[:-5] + "_answer" + file[-5:])):
+            jsonListGPT.append(os.path.join(GPT_file_path, file[:-5] + "_answer" + file[-5:]))
+        elif os.path.exists(os.path.join(GPT_file_path, file[:-5] + "_answer_answer_formatted" + file[-5:])):
+            jsonListGPT.append(os.path.join(GPT_file_path, file[:-5] + "_answer_answer_formatted" + file[-5:]))
+        elif os.path.exists(os.path.join(GPT_file_path, file)):
+            jsonListGPT.append(os.path.join(GPT_file_path, file))
+        
     if len(checkFileList) > 0:  return (jsonListOrig, jsonListGPT)
 
     for file in os.listdir(original_file_path):
@@ -50,6 +114,12 @@ def getJsonFiles(original_file_path, GPT_file_path):
             if os.path.exists(os.path.join(GPT_file_path, file[:-5] + "_answer" + file[-5:])):
                 jsonListOrig.append(os.path.join(original_file_path, file))
                 jsonListGPT.append(os.path.join(GPT_file_path, file[:-5] + "_answer" + file[-5:]))
+            elif os.path.exists(os.path.join(GPT_file_path, file[:-5] + "_answer_answer_formatted" + file[-5:])):
+                jsonListOrig.append(os.path.join(original_file_path, file))
+                jsonListGPT.append(os.path.join(GPT_file_path, file[:-5] + "_answer_answer_formatted" + file[-5:]))
+            elif os.path.exists(os.path.join(GPT_file_path, file)):
+                jsonListOrig.append(os.path.join(original_file_path, file))
+                jsonListGPT.append(os.path.join(GPT_file_path, file))
             elif debugLevel > 0:
                 global currentFile
                 currentFile = file
@@ -64,111 +134,6 @@ def getJsonFiles(original_file_path, GPT_file_path):
     if debugLevel > 1 and invalidFileNum > 0: print("Found " + str(invalidFileNum) + " files that do not have corresponding answer file in GPT directory. Find them or something idk")
 
     return (jsonListOrig, jsonListGPT)
-
-# def count_opening_braces(s):
-#     count = 2
-#     open = 0
-#     closed = 0
-#     for c in s:
-#         if c == '{':
-#             open += 1
-#             count += 1
-#         elif c == '}':
-#             closed += 1
-#         if open != 0 and closed != 0 and open == closed:
-#             return count
-#     return count
-
-# def extractAnswer(string):
-#     if debugLevel > 3: print("Extracting Answer from: \n" + string + "\n")
-#     string = string.replace("%", "").replace("$", "").replace(" ", "").replace("\n", "").replace("\'", "").replace("\"", "").replace("`", "")
-#     if debugLevel > 3: print("Removing %,$, ,\\n,\',\",`: \n" + string + "\n")
-#     if '\\boxed' in string:
-#         pattern = r'\\boxed{.*}'
-#         matches = list(set(re.findall(pattern, string)))
-#         if debugLevel > 2: print("Found Answer in String: " + matches[0])
-#         pattern = r'\\boxed{((?:[^{}]*{[^{}]*}*){0,%d}[^{}]*)}' % count_opening_braces(string)
-#         # get rid of duplicates of same answer
-#         matches = list(set(re.findall(pattern, string)))
-#         if debugLevel > 1: print("Extracted Answer: " + str(matches))
-#         if len(matches) > 1:
-#             if debugLevel > 0:
-#                 addErrorFile("Multiple Answers")
-#             if debugLevel > 1: 
-#                 print("why is there more than one answer in the solution file??? -  " + str(matches) 
-#                 + "\nGoing to use answer in 0th index.")
-#         if len(matches) < 1:
-#             if debugLevel > 0: 
-#                 addErrorFile("No Answer")
-#             if debugLevel > 1:
-#                 print("why is no answer???")
-#         try:
-#             if 'frac' in matches[0]:
-#                 pattern = r'(-?).*?{(.*)}{(.*)}'
-#                 fractionNums = re.findall(pattern, matches[0])
-#                 if len(fractionNums) != 0:
-#                     if debugLevel > 1: print("Found Fraction: " + str(fractionNums))
-#                     # formatting numerator
-#                     if (fractionNums[0][1].isnumeric()):
-#                         result = str(fractionNums[0][1])
-#                     else:
-#                         result = "(" + str(fractionNums[0][1]) + ")"
-#                     result += "/"
-#                     # formatting denominator
-#                     if (fractionNums[0][2].isnumeric()):
-#                         result += str(fractionNums[0][2])
-#                     else:
-#                         result += "(" + str(fractionNums[0][2]) + ")"
-#                     if fractionNums[0][0] == "-":
-#                         result = "-" + result
-#                 else:
-#                     pattern = r'(-?)[\\A-Za-z_]+(\d+)'
-#                     fractionNums = re.findall(pattern, matches[0])
-#                     if debugLevel > 1: print("Found Fraction: " + str(fractionNums))
-#                     # formatting numerator
-#                     if (fractionNums[0][1].isnumeric()):
-#                         result = str(fractionNums[0][1][:int(len(str(fractionNums[0][1]))/2)])
-#                     else:
-#                         result = "(" + str(fractionNums[0][1][:int(len(str(fractionNums[0][1]))/2)]) + ")"
-#                     result += "/"
-#                     # formatting denominator
-#                     if (fractionNums[0][1].isnumeric()):
-#                         result += str(fractionNums[0][1][int(len(str(fractionNums[0][1]))/2):])
-#                     else:
-#                         result += "(" + str(fractionNums[0][1][int(len(str(fractionNums[0][1]))/2):]) + ")"
-#                     # result = str(fractionNums[0][1]) + "/" + str(fractionNums[0][2])
-#                     if fractionNums[0][0] == "-":
-#                         result = "-" + result
-#                 '''
-#                 some answers are formatted like this "\boxed{\frac19}" this is not helpful as "1" and "9" aren't seperated
-#                 and they are supposed to be like "\boxed{\frac{1}{9}}""" 
-#                 so this else statement should deal with stuff like that
-#                 '''
-#             else:   
-#                 result = ''.join(x for x in matches[0] if x != "\\")
-#             # Assuming that {} contains numbers that are part of a function now, like sqrt{324} becomes sqrt(324)
-#             result = result.replace("{", "(").replace("}", ")").replace("\\","")
-#             if debugLevel > 2: print("Replacing {} with () and removing \\: " + result)
-#             return result
-#         except:
-#             if debugLevel > 0: addErrorFile("Extraction Failed")
-#             return "Extraction Failed"
-#     elif 'frac{' in string:
-#             try:
-#                 pattern = r'(-?).*?{(.*)}{(.*)}'
-#                 fractionNums = re.findall(pattern, string)
-#                 if debugLevel > 1: print("No \"\\boxed{}\" Format but Found Fraction: " + str(fractionNums))
-#                 result = str(fractionNums[0][1]) + "/" + str(fractionNums[0][2])
-#                 if fractionNums[0][0] == "-":
-#                     result = "-" + result
-#                 if debugLevel > 2: print("Replacing {} with (): " + string)
-#                 return result.replace("{", "(").replace("}", ")")
-#             except:
-#                 if debugLevel > 0: addErrorFile("Extraction Failed")
-#                 return "Extraction Failed"
-#     return string
-
-
 
 def gradeFiles(original_file_path, GPT_file_path): 
     (orig, gpt) = getJsonFiles(original_file_path, GPT_file_path)
@@ -185,6 +150,10 @@ def gradeFiles(original_file_path, GPT_file_path):
                 print("Problem #" + match.group(1))
         if debugLevel > 1: print("Original File: " + originalFile)
         correctSolution = extract.extractAnswer(openJsonFile(originalFile), debugLevel)
+        if "ExtractionFailed" in correctSolution: 
+            addErrorFile("Extraction Failed")
+            global extractionFailureCount
+            extractionFailureCount += 1
         if debugLevel > 0: print("Answer from Original: " + str(correctSolution))
 
         if debugLevel > 1: print("\nGPT File: " + GPTFile)
@@ -196,11 +165,17 @@ def gradeFiles(original_file_path, GPT_file_path):
         if debugLevel > 1: print("\n---------------------------------\n")
 
     print("Matching Answers: " + str(correctNum) 
-        + "\nWrong Answers   : " + str(wrongNum))
+        + "\nWrong Answers   : " + str(wrongNum)
+        + "\nTotal Answers   : " + str(correctNum+wrongNum)
+        + "\n\nComparisons if Ignoring " + str(extractionFailureCount) + " Failed Extractions."
+        + "\nMatching Answers: " + str(correctNum-extractionFailureCount if correctNum > extractionFailureCount else 0) 
+        + "\nWrong Answers   : " + str(wrongNum-extractionFailureCount if wrongNum > extractionFailureCount else 0)
+        + "\nTotal Answers   : " + str(correctNum+wrongNum-extractionFailureCount)
+        )
     
     if debugLevel > 0: 
         global errorFiles
-        print(str(len(errorFiles)) + " Files with Errors: \n" + str(errorFiles))
+        print("\n" + str(len(errorFiles)) + " Files with Errors: \n" + str(errorFiles))
 
 
 def main():
@@ -209,11 +184,13 @@ def main():
     global debugLevel
     global currentFile
     global errorFiles
+    global extractionFailureCount
 
     currentFile = ""
     errorFiles = []
     correctNum = 0
     wrongNum = 0
+    extractionFailureCount = 0
     '''
         The higher the level, the more info is printed
          0 for only results at the end
@@ -225,9 +202,10 @@ def main():
     debugLevel = 0
 
     if len(sys.argv) < 2:
-        # raise Exception("Not enough directory paths provided. Usage: python3 GPT_autograding_script.py <path/to/original/answer/directory/> <path/to/GPT/answer/directory/>")
-        original_file_path = "algebra/algebra/"
-        GPT_file_path = "algebra/algebra/answers/"
+        # also make sure the files are named appropriately
+        raise Exception("Not enough directory paths provided. Usage: python3 GPT_autograding_script.py <path/to/original/answer/directory/> <path/to/GPT/answer/directory/>")
+        # original_file_path = "algebra/algebra/"
+        # GPT_file_path = "algebra/algebra/answers/"
     else:
         original_file_path = sys.argv[1]
         GPT_file_path = sys.argv[2]
