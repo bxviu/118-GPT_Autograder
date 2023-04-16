@@ -1,0 +1,131 @@
+File: 4-7-MATH-check-1_date-4-15_algebra.txt
+
+Matching Answers: 200
+Wrong Answers   : 987
+Total Answers   : 1187
+
+200/1187 ~= 0.1684 = 16.849%
+
+Comparisons if Ignoring 7 Failed Extractions.
+Matching Answers: 193
+Wrong Answers   : 980
+Total Answers   : 1180
+
+193/1180 ~= 0.1635 = 16.355%
+
+
+-------------------------
+
+File: 4-7-MATH-check-1_date-4-15_counting_and_probability.txt
+
+Matching Answers: 63
+Wrong Answers   : 411
+Total Answers   : 474
+
+63/474 ~= 0.1329 = 13.291%
+
+Comparisons if Ignoring 0 Failed Extractions.
+Matching Answers: 63
+Wrong Answers   : 411
+Total Answers   : 474
+
+63/474 ~= 0.1329 = 13.291%
+
+
+-------------------------
+
+File: 4-7-MATH-check-1_date-4-15_geometry.txt
+
+Matching Answers: 48
+Wrong Answers   : 431
+Total Answers   : 479
+
+48/479 ~= 0.1002 = 10.020%
+
+Comparisons if Ignoring 5 Failed Extractions.
+Matching Answers: 43
+Wrong Answers   : 426
+Total Answers   : 474
+
+43/474 ~= 0.0907 = 9.0717%
+
+
+-------------------------
+
+File: 4-7-MATH-check-1_date-4-15_intermediate_algebra.txt
+
+Matching Answers: 103
+Wrong Answers   : 800
+Total Answers   : 903
+
+103/903 ~= 0.1140 = 11.406%
+
+Comparisons if Ignoring 13 Failed Extractions.
+Matching Answers: 90
+Wrong Answers   : 787
+Total Answers   : 890
+
+90/890 ~= 0.1011 = 10.112%
+
+
+-------------------------
+
+File: 4-7-MATH-check-1_date-4-15_number_theory.txt
+
+Matching Answers: 79
+Wrong Answers   : 461
+Total Answers   : 540
+
+79/540 ~= 0.1462 = 14.629%
+
+Comparisons if Ignoring 0 Failed Extractions.
+Matching Answers: 79
+Wrong Answers   : 461
+Total Answers   : 540
+
+79/540 ~= 0.1462 = 14.629%
+
+
+-------------------------
+
+File: 4-7-MATH-check-1_date-4-15_prealgebra.txt
+
+Matching Answers: 240
+Wrong Answers   : 631
+Total Answers   : 871
+
+240/871 ~= 0.2755 = 27.554%
+
+Comparisons if Ignoring 1 Failed Extractions.
+Matching Answers: 239
+Wrong Answers   : 630
+Total Answers   : 870
+
+239/870 ~= 0.2747 = 27.471%
+
+
+-------------------------
+
+File: 4-7-MATH-check-1_date-4-15_precalculus.txt
+
+Matching Answers: 83
+Wrong Answers   : 463
+Total Answers   : 546
+
+83/546 ~= 0.1520 = 15.201%
+
+Comparisons if Ignoring 24 Failed Extractions.
+Matching Answers: 59
+Wrong Answers   : 439
+Total Answers   : 522
+
+59/522 ~= 0.1130 = 11.302%
+
+
+-------------------------
+
+Total:
+816/5000 ~= 0.1632 = 16.32%
+
+Total if Ignoring 50 Failed Extractions:
+766/4950 ~= 0.1547 = 15.474%

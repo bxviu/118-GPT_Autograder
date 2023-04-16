@@ -1,221 +1,150 @@
-import json
+import subprocess
 import sys
 import os
-import re
-import answer_extraction as extract
- 
-def score(answer1, answer2):
-    global correctNum
-    if (answer1 == answer2):
-        correctNum += 1
-        if debugLevel > 1: print("Matches: \"" + str(answer1) + "\" matches \"" + str(answer2) + "\"")
-        return
-    pattern = r"[^\(\)\-+/*.\d]?([\(\)\-+/*.\d]+)[^\(\)\-+/*.\d]?"
-    matches1 = re.findall(pattern, answer1)
-    matches2 = re.findall(pattern, answer2)
-    if len(matches1) == 1 and len(matches2) == 1:
-        if "os" in matches1[0] or "os" in matches2[0]:
-            if debugLevel > 3: print("oh, nope")
-        else:
-            # this is for matching answers such as 1/2 and 0.5 that aren't literally the same, but have the same value
-            if debugLevel > 3: print("Trying eval to calculate the value")
-            # https://lybniz2.sourceforge.net/safeeval.html hope this is true
-            # if you get this error or similar: <string>:1: SyntaxWarning: 'int' object is not callable; perhaps you missed a comma?
-            # it is because of equations like 1(2), there needs to be 1*(2) for it to evaluate correctly
-            # not dealing with that because it seems like a small error right now
-            try: 
-                if eval(matches1[0],{"__builtins__":None},{}) == eval(matches2[0],{"__builtins__":None},{}):
-                    if debugLevel > 3:
-                        print("success")
-                        print(matches1[0])
-                        print(matches2[0])
-                    correctNum += 1
-                    if debugLevel > 1: print("Evaluation of: \"" + str(answer1) + "\" matches \"" + str(answer2) + "\"")
-                    return
-            except:
-                if debugLevel > 3:
-                    print("failed")
-                    print(matches1[0])
-                    print(matches2[0])
-    # maybe ChatGPT has the answer within a larger string, comment out if you want the scoring to be more strict
-    elif (answer1 in answer2):
-        if debugLevel > 2: print("Can find: \"" + str(answer1) + "\" within \"" + str(answer2) + "\"\nChecking if it has an equation around it.\n")
-        if check_not_surrounded_by_chars(answer1, answer2):
-            correctNum += 1
-            if debugLevel > 1: print("Matches: \"" + str(answer1) + "\" is found within \"" + str(answer2) + "\"")
-            return
-        if debugLevel > 2: print("Found equation characters around it. No match.\n")
-    global wrongNum
-    wrongNum += 1
-    if debugLevel > 1: print("Wrong: \"" + str(answer1) + "\" doesn't match \"" + str(answer2) + "\"")
-
-# this should deal with some instances of seeing a smaller length answer being found within chatgpt's answer
-# like "2" being found in "(1+sqrt(5))/2"
-def check_not_surrounded_by_chars(a: str, b: str) -> bool:
-    chars = set(",0123456789+-/*^().")
-    # this checks out by 2 surrounding chars  
-    # for i in range(len(b) - len(a) + 1):
-    #     if a == b[i:i+len(a)]:
-    #         if i > 1 and b[i-2:i] not in chars:
-    #             continue
-    #         if i > 0 and b[i-1:i] not in chars:
-    #             continue
-    #         if i + len(a) < len(b) - 1 and b[i+len(a):i+len(a)+2] not in chars:
-    #             continue
-    #         if i + len(a) < len(b) and b[i+len(a):i+len(a)+1] not in chars:
-    #             continue
-    #         return True
-    # return False
-
-    # this checks out by 1 surrounding char  
-    for i in range(len(b) - len(a) + 1):
-        if b[i:i+len(a)] == a:
-            if i > 0 and b[i-1] in chars:
-                continue
-            if i+len(a) < len(b) and b[i+len(a)] in chars:
-                continue
-            return True
-    return False
-
-def addErrorFile(reason):
-    global errorFiles
-    global currentFile
-    errorFiles.append((currentFile, reason))
-
-def openJsonFile(file):
-    # Opening JSON file
-    with open(file) as json_file:
-        data = json.load(json_file)
-        return data['solution']
-
-def getJsonFiles(original_file_path, GPT_file_path):
-    jsonListOrig = []
-    jsonListGPT = []
-
-    fileCount = 0
-    if debugLevel > 1: invalidFileNum = 0
-    
-    checkFileList = []#[1123, 1569, 1724, 1810, 2395, 2486, 313]#[2]#,2]#,51,230,327,872,1043,1349,1123]#[291]#[1810]#[706]#[876, 2257, 2253, 2216, 2193]
-    for file in checkFileList:
-        file = str(file) + ".json"
-        jsonListOrig.append(os.path.join(original_file_path, file))
-        if os.path.exists(os.path.join(GPT_file_path, file[:-5] + "_answer" + file[-5:])):
-            jsonListGPT.append(os.path.join(GPT_file_path, file[:-5] + "_answer" + file[-5:]))
-        elif os.path.exists(os.path.join(GPT_file_path, file[:-5] + "_answer_answer_formatted" + file[-5:])):
-            jsonListGPT.append(os.path.join(GPT_file_path, file[:-5] + "_answer_answer_formatted" + file[-5:]))
-        elif os.path.exists(os.path.join(GPT_file_path, file)):
-            jsonListGPT.append(os.path.join(GPT_file_path, file))
-        
-    if len(checkFileList) > 0:  return (jsonListOrig, jsonListGPT)
-
-    for file in os.listdir(original_file_path):
-        # if fileCount > 4: break
-        if file.endswith(".json"):
-            if os.path.exists(os.path.join(GPT_file_path, file[:-5] + "_answer" + file[-5:])):
-                jsonListOrig.append(os.path.join(original_file_path, file))
-                jsonListGPT.append(os.path.join(GPT_file_path, file[:-5] + "_answer" + file[-5:]))
-            elif os.path.exists(os.path.join(GPT_file_path, file[:-5] + "_answer_answer_formatted" + file[-5:])):
-                jsonListOrig.append(os.path.join(original_file_path, file))
-                jsonListGPT.append(os.path.join(GPT_file_path, file[:-5] + "_answer_answer_formatted" + file[-5:]))
-            elif os.path.exists(os.path.join(GPT_file_path, file)):
-                jsonListOrig.append(os.path.join(original_file_path, file))
-                jsonListGPT.append(os.path.join(GPT_file_path, file))
-            elif debugLevel > 0:
-                global currentFile
-                currentFile = file
-                addErrorFile("No Comparison File")
-                if debugLevel > 1:
-                    invalidFileNum += 1
-                if debugLevel > 2: print(file + " does not have corresponding answer file in GPT directory")
-            fileCount += 1
-        if fileCount % 100 == 0 and debugLevel > 1:
-            print("Found " + str(fileCount) + " files.")
-        
-    if debugLevel > 1 and invalidFileNum > 0: print("Found " + str(invalidFileNum) + " files that do not have corresponding answer file in GPT directory. Find them or something idk")
-
-    return (jsonListOrig, jsonListGPT)
-
-def gradeFiles(original_file_path, GPT_file_path): 
-    (orig, gpt) = getJsonFiles(original_file_path, GPT_file_path)
-
-    if debugLevel > 1: print("\n\nMatching Answers Now\n\n")
-    for i in range(len(orig)):
-        (originalFile, GPTFile) = (orig[i], gpt[i])
-        if debugLevel >= 1: 
-            pattern = r"/(\d+)\.json$"
-            match = re.search(pattern, originalFile)
-            global currentFile
-            currentFile = match.group(1)
-            if debugLevel == 1: 
-                print("Problem #" + match.group(1))
-        if debugLevel > 1: print("Original File: " + originalFile)
-        correctSolution = extract.extractAnswer(openJsonFile(originalFile), debugLevel)
-        if "ExtractionFailed" in correctSolution: 
-            addErrorFile("Extraction Failed")
-            global extractionFailureCount
-            extractionFailureCount += 1
-        if debugLevel > 0: print("Answer from Original: " + str(correctSolution))
-
-        if debugLevel > 1: print("\nGPT File: " + GPTFile)
-        GPTSolution = extract.extractAnswer(openJsonFile(GPTFile), debugLevel)
-        if debugLevel > 0: print("Answer from ChatGPT : " + str(GPTSolution) + "\n")
-        
-        score(correctSolution, GPTSolution)
-
-        if debugLevel > 1: print("\n---------------------------------\n")
-
-    print("Matching Answers: " + str(correctNum) 
-        + "\nWrong Answers   : " + str(wrongNum)
-        + "\nTotal Answers   : " + str(correctNum+wrongNum)
-        + "\n\nComparisons if Ignoring " + str(extractionFailureCount) + " Failed Extractions."
-        + "\nMatching Answers: " + str(correctNum-extractionFailureCount if correctNum > extractionFailureCount else 0) 
-        + "\nWrong Answers   : " + str(wrongNum-extractionFailureCount if wrongNum > extractionFailureCount else 0)
-        + "\nTotal Answers   : " + str(correctNum+wrongNum-extractionFailureCount)
-        )
-    
-    if debugLevel > 0: 
-        global errorFiles
-        print("\n" + str(len(errorFiles)) + " Files with Errors: \n" + str(errorFiles))
-
 
 def main():
-    global correctNum 
-    global wrongNum
-    global debugLevel
-    global currentFile
-    global errorFiles
-    global extractionFailureCount
-
-    currentFile = ""
-    errorFiles = []
-    correctNum = 0
-    wrongNum = 0
-    extractionFailureCount = 0
-    '''
-        The higher the level, the more info is printed
-         0 for only results at the end
-         1 to see all answers from original and chatgpt
-         2 to see logic running and file location
-         3 to see even more logic running and the substring from where the answers are found
-         4 to see the whole string where the answers are extracted from
-    '''
-    debugLevel = 0
-
     if len(sys.argv) < 2:
         # also make sure the files are named appropriately
-        raise Exception("Not enough directory paths provided. Usage: python3 GPT_autograding_script.py <path/to/original/answer/directory/> <path/to/GPT/answer/directory/>")
-        # original_file_path = "algebra/algebra/"
-        # GPT_file_path = "algebra/algebra/answers/"
-    else:
-        original_file_path = sys.argv[1]
-        GPT_file_path = sys.argv[2]
-    if len(sys.argv) > 3:
-        debugLevel = int(sys.argv[3]) if sys.argv[3].isnumeric() else debugLevel
-    
-    if os.path.isdir(original_file_path) and os.path.isdir(GPT_file_path):
-        gradeFiles(original_file_path, GPT_file_path)
-    else:
-        raise Exception("These are not directory paths. Usage: python3 GPT_autograding_script.py <path/to/original/answer/directory/> <path/to/GPT/answer/directory/> <debug level>")
+        raise Exception("Need more arguments, Usage: python3 118GPT_autograding_script.py <path/to/folder/containing/all/math/topic/folders/> <output_file_base_name> [debug_level]")
+    debugLevel = "0"
+    if len(sys.argv) > 3:    
+        debugLevel = sys.argv[3] if sys.argv[3].isnumeric() else debugLevel
+    ''' 
+    gets 2 file paths
+    for each folder (algebra, counting_and_probability, geometry, intermediate_algebra, number_theory, prealgebra, precalculus)
+    run autograding script
+    add results
+    print results
+    save results
+    command line input is folder holding everything, output file base name, debug level
+    '''
+    # https://stackoverflow.com/questions/14500183/in-python-can-i-call-the-main-of-an-imported-module
+    # grader.main(sys.argv)
+    math_topics = ["algebra", "counting_and_probability", "geometry", "intermediate_algebra", "number_theory", "prealgebra", "precalculus"]
+    file_base_name  = sys.argv[2] #"test_results.txt"
+    # args = sys.argv[1:]
+    rootdir = sys.argv[1]
+    args_for_autograder = []
+    for subdir, dirs, files in os.walk(rootdir):
+        for dir in dirs:
+            # find the math topics folders
+            if dir in math_topics:
+                # print(os.path.join(subdir, dir))
+                args_for_autograder.append(os.path.join(subdir, dir))
+                # looks for subdirectory called /answers/
+                for subsubdir, subdirs, files in os.walk(os.path.join(subdir, dir)):
+                    for answersubdir in subdirs:
+                        # change this if the answers folder is not named answers
+                        if answersubdir == "answers":
+                            # print(os.path.join(subsubdir, answersubdir))
+                            args_for_autograder.append(os.path.join(subsubdir, answersubdir))
+                            # print(args_for_autograder)
+                            args_for_autograder.append(debugLevel)
+                            output_file = file_base_name + "_" + dir + ".txt"
+                            print("Running autograder for " + dir + " in " + rootdir + " with output file: " + output_file)
+                            run_autograder(args_for_autograder, output_file)
+                            print("Finished running autograder for " + dir + " in " + rootdir + "\n")
+                            args_for_autograder.clear()
+                            break
+                # couldn't find answers folder, clear args
+                if len(args_for_autograder) < 2:
+                    args_for_autograder.clear()
+    print("Finished running autograder for all topics in " + rootdir)
+    print("Adding the results for each folder...\n")
+    '''
+    for each test file
+    extract result at the end of all the files
+    and add them together
+    output result in file_base_name.txt
+    '''
+    # find output files in this directory
+    totalMatchWFail = 0
+    fullTotalWFail = 0
+    totalMatchNoFail = 0
+    fullTotalNoFail = 0
+    failedExtractionCount = 0
+    math_topics_file_names = [file_base_name + "_" + topic + ".txt" for topic in math_topics]
+    result_file = file_base_name + ".txt"
+    # clear result_file
+    with open(result_file, "w") as f:
+        pass
+    for file in os.listdir(os.getcwd()):
+        if file in math_topics_file_names:
+            # print(file)
+            # open file and get result at the end
+            with open(file, "r") as f:
+                # hardcoding this since it is hardcoded to print these out
+                lines = f.readlines()
+                if debugLevel != "0":
+                    lines_subset = lines[-11:-8] + lines[-7:-3]
+                    # print(lines_subset)
+                else:
+                    # no debug lines
+                    lines_subset = lines[:3] + lines[4:]
+                    # print(lines_subset)
+                scores = calculate_score(lines_subset)
+                totalMatchWFail += scores[0][0]
+                fullTotalWFail += scores[0][1]
+                totalMatchNoFail += scores[1][0]
+                fullTotalNoFail += scores[1][1]
+                failedExtractionCount += scores[2]
+                output_to_file(result_file, lines_subset, scores, file)
+                # add to total
+                # with open(file_base_name + ".txt", "a") as g:
+                #     g.write(f.readlines()[-1])
+            # remove so no duplicates are added (why are they there in the first place?)
+            math_topics_file_names.remove(file)
+    with open(result_file, "a") as f:
+        f.write("Total:" + "\n")
+        f.write(str(totalMatchWFail) + "/" + str(fullTotalWFail) + " ~= " 
+                + str(totalMatchWFail / fullTotalWFail)[:tdp] + " = " + str(totalMatchWFail / fullTotalWFail * 100)[:tdp] + "%\n\n")
+        f.write("Total if Ignoring " + str(failedExtractionCount) + " Failed Extractions:"  + "\n")
+        f.write(str(totalMatchNoFail) + "/" + str(fullTotalNoFail) + " ~= " 
+                + str(totalMatchNoFail / fullTotalNoFail)[:tdp] + " = " + str(totalMatchNoFail / fullTotalNoFail * 100)[:tdp] + "%\n")
 
-if __name__ == '__main__':
+    print("Results are in: " + file_base_name + ".txt" + "\n")
+    # print(args_for_autograder)
+    # for folder_name in math_topics:
+    #     output_file = "test_results_" + folder_name + ".txt"
+    #     run_autograder(args_for_autograder, output_file)
+
+def calculate_score(lines):
+    '''
+    calculate score based on the file name
+    '''
+    matchingWithFails = int(''.join(filter(str.isdigit, lines[0])))
+    # wrongWithFails = ''.join(filter(str.isdigit, lines[1]))
+    totalWithFails = int(''.join(filter(str.isdigit, lines[2])))
+    # scoreWithFails = '' + str(int(matchingWithFails) / int(totalWithFails))
+
+    failedExtractionCount = int(''.join(filter(str.isdigit, lines[3])))
+
+    matchingNoFails = int(''.join(filter(str.isdigit, lines[4])))
+    # wrongNoFails = ''.join(filter(str.isdigit, lines[5]))
+    totalNoFails = int(''.join(filter(str.isdigit, lines[6])))
+    # scoreNoFails = '' + str(int(matchingNoFails) / int(totalNoFails))
+
+    return ((matchingWithFails, totalWithFails), (matchingNoFails, totalNoFails), failedExtractionCount)
+
+def output_to_file(file_name, lines, scores, file):
+    with open(file_name, "a") as f:
+        f.write("File: " + file + "\n\n")
+        scoreWithFails = (scores[0][0]) / float(scores[0][1])
+        f.write(lines[0] + lines[1] + lines[2] + "\n" + str(scores[0][0]) + "/" + str(scores[0][1]) 
+                + " ~= " + str(scoreWithFails)[:tdp] + " = " +  str(scoreWithFails * 100)[:tdp] + "%\n\n")
+        scoreNoFails = (scores[1][0]) / float(scores[1][1])
+        f.write(lines[3] + lines[4] + lines[5] + lines[6] + "\n" + str(scores[1][0]) + "/" + str(scores[1][1]) 
+                + " ~= " + str(scoreNoFails)[:tdp] + " = " +  str(scoreNoFails * 100)[:tdp] + "%\n")
+        f.write("\n\n-------------------------\n\n")
+    
+def run_autograder(args, output_file):
+    with open(output_file, "w") as f:
+        # replace with python directory, you could use "which python" (this is what i used to find it)
+        # print(args)
+        subprocess.run(["/usr/bin/python3", "autograder_118.py"] + args, stdout=f)
+
+if __name__ == "__main__":
+    # truncate decimalplace
+    global tdp
+    tdp = 6
     main()
