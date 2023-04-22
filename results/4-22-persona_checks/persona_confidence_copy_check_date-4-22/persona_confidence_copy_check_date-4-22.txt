@@ -1,0 +1,131 @@
+File: persona_confidence_copy_check_date-4-22_algebra.txt
+
+Matching Answers: 29
+Wrong Answers   : 43
+Total Answers   : 72
+
+29/72 ~= 0.4027 = 40.277%
+
+Comparisons if Ignoring 0 Failed Extractions.
+Matching Answers: 29
+Wrong Answers   : 43
+Total Answers   : 72
+
+29/72 ~= 0.4027 = 40.277%
+
+
+-------------------------
+
+File: persona_confidence_copy_check_date-4-22_counting_and_probability.txt
+
+Matching Answers: 21
+Wrong Answers   : 51
+Total Answers   : 72
+
+21/72 ~= 0.2916 = 29.166%
+
+Comparisons if Ignoring 0 Failed Extractions.
+Matching Answers: 21
+Wrong Answers   : 51
+Total Answers   : 72
+
+21/72 ~= 0.2916 = 29.166%
+
+
+-------------------------
+
+File: persona_confidence_copy_check_date-4-22_geometry.txt
+
+Matching Answers: 20
+Wrong Answers   : 52
+Total Answers   : 72
+
+20/72 ~= 0.2777 = 27.777%
+
+Comparisons if Ignoring 0 Failed Extractions.
+Matching Answers: 20
+Wrong Answers   : 52
+Total Answers   : 72
+
+20/72 ~= 0.2777 = 27.777%
+
+
+-------------------------
+
+File: persona_confidence_copy_check_date-4-22_intermediate_algebra.txt
+
+Matching Answers: 9
+Wrong Answers   : 62
+Total Answers   : 71
+
+9/71 ~= 0.1267 = 12.676%
+
+Comparisons if Ignoring 0 Failed Extractions.
+Matching Answers: 9
+Wrong Answers   : 62
+Total Answers   : 71
+
+9/71 ~= 0.1267 = 12.676%
+
+
+-------------------------
+
+File: persona_confidence_copy_check_date-4-22_number_theory.txt
+
+Matching Answers: 27
+Wrong Answers   : 44
+Total Answers   : 71
+
+27/71 ~= 0.3802 = 38.028%
+
+Comparisons if Ignoring 0 Failed Extractions.
+Matching Answers: 27
+Wrong Answers   : 44
+Total Answers   : 71
+
+27/71 ~= 0.3802 = 38.028%
+
+
+-------------------------
+
+File: persona_confidence_copy_check_date-4-22_prealgebra.txt
+
+Matching Answers: 42
+Wrong Answers   : 29
+Total Answers   : 71
+
+42/71 ~= 0.5915 = 59.154%
+
+Comparisons if Ignoring 0 Failed Extractions.
+Matching Answers: 42
+Wrong Answers   : 29
+Total Answers   : 71
+
+42/71 ~= 0.5915 = 59.154%
+
+
+-------------------------
+
+File: persona_confidence_copy_check_date-4-22_precalculus.txt
+
+Matching Answers: 10
+Wrong Answers   : 61
+Total Answers   : 71
+
+10/71 ~= 0.1408 = 14.084%
+
+Comparisons if Ignoring 4 Failed Extractions.
+Matching Answers: 9
+Wrong Answers   : 58
+Total Answers   : 67
+
+9/67 ~= 0.1343 = 13.432%
+
+
+-------------------------
+
+Total:
+158/500 ~= 0.316 = 31.6%
+
+Total if Ignoring 4 Failed Extractions:
+157/496 ~= 0.3165 = 31.653%

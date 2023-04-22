@@ -4,12 +4,26 @@ import os
 import re
 import answer_extraction as extract
  
+def checkIfExFailed(answer1, matched):
+    if "ExtractionFailed" in answer1: 
+        addErrorFile("Extraction Failed")
+    else:
+        return
+    if matched:
+        global extractionFailureCountMatches
+        extractionFailureCountMatches += 1
+    else:
+        global extractionFailureCountWrong
+        extractionFailureCountWrong += 1
+
 def score(answer1, answer2):
     global correctNum
     if (answer1 == answer2):
         correctNum += 1
         if debugLevel > 1: print("Matches: \"" + str(answer1) + "\" matches \"" + str(answer2) + "\"")
+        checkIfExFailed(answer1, True)
         return
+    # now trying to find equation to evaluate
     pattern = r"[^\(\)\-+/*.\d]?([\(\)\-+/*.\d]+)[^\(\)\-+/*.\d]?"
     matches1 = re.findall(pattern, answer1)
     matches2 = re.findall(pattern, answer2)
@@ -31,6 +45,7 @@ def score(answer1, answer2):
                         print(matches2[0])
                     correctNum += 1
                     if debugLevel > 1: print("Evaluation of: \"" + str(answer1) + "\" matches \"" + str(answer2) + "\"")
+                    checkIfExFailed(answer1, True)
                     return
             except:
                 if debugLevel > 3:
@@ -43,10 +58,12 @@ def score(answer1, answer2):
         if check_not_surrounded_by_chars(answer1, answer2):
             correctNum += 1
             if debugLevel > 1: print("Matches: \"" + str(answer1) + "\" is found within \"" + str(answer2) + "\"")
+            checkIfExFailed(answer1, True)
             return
         if debugLevel > 2: print("Found equation characters around it. No match.\n")
     global wrongNum
     wrongNum += 1
+    checkIfExFailed(answer1, False)
     if debugLevel > 1: print("Wrong: \"" + str(answer1) + "\" doesn't match \"" + str(answer2) + "\"")
 
 # this should deal with some instances of seeing a smaller length answer being found within chatgpt's answer
@@ -150,10 +167,10 @@ def gradeFiles(original_file_path, GPT_file_path):
                 print("Problem #" + match.group(1))
         if debugLevel > 1: print("Original File: " + originalFile)
         correctSolution = extract.extractAnswer(openJsonFile(originalFile), debugLevel)
-        if "ExtractionFailed" in correctSolution: 
-            addErrorFile("Extraction Failed")
-            global extractionFailureCount
-            extractionFailureCount += 1
+        # if "ExtractionFailed" in correctSolution: 
+        #     addErrorFile("Extraction Failed")
+        #     global extractionFailureCount
+        #     extractionFailureCount += 1
         if debugLevel > 0: print("Answer from Original: " + str(correctSolution))
 
         if debugLevel > 1: print("\nGPT File: " + GPTFile)
@@ -167,10 +184,10 @@ def gradeFiles(original_file_path, GPT_file_path):
     print("Matching Answers: " + str(correctNum) 
         + "\nWrong Answers   : " + str(wrongNum)
         + "\nTotal Answers   : " + str(correctNum+wrongNum)
-        + "\n\nComparisons if Ignoring " + str(extractionFailureCount) + " Failed Extractions."
-        + "\nMatching Answers: " + str(correctNum-extractionFailureCount if correctNum > extractionFailureCount else 0) 
-        + "\nWrong Answers   : " + str(wrongNum-extractionFailureCount if wrongNum > extractionFailureCount else 0)
-        + "\nTotal Answers   : " + str(correctNum+wrongNum-extractionFailureCount)
+        + "\n\nComparisons if Ignoring " + str(extractionFailureCountMatches+extractionFailureCountWrong) + " Failed Extractions."
+        + "\nMatching Answers: " + str(correctNum-extractionFailureCountMatches if correctNum > extractionFailureCountMatches else 0) 
+        + "\nWrong Answers   : " + str(wrongNum-extractionFailureCountWrong if wrongNum > extractionFailureCountWrong else 0)
+        + "\nTotal Answers   : " + str(correctNum+wrongNum-(extractionFailureCountMatches+extractionFailureCountWrong))
         )
     
     if debugLevel > 0: 
@@ -184,13 +201,15 @@ def main(args):
     global debugLevel
     global currentFile
     global errorFiles
-    global extractionFailureCount
+    global extractionFailureCountMatches
+    global extractionFailureCountWrong
 
     currentFile = ""
     errorFiles = []
     correctNum = 0
     wrongNum = 0
-    extractionFailureCount = 0
+    extractionFailureCountMatches = 0
+    extractionFailureCountWrong = 0
     '''
         The higher the level, the more info is printed
          0 for only results at the end

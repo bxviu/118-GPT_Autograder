@@ -1,0 +1,131 @@
+File: persona_short_answer_check_date-4-22_algebra.txt
+
+Matching Answers: 25
+Wrong Answers   : 47
+Total Answers   : 72
+
+25/72 ~= 0.3472 = 34.722%
+
+Comparisons if Ignoring 0 Failed Extractions.
+Matching Answers: 25
+Wrong Answers   : 47
+Total Answers   : 72
+
+25/72 ~= 0.3472 = 34.722%
+
+
+-------------------------
+
+File: persona_short_answer_check_date-4-22_counting_and_probability.txt
+
+Matching Answers: 14
+Wrong Answers   : 58
+Total Answers   : 72
+
+14/72 ~= 0.1944 = 19.444%
+
+Comparisons if Ignoring 0 Failed Extractions.
+Matching Answers: 14
+Wrong Answers   : 58
+Total Answers   : 72
+
+14/72 ~= 0.1944 = 19.444%
+
+
+-------------------------
+
+File: persona_short_answer_check_date-4-22_geometry.txt
+
+Matching Answers: 12
+Wrong Answers   : 60
+Total Answers   : 72
+
+12/72 ~= 0.1666 = 16.666%
+
+Comparisons if Ignoring 0 Failed Extractions.
+Matching Answers: 12
+Wrong Answers   : 60
+Total Answers   : 72
+
+12/72 ~= 0.1666 = 16.666%
+
+
+-------------------------
+
+File: persona_short_answer_check_date-4-22_intermediate_algebra.txt
+
+Matching Answers: 9
+Wrong Answers   : 62
+Total Answers   : 71
+
+9/71 ~= 0.1267 = 12.676%
+
+Comparisons if Ignoring 0 Failed Extractions.
+Matching Answers: 9
+Wrong Answers   : 62
+Total Answers   : 71
+
+9/71 ~= 0.1267 = 12.676%
+
+
+-------------------------
+
+File: persona_short_answer_check_date-4-22_number_theory.txt
+
+Matching Answers: 15
+Wrong Answers   : 56
+Total Answers   : 71
+
+15/71 ~= 0.2112 = 21.126%
+
+Comparisons if Ignoring 0 Failed Extractions.
+Matching Answers: 15
+Wrong Answers   : 56
+Total Answers   : 71
+
+15/71 ~= 0.2112 = 21.126%
+
+
+-------------------------
+
+File: persona_short_answer_check_date-4-22_prealgebra.txt
+
+Matching Answers: 30
+Wrong Answers   : 41
+Total Answers   : 71
+
+30/71 ~= 0.4225 = 42.253%
+
+Comparisons if Ignoring 0 Failed Extractions.
+Matching Answers: 30
+Wrong Answers   : 41
+Total Answers   : 71
+
+30/71 ~= 0.4225 = 42.253%
+
+
+-------------------------
+
+File: persona_short_answer_check_date-4-22_precalculus.txt
+
+Matching Answers: 9
+Wrong Answers   : 62
+Total Answers   : 71
+
+9/71 ~= 0.1267 = 12.676%
+
+Comparisons if Ignoring 4 Failed Extractions.
+Matching Answers: 8
+Wrong Answers   : 59
+Total Answers   : 67
+
+8/67 ~= 0.1194 = 11.940%
+
+
+-------------------------
+
+Total:
+114/500 ~= 0.228 = 22.8%
+
+Total if Ignoring 4 Failed Extractions:
+113/496 ~= 0.2278 = 22.782%

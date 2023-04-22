@@ -1,0 +1,131 @@
+File: persona_low_confidence_check_date-4-22_algebra.txt
+
+Matching Answers: 24
+Wrong Answers   : 48
+Total Answers   : 72
+
+24/72 ~= 0.3333 = 33.333%
+
+Comparisons if Ignoring 0 Failed Extractions.
+Matching Answers: 24
+Wrong Answers   : 48
+Total Answers   : 72
+
+24/72 ~= 0.3333 = 33.333%
+
+
+-------------------------
+
+File: persona_low_confidence_check_date-4-22_counting_and_probability.txt
+
+Matching Answers: 18
+Wrong Answers   : 54
+Total Answers   : 72
+
+18/72 ~= 0.25 = 25.0%
+
+Comparisons if Ignoring 0 Failed Extractions.
+Matching Answers: 18
+Wrong Answers   : 54
+Total Answers   : 72
+
+18/72 ~= 0.25 = 25.0%
+
+
+-------------------------
+
+File: persona_low_confidence_check_date-4-22_geometry.txt
+
+Matching Answers: 18
+Wrong Answers   : 54
+Total Answers   : 72
+
+18/72 ~= 0.25 = 25.0%
+
+Comparisons if Ignoring 0 Failed Extractions.
+Matching Answers: 18
+Wrong Answers   : 54
+Total Answers   : 72
+
+18/72 ~= 0.25 = 25.0%
+
+
+-------------------------
+
+File: persona_low_confidence_check_date-4-22_intermediate_algebra.txt
+
+Matching Answers: 12
+Wrong Answers   : 59
+Total Answers   : 71
+
+12/71 ~= 0.1690 = 16.901%
+
+Comparisons if Ignoring 0 Failed Extractions.
+Matching Answers: 12
+Wrong Answers   : 59
+Total Answers   : 71
+
+12/71 ~= 0.1690 = 16.901%
+
+
+-------------------------
+
+File: persona_low_confidence_check_date-4-22_number_theory.txt
+
+Matching Answers: 21
+Wrong Answers   : 50
+Total Answers   : 71
+
+21/71 ~= 0.2957 = 29.577%
+
+Comparisons if Ignoring 0 Failed Extractions.
+Matching Answers: 21
+Wrong Answers   : 50
+Total Answers   : 71
+
+21/71 ~= 0.2957 = 29.577%
+
+
+-------------------------
+
+File: persona_low_confidence_check_date-4-22_prealgebra.txt
+
+Matching Answers: 33
+Wrong Answers   : 38
+Total Answers   : 71
+
+33/71 ~= 0.4647 = 46.478%
+
+Comparisons if Ignoring 0 Failed Extractions.
+Matching Answers: 33
+Wrong Answers   : 38
+Total Answers   : 71
+
+33/71 ~= 0.4647 = 46.478%
+
+
+-------------------------
+
+File: persona_low_confidence_check_date-4-22_precalculus.txt
+
+Matching Answers: 9
+Wrong Answers   : 62
+Total Answers   : 71
+
+9/71 ~= 0.1267 = 12.676%
+
+Comparisons if Ignoring 4 Failed Extractions.
+Matching Answers: 8
+Wrong Answers   : 59
+Total Answers   : 67
+
+8/67 ~= 0.1194 = 11.940%
+
+
+-------------------------
+
+Total:
+135/500 ~= 0.27 = 27.0%
+
+Total if Ignoring 4 Failed Extractions:
+134/496 ~= 0.2701 = 27.016%
