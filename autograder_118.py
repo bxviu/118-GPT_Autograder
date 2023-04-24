@@ -112,6 +112,7 @@ def getJsonFiles(original_file_path, GPT_file_path):
     fileCount = 0
     if debugLevel > 1: invalidFileNum = 0
     
+    # this does nothing if the list is empty (only for testing specific files)
     checkFileList = []#[1123, 1569, 1724, 1810, 2395, 2486, 313]#[2]#,2]#,51,230,327,872,1043,1349,1123]#[291]#[1810]#[706]#[876, 2257, 2253, 2216, 2193]
     for file in checkFileList:
         file = str(file) + ".json"
@@ -147,7 +148,7 @@ def getJsonFiles(original_file_path, GPT_file_path):
             fileCount += 1
         if fileCount % 100 == 0 and debugLevel > 1:
             print("Found " + str(fileCount) + " files.")
-            if debugLevel > 2: print("Currently found" + str(invalidFileNum) + " files that do not have corresponding answer file in GPT directory")
+            if debugLevel > 2 and invalidFileNum > 0: print("Currently found " + str(invalidFileNum) + " files that do not have corresponding answer file in GPT directory")
         
     if debugLevel > 1 and invalidFileNum > 0: print("Found " + str(invalidFileNum) + " files that do not have corresponding answer file in GPT directory. They will be ignored.")
 
@@ -168,10 +169,6 @@ def gradeFiles(original_file_path, GPT_file_path):
                 print("Problem #" + match.group(1))
         if debugLevel > 1: print("Original File: " + originalFile)
         correctSolution = extract.extractAnswer(openJsonFile(originalFile), debugLevel)
-        # if "ExtractionFailed" in correctSolution: 
-        #     addErrorFile("Extraction Failed")
-        #     global extractionFailureCount
-        #     extractionFailureCount += 1
         if debugLevel > 0: print("Answer from Original: " + str(correctSolution))
 
         if debugLevel > 1: print("\nGPT File: " + GPTFile)

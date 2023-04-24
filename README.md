@@ -1,8 +1,26 @@
-This program takes in the files from Juan and compares the answers ChatGPT gives with the given solutions within the files. It first tries to extract the solution
+This program takes in file paths and compares the answers ChatGPT gives with the given solutions within the files. It first tries to extract the solution
 from the files, and then compares ChatGPT's answer with the given answer. It counts the amount of correct and incorrect answers and prints them out at the end.
 
-to use it, first make sure you know the paths to the folders holding the solutions
-Usage: python3 GPT_autograding_script.py <path/to/original/answer/directory/> <path/to/GPT/answer/directory/> <debug level>"
+To use it, first make sure you know the paths to the folders holding the solutions
+Also make sure they follow the same json format as the original MATH dataset
+
+There is a pipeline to automatically autograde a whole folder of the math topics in MATH:
+118GPT_autograding_script.py
+
+Usage:
+To type in settings seperately:
+python3 118GPT_autograding_script.py
+
+To type in settings in the command line:
+python3 118GPT_autograding_script.py grouped <path/to/folder/containing/all/math/topic/folders/> <output_file_base_name> [debug_level]
+python3 118GPT_autograding_script.py seperate <path/to/folder/containing/math/topic/folders/answers> <path/to/folder/containing/gpt/topic/folders/answers> <output_file_base_name> [debug_level]
+
+To autograde only a specific math topic, such as algebra, use:
+autograder_118.py
+
+Usage: 
+python3 autograder_118.py <path/to/original/math/topic/answer/directory/> <path/to/GPT/math/topic/answer/directory/> [debug level]
+
 For the debug level:
     The higher the level, the more info is printed
         0 for only results at the end (this is the default if no debug level is provided)
