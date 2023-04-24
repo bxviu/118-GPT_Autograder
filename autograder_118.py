@@ -143,12 +143,13 @@ def getJsonFiles(original_file_path, GPT_file_path):
                 addErrorFile("No Comparison File")
                 if debugLevel > 1:
                     invalidFileNum += 1
-                if debugLevel > 2: print(file + " does not have corresponding answer file in GPT directory")
+                # if debugLevel > 2: print(file + " does not have corresponding answer file in GPT directory")
             fileCount += 1
         if fileCount % 100 == 0 and debugLevel > 1:
             print("Found " + str(fileCount) + " files.")
+            if debugLevel > 2: print("Currently found" + str(invalidFileNum) + " files that do not have corresponding answer file in GPT directory")
         
-    if debugLevel > 1 and invalidFileNum > 0: print("Found " + str(invalidFileNum) + " files that do not have corresponding answer file in GPT directory. Find them or something idk")
+    if debugLevel > 1 and invalidFileNum > 0: print("Found " + str(invalidFileNum) + " files that do not have corresponding answer file in GPT directory. They will be ignored.")
 
     return (jsonListOrig, jsonListGPT)
 

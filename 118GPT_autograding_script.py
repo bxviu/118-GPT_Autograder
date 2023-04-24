@@ -2,72 +2,59 @@ import subprocess
 import sys
 import os
 
+''' 
+gets file paths, amount depending on option chosen
+for each folder (algebra, counting_and_probability, geometry, intermediate_algebra, number_theory, prealgebra, precalculus)
+run autograding script
+add results
+print results
+save results
+command line input is folder holding everything, output file base name, debug level
+'''
 def main():
     # if len(sys.argv) < 2:
     #     # also make sure the files are named appropriately
     #     raise Exception("Need more arguments, Usage: python3 118GPT_autograding_script.py <path/to/folder/containing/all/math/topic/folders/> <output_file_base_name> [debug_level]")
-    debugLevel = "0"
+    debugLevel = ""
     # if len(sys.argv) > 3:    
     #     debugLevel = sys.argv[3] if sys.argv[3].isnumeric() else debugLevel
-    ''' 
-    gets file paths, amount depending on option chosen
-    for each folder (algebra, counting_and_probability, geometry, intermediate_algebra, number_theory, prealgebra, precalculus)
-    run autograding script
-    add results
-    print results
-    save results
-    command line input is folder holding everything, output file base name, debug level
-    '''
+
+    # global math_topics
     math_topics = ["algebra", "counting_and_probability", "geometry", "intermediate_algebra", "number_theory", "prealgebra", "precalculus"]
     # file_base_name  = sys.argv[2] #"test_results.txt"
     # args = sys.argv[1:]
     # rootdir = sys.argv[1]
-
     folder_structure = ""
+    rootdir = ""
     while folder_structure != "y" and folder_structure != "n":
         folder_structure = input("Are the chatgpt answers a subfolder of a folder containing the original dataset's json files? (y/n): ")
-    
+    # rootdir,file_base_name = getGradingSettings()
+    print("This program will change your \"\\\" automatically to a \"/\" (this is for me to easily copy and paste the file paths)")
     if folder_structure == "y":
-        print("havent checked to see if this works yet, will do later, had to make the other method to deal with some new file structures i hadn't thought of")
         while not os.path.exists(rootdir):
-            print("not checking for errors in your typing so please spell stuff correctly")
             rootdir = input("Please enter the path to the folder containing everything: ")
-            file_base_name = input("Please enter the base name of the file to save the results in (ex: test_results (don't add .txt)): ")
-            debugLevel = input("Please enter the debug level (0-4) for the results: ")
-            answersInSameDirectory(math_topics, rootdir, file_base_name, debugLevel)
-    else:
-        rootdir = input("Please enter the path to the folder containing dataset answers: ")
-        gptanswers = input("Please enter the path to the folder containing chatGPT's answers: ")
+            rootdir = rootdir.replace("\\", "/")
+            print(rootdir)
         file_base_name = input("Please enter the base name of the file to save the results in (ex: test_results (don't add .txt)): ")
-        debugLevel = input("Please enter the debug level (0-4) for the results: ")
+        while not debugLevel.isnumeric() or int(debugLevel) < 0 or int(debugLevel) > 4:
+            debugLevel = input("Please enter the debug level (0-4) for the results (pressing enter will default to 0): ")
+        print()
+        answersInSameDirectory(math_topics, rootdir, file_base_name, debugLevel)
+    else:
+        while not os.path.exists(rootdir):
+            rootdir = input("Please enter the path to the folder containing dataset answers: ")
+            rootdir = rootdir.replace("\\", "/")
+        gptanswers = ""
+        while not os.path.exists(gptanswers):
+            gptanswers = input("Please enter the path to the folder containing chatGPT's answers: ")
+            gptanswers = gptanswers.replace("\\", "/")
+        file_base_name = input("Please enter the base name of the file to save the results in (ex: test_results (don't add .txt)): ")
+        while not debugLevel.isnumeric() or int(debugLevel) < 0 or int(debugLevel) > 4:
+            debugLevel = input("Please enter the debug level (0-4) for the results (pressing enter will default to 0): ")
+        print()
         answersInDiffDirectory(math_topics, rootdir, gptanswers, file_base_name, debugLevel)    
 
-    # args_for_autograder = []
-    '''for subdir, dirs, files in os.walk(rootdir):
-        for dir in dirs:
-            # find the math topics folders
-            if dir in math_topics:
-                # print(os.path.join(subdir, dir))
-                args_for_autograder.append(os.path.join(subdir, dir))
-                # looks for subdirectory called /answers/
-                for subsubdir, subdirs, files in os.walk(os.path.join(subdir, dir)):
-                    for answersubdir in subdirs:
-                        # change this if the answers folder is not named answers
-                        if answersubdir == "answers":
-                            # print(os.path.join(subsubdir, answersubdir))
-                            args_for_autograder.append(os.path.join(subsubdir, answersubdir))
-                            # print(args_for_autograder)
-                            args_for_autograder.append(debugLevel)
-                            output_file = file_base_name + "_" + dir + ".txt"
-                            print("Running autograder for " + dir + " in " + rootdir + " with output file: " + output_file)
-                            run_autograder(args_for_autograder, output_file)
-                            print("Finished running autograder for " + dir + " in " + rootdir + "\n")
-                            args_for_autograder.clear()
-                            break
-                # couldn't find answers folder, clear args
-                if len(args_for_autograder) < 2:
-                    args_for_autograder.clear()'''
-    print("Finished running autograder for all topics in " + rootdir)
+    print("Finished running autograder for " + rootdir)
     print("Adding the results for each folder...\n")
     '''
     for each test file
@@ -197,7 +184,7 @@ def answersInDiffDirectory(math_topics, answers, gptanswers, file_base_name, deb
                 # if len(args_for_autograder) < 2:
                 #     args_for_autograder.clear()
 
-def answersInSameDirectory(math_topics, rootdir, debugLevel, file_base_name):
+def answersInSameDirectory(math_topics, rootdir, file_base_name, debugLevel):
     '''
     autogrades a folder structure that has master folder, 
     with each math topic folder containing the original dataset's 
@@ -274,15 +261,49 @@ def output_to_file(file_name, lines, scores, file):
         f.write(lines[3] + lines[4] + lines[5] + lines[6] + "\n" + str(scores[1][0]) + "/" + str(scores[1][1]) 
                 + " ~= " + str(scoreNoFails)[:tdp] + " = " +  str(scoreNoFails * 100)[:tdp] + "%\n")
         f.write("\n\n-------------------------\n\n")
+
+def getGradingSettings():
+    folder_structure = ""
+    rootdir = ""
+    # global math_topics
+    while folder_structure != "y" and folder_structure != "n":
+        folder_structure = input("Are the chatgpt answers a subfolder of a folder containing the original dataset's json files? (y/n): ")
+
+    print("This program will change your \"\\\" automatically to a \"/\" (this is for me to easily copy and paste the file paths)")
     
+    if folder_structure == "y":
+        while not os.path.exists(rootdir):
+            rootdir = input("Please enter the path to the folder containing everything: ")
+            rootdir = rootdir.replace("\\", "/")
+            print(rootdir)
+        file_base_name = input("Please enter the base name of the file to save the results in (ex: test_results (don't add .txt)): ")
+        while not debugLevel.isnumeric() or int(debugLevel) < 0 or int(debugLevel) > 4:
+            debugLevel = input("Please enter the debug level (0-4) for the results (pressing enter will default to 0): ")
+        answersInSameDirectory(math_topics, rootdir, file_base_name, debugLevel)
+    else:
+        while not os.path.exists(rootdir):
+            rootdir = input("Please enter the path to the folder containing dataset answers: ")
+            rootdir = rootdir.replace("\\", "/")
+        gptanswers = ""
+        while not os.path.exists(gptanswers):
+            gptanswers = input("Please enter the path to the folder containing chatGPT's answers: ")
+            gptanswers = gptanswers.replace("\\", "/")
+        file_base_name = input("Please enter the base name of the file to save the results in (ex: test_results (don't add .txt)): ")
+        while not debugLevel.isnumeric() or int(debugLevel) < 0 or int(debugLevel) > 4:
+            debugLevel = input("Please enter the debug level (0-4) for the results (pressing enter will default to 0): ")
+        answersInDiffDirectory(math_topics, rootdir, gptanswers, file_base_name, debugLevel)    
+
+    return (rootdir, file_base_name)
+
 def run_autograder(args, output_file):
     with open(output_file, "w") as f:
         # replace with python directory, you could use "which python" (this is what i used to find it)
-        # print(args)
         subprocess.run(["/usr/bin/python3", "autograder_118.py"] + args, stdout=f)
 
 if __name__ == "__main__":
     # truncate decimalplace
+    # global math_topics
+    # math_topics = []
     global tdp
     tdp = 6
     main()
