@@ -1,0 +1,131 @@
+File: persona_specific_student_date-4-26_algebra.txt
+
+Matching Answers: 24
+Wrong Answers   : 48
+Total Answers   : 72
+
+24/72 ~= 0.3333 = 33.333%
+
+Comparisons if Ignoring 0 Failed Extractions.
+Matching Answers: 24
+Wrong Answers   : 48
+Total Answers   : 72
+
+24/72 ~= 0.3333 = 33.333%
+
+
+-------------------------
+
+File: persona_specific_student_date-4-26_counting_and_probability.txt
+
+Matching Answers: 16
+Wrong Answers   : 56
+Total Answers   : 72
+
+16/72 ~= 0.2222 = 22.222%
+
+Comparisons if Ignoring 0 Failed Extractions.
+Matching Answers: 16
+Wrong Answers   : 56
+Total Answers   : 72
+
+16/72 ~= 0.2222 = 22.222%
+
+
+-------------------------
+
+File: persona_specific_student_date-4-26_geometry.txt
+
+Matching Answers: 15
+Wrong Answers   : 57
+Total Answers   : 72
+
+15/72 ~= 0.2083 = 20.833%
+
+Comparisons if Ignoring 0 Failed Extractions.
+Matching Answers: 15
+Wrong Answers   : 57
+Total Answers   : 72
+
+15/72 ~= 0.2083 = 20.833%
+
+
+-------------------------
+
+File: persona_specific_student_date-4-26_intermediate_algebra.txt
+
+Matching Answers: 8
+Wrong Answers   : 63
+Total Answers   : 71
+
+8/71 ~= 0.1126 = 11.267%
+
+Comparisons if Ignoring 0 Failed Extractions.
+Matching Answers: 8
+Wrong Answers   : 63
+Total Answers   : 71
+
+8/71 ~= 0.1126 = 11.267%
+
+
+-------------------------
+
+File: persona_specific_student_date-4-26_number_theory.txt
+
+Matching Answers: 21
+Wrong Answers   : 50
+Total Answers   : 71
+
+21/71 ~= 0.2957 = 29.577%
+
+Comparisons if Ignoring 0 Failed Extractions.
+Matching Answers: 21
+Wrong Answers   : 50
+Total Answers   : 71
+
+21/71 ~= 0.2957 = 29.577%
+
+
+-------------------------
+
+File: persona_specific_student_date-4-26_prealgebra.txt
+
+Matching Answers: 35
+Wrong Answers   : 36
+Total Answers   : 71
+
+35/71 ~= 0.4929 = 49.295%
+
+Comparisons if Ignoring 0 Failed Extractions.
+Matching Answers: 35
+Wrong Answers   : 36
+Total Answers   : 71
+
+35/71 ~= 0.4929 = 49.295%
+
+
+-------------------------
+
+File: persona_specific_student_date-4-26_precalculus.txt
+
+Matching Answers: 8
+Wrong Answers   : 63
+Total Answers   : 71
+
+8/71 ~= 0.1126 = 11.267%
+
+Comparisons if Ignoring 4 Failed Extractions.
+Matching Answers: 7
+Wrong Answers   : 60
+Total Answers   : 67
+
+7/67 ~= 0.1044 = 10.447%
+
+
+-------------------------
+
+Total:
+127/500 ~= 0.254 = 25.4%
+
+Total if Ignoring 4 Failed Extractions:
+126/496 ~= 0.2540 = 25.403%
