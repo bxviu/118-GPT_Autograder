@@ -2,6 +2,9 @@ import subprocess
 import sys
 import os
 
+global tdp
+tdp = 6
+
 def main():
     ''' 
     gets file paths, amount depending on option chosen
@@ -269,6 +272,6 @@ def output_score_to_file(file_name, lines, scores, file):
 
 if __name__ == "__main__":
     # truncate decimalplace
-    global tdp
-    tdp = 6
+    # global tdp
+    # tdp = 6
     main()
